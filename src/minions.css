@@ -9,6 +9,12 @@
 .d-t  { display: table; }
 .d-tc { display: table-cell; }
 
+/* float */
+
+.f-l { float: left; }
+.f-n { float: none; }
+.f-r { float: right; }
+
 /* visibility */
 
 .v-h { visibility: hidden; }
