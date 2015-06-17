@@ -1,0 +1,31 @@
+/* colors */
+
+.c-n  { color: navy; }
+.c-b  { color: blue; }
+.c-a  { color: aqua; }
+.c-t  { color: teal; }
+.c-oe { color: olive; }
+.c-g  { color: green; }
+.c-l  { color: lime; }
+.c-y  { color: yellow; }
+.c-o  { color: orange; }
+.c-r  { color: red; }
+.c-m  { color: maroon; }
+.c-f  { color: fuchsia; }
+.c-p  { color: purple; }
+.c-gy { color: gray; }
+.c-s  { color: silver; }
+
+.c-k  { color: hsl(0, 0%, 0%); }
+.c-k9 { color: hsl(0, 0%, 10%); }
+.c-k8 { color: hsl(0, 0%, 20%); }
+.c-k7 { color: hsl(0, 0%, 30%); }
+.c-k6 { color: hsl(0, 0%, 40%); }
+.c-k5 { color: hsl(0, 0%, 50%); }
+
+.c-w  { color: hsl(0, 0%, 100%); }
+.c-w9 { color: hsl(0, 0%, 90%); }
+.c-w8 { color: hsl(0, 0%, 80%); }
+.c-w7 { color: hsl(0, 0%, 70%); }
+.c-w6 { color: hsl(0, 0%, 60%); }
+.c-w5 { color: hsl(0, 0%, 60%); }

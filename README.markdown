@@ -51,6 +51,18 @@ WIP
 
 ### Defaults
 
+#### colors
+
+`g` and `o` have duplicates. The single-character version is what I imagine the
+expectation to be.
+
+Duplicates use the first and last character:
+  `gy` = `gray`
+  `oe` = `olive`
+
+black and white have 5 shades. There are only 5 to enforce a11y contrast
+recommendations.
+
 #### borders
 
 `border` rules include `border-style: solid". Feel absolutely free to add your
