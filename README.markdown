@@ -25,7 +25,7 @@ WIP
     d   = display
     v   = visibility
     o   = opacity
-    of  = overflow
+    o   = overflow (no conflicts with opacity )
     f   = float
     cf  = clearfix
     fb  = flexbox
@@ -70,3 +70,8 @@ own classes for style. It's just not something I do enough to justify a class.
 
 `.b` is a shorthand for `border-width`. With styles assumed, width is the only
 property needed to show some type of border.
+
+#### overflow
+
+`opacity` and `overflow` don't have any conflicts. so they are both `o`
+prefixed.

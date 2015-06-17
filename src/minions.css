@@ -28,6 +28,28 @@
 .o-09 { opacity: .9 }
 .o-1  { opacity: 1 }
 
+/* opacity */
+
+.o-a { overflow: auto }
+.o-h { overflow: hidden }
+.o-s { overflow: scroll }
+.o-v { overflow: visible }
+
+.ox-a { overflow-x: auto }
+.ox-h { overflow-x: hidden }
+.ox-s { overflow-x: scroll }
+.ox-v { overflow-x: visible }
+
+.oy-a { overflow-y: auto }
+.oy-h { overflow-y: hidden }
+.oy-s { overflow-y: scroll }
+.oy-v { overflow-y: visible }
+
+.-wos {
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
 /* colors */
 
 .c-n  { color: navy; }
