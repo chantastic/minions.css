@@ -56,6 +56,54 @@
   -webkit-overflow-scrolling: touch;
 }
 
+/* margin */
+
+.m-0  { margin: 0 }
+.m-1  { margin: 1px }
+.m-2  { margin: 2px }
+.m-3  { margin: 3px }
+.m-4  { margin: 4px }
+.m-5  { margin: 5px }
+.m-6  { margin: 6px }
+.m-7  { margin: 7px }
+.m-8  { margin: 8px }
+.m-9  { margin: 9px }
+.m-10 { margin: 10px }
+.m-11 { margin: 11px }
+.m-12 { margin: 12px }
+.m-13 { margin: 13px }
+.m-14 { margin: 14px }
+.m-15 { margin: 15px }
+.m-16 { margin: 16px }
+.m-17 { margin: 17px }
+.m-18 { margin: 18px }
+.m-19 { margin: 19px }
+.m-20 { margin: 20px }
+.m-21 { margin: 21px }
+.m-22 { margin: 22px }
+.m-23 { margin: 23px }
+.m-24 { margin: 24px }
+.m-25 { margin: 25px }
+.m-26 { margin: 26px }
+.m-27 { margin: 27px }
+.m-28 { margin: 28px }
+.m-29 { margin: 29px }
+.m-30 { margin: 30px }
+.m-31 { margin: 31px }
+.m-32 { margin: 32px }
+
+.m-1x  { margin: 1em }
+.m-2x  { margin: 2em }
+.m-3x  { margin: 3em }
+.m-4x  { margin: 4em }
+.m-5x  { margin: 5em }
+
+.m-1xr  { margin: 1rem }
+.m-2xr  { margin: 2rem }
+.m-3xr  { margin: 3rem }
+.m-4xr  { margin: 4rem }
+.m-5xr  { margin: 5rem }
+
 /* colors */
 
 .c-n  { color: navy; }
