@@ -14,6 +14,20 @@
 .v-h { visibility: hidden; }
 .v-v { visibility: visible; }
 
+/* opacity */
+
+.o-0  { opacity: 0 }
+.o-01 { opacity: .1 }
+.o-02 { opacity: .2 }
+.o-03 { opacity: .3 }
+.o-04 { opacity: .4 }
+.o-05 { opacity: .5 }
+.o-06 { opacity: .6 }
+.o-07 { opacity: .7 }
+.o-08 { opacity: .8 }
+.o-09 { opacity: .9 }
+.o-1  { opacity: 1 }
+
 /* colors */
 
 .c-n  { color: navy; }
