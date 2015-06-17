@@ -9,6 +9,11 @@
 .d-t  { display: table; }
 .d-tc { display: table-cell; }
 
+/* visibility */
+
+.v-h { visibility: hidden; }
+.v-v { visibility: visible; }
+
 /* colors */
 
 .c-n  { color: navy; }
