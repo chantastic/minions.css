@@ -1,0 +1,17 @@
+{
+  "name": "minions.css",
+  "version": "0.0.1",
+  "description": "evil micro-classes",
+  "main": "minions.css",
+  "authors": [
+    "Michael Chan (@chantastic)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
