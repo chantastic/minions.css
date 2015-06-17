@@ -22,13 +22,20 @@ WIP
     {property-shortand}-{value-shorthand}
 
 ### lexicon
-    d  = display
-    f  = float
-    m  = margin
-    b  = border
-    p  = padding
-    c  = color
-    bc = background-color
+    d   = display
+    v   = visibility
+    o   = opacity
+    of  = overflow
+    f   = float
+    cf  = clearfix
+    fb  = flexbox
+    m   = margin
+    b   = border (border-width shorthand)
+    bc  = border-color
+    bw  = border-width
+    p   = padding
+    c   = color
+    bgc = background-color
 
 ### Measurement
 
@@ -41,3 +48,13 @@ WIP
     m-2x  = { margin: 2em }
     m-1xr = { margin: 1rem }
     m-2xr = { margin: 2rem }
+
+### Defaults
+
+#### borders
+
+`border` rules include `border-style: solid". Feel absolutely free to add your
+own classes for style. It's just not something I do enough to justify a class.
+
+`.b` is a shorthand for `border-width`. With styles assumed, width is the only
+property needed to show some type of border.
