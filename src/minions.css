@@ -303,3 +303,35 @@
 .c-w7 { color: hsl(0, 0%, 70%); }
 .c-w6 { color: hsl(0, 0%, 60%); }
 .c-w5 { color: hsl(0, 0%, 60%); }
+
+/* background-color */
+
+.bgc-n  { background-color: navy; }
+.bgc-b  { background-color: blue; }
+.bgc-a  { background-color: aqua; }
+.bgc-t  { background-color: teal; }
+.bgc-oe { background-color: olive; }
+.bgc-g  { background-color: green; }
+.bgc-l  { background-color: lime; }
+.bgc-y  { background-color: yellow; }
+.bgc-o  { background-color: orange; }
+.bgc-r  { background-color: red; }
+.bgc-m  { background-color: maroon; }
+.bgc-f  { background-color: fuchsia; }
+.bgc-p  { background-color: purple; }
+.bgc-gy { background-color: gray; }
+.bgc-s  { background-color: silver; }
+
+.bgc-k  { background-color: hsl(0, 0%, 0%); }
+.bgc-k9 { background-color: hsl(0, 0%, 10%); }
+.bgc-k8 { background-color: hsl(0, 0%, 20%); }
+.bgc-k7 { background-color: hsl(0, 0%, 30%); }
+.bgc-k6 { background-color: hsl(0, 0%, 40%); }
+.bgc-k5 { background-color: hsl(0, 0%, 50%); }
+
+.bgc-w  { background-color: hsl(0, 0%, 100%); }
+.bgc-w9 { background-color: hsl(0, 0%, 90%); }
+.bgc-w8 { background-color: hsl(0, 0%, 80%); }
+.bgc-w7 { background-color: hsl(0, 0%, 70%); }
+.bgc-w6 { background-color: hsl(0, 0%, 60%); }
+.bgc-w5 { background-color: hsl(0, 0%, 60%); }
