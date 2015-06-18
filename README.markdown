@@ -78,11 +78,8 @@ prefixed.
 
 #### margin
 
-I wanted margin to default to pixels. It makes sense to me and makes sense in
-React, where I'll be using it the most.
-
-I capped out at 32. I wanted base-ems worth of control before jumping into
-relative values.
+`margin` is all calculated relative to font-size. It's hard to imagine a general
+case where you would want a 1px margin.
 
 `x` is for `em`. think `1 x font-size`
 `xr` is for `rem`. think `1 x root-font-size`
