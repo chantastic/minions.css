@@ -76,9 +76,9 @@ property needed to show some type of border.
 `opacity` and `overflow` don't have any conflicts. so they are both `o`
 prefixed.
 
-#### margin
+#### margin / padding
 
-`margin` is all calculated relative to font-size. It's hard to imagine a general
+`margin` and `padding` are calculated relative to font-size. It's hard to imagine a general
 case where you would want a 1px margin.
 
 `x` is for `em`. think `1 x font-size`
