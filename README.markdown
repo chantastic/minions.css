@@ -71,6 +71,8 @@ own classes for style. It's just not something I do enough to justify a class.
 `.b` is a shorthand for `border-width`. With styles assumed, width is the only
 property needed to show some type of border.
 
+`borders` values are pixels.
+
 #### overflow
 
 `opacity` and `overflow` don't have any conflicts. so they are both `o`
