@@ -335,3 +335,35 @@
 .bgc-w7 { background-color: hsl(0, 0%, 70%); }
 .bgc-w6 { background-color: hsl(0, 0%, 60%); }
 .bgc-w5 { background-color: hsl(0, 0%, 60%); }
+
+/* border-color */
+
+.bc-n  { border-color: navy; }
+.bc-b  { border-color: blue; }
+.bc-a  { border-color: aqua; }
+.bc-t  { border-color: teal; }
+.bc-oe { border-color: olive; }
+.bc-g  { border-color: green; }
+.bc-l  { border-color: lime; }
+.bc-y  { border-color: yellow; }
+.bc-o  { border-color: orange; }
+.bc-r  { border-color: red; }
+.bc-m  { border-color: maroon; }
+.bc-f  { border-color: fuchsia; }
+.bc-p  { border-color: purple; }
+.bc-gy { border-color: gray; }
+.bc-s  { border-color: silver; }
+
+.bc-k  { border-color: hsl(0, 0%, 0%); }
+.bc-k9 { border-color: hsl(0, 0%, 10%); }
+.bc-k8 { border-color: hsl(0, 0%, 20%); }
+.bc-k7 { border-color: hsl(0, 0%, 30%); }
+.bc-k6 { border-color: hsl(0, 0%, 40%); }
+.bc-k5 { border-color: hsl(0, 0%, 50%); }
+
+.bc-w  { border-color: hsl(0, 0%, 100%); }
+.bc-w9 { border-color: hsl(0, 0%, 90%); }
+.bc-w8 { border-color: hsl(0, 0%, 80%); }
+.bc-w7 { border-color: hsl(0, 0%, 70%); }
+.bc-w6 { border-color: hsl(0, 0%, 60%); }
+.bc-w5 { border-color: hsl(0, 0%, 60%); }
