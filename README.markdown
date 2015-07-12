@@ -27,15 +27,19 @@ WIP
     o   = opacity
     o   = overflow (no conflicts with opacity )
     f   = float
-    cf  = clearfix
-    fb  = flexbox
     m   = margin
     b   = border (border-width shorthand)
     bc  = border-color
-    bw  = border-width
     p   = padding
     c   = color
     bgc = background-color
+
+needs
+
+    cf  = clearfix
+    fb  = flexbox ( could be `f` if no collisions )
+    bw  = border-width
+
 
 ### Measurement
 
@@ -48,6 +52,13 @@ WIP
     m-2x  = { margin: 2em }
     m-1xr = { margin: 1rem }
     m-2xr = { margin: 2rem }
+
+    m-0   = { margin: 0 }
+    m-1   = { margin: 1px }
+    m-xs  = { margin: .25em }
+    m-sm  = { margin: .5em }
+    m-md  = { margin: 1em }
+    m-lg  = { margin: 2em }
 
 ### Defaults
 
