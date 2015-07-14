@@ -58,6 +58,8 @@
 
 /* margin */
 
+/* -- px */
+
 .m-0     { margin:        0 }
   .mt-0  { margin-top:    0 }
   .mr-0  { margin-right:  0 }
@@ -66,101 +68,97 @@
   .mx-0  { margin-right:  0; margin-left:   0 }
   .my-0  { margin-top:    0; margin-bottom: 0 }
 
-.m-025x    { margin:        .25em }
-  .mt-025x { margin-top:    .25em }
-  .mr-025x { margin-right:  .25em }
-  .mb-025x { margin-bottom: .25em }
-  .ml-025x { margin-left:   .25em }
-  .mx-025x { margin-right:  .25em; margin-left:   .25em }
-  .my-025x { margin-top:    .25em; margin-bottom: .25em }
+.m-1     { margin:        1px }
+  .mt-1  { margin-top:    1px }
+  .mr-1  { margin-right:  1px }
+  .mb-1  { margin-bottom: 1px }
+  .ml-1  { margin-left:   1px }
+  .mx-1  { margin-right:  1px; margin-left:   1px }
+  .my-1  { margin-top:    1px; margin-bottom: 1px }
 
-.m-05x    { margin:        .5em }
-  .mt-05x { margin-top:    .5em }
-  .mr-05x { margin-right:  .5em }
-  .mb-05x { margin-bottom: .5em }
-  .ml-05x { margin-left:   .5em }
-  .mx-05x { margin-right:  .5em; margin-left:   .5em }
-  .my-05x { margin-top:    .5em; margin-bottom: .5em }
+.m-2     { margin:        2px }
+  .mt-2  { margin-top:    2px }
+  .mr-2  { margin-right:  2px }
+  .mb-2  { margin-bottom: 2px }
+  .ml-2  { margin-left:   2px }
+  .mx-2  { margin-right:  2px; margin-left:   2px }
+  .my-2  { margin-top:    2px; margin-bottom: 2px }
 
-.m-1x     { margin:        1em }
-  .mt-1x  { margin-top:    1em }
-  .mr-1x  { margin-right:  1em }
-  .mb-1x  { margin-bottom: 1em }
-  .ml-1x  { margin-left:   1em }
-  .mx-1x  { margin-right:  1em; margin-left:   1em }
-  .my-1x  { margin-top:    1em; margin-bottom: 1em }
+/* -- em */
 
-.m-2x     { margin:        2em }
-  .mt-2x  { margin-top:    2em }
-  .mr-2x  { margin-right:  2em }
-  .mb-2x  { margin-bottom: 2em }
-  .ml-2x  { margin-left:   2em }
-  .mx-2x  { margin-right:  2em; margin-left:   2em }
-  .my-2x  { margin-top:    2em; margin-bottom: 2em }
+.m-xs     { margin:        .25em }
+  .mt-xs  { margin-top:    .25em }
+  .mr-xs  { margin-right:  .25em }
+  .mb-xs  { margin-bottom: .25em }
+  .ml-xs  { margin-left:   .25em }
+  .mx-xs  { margin-right:  .25em; margin-left:   .25em }
+  .my-xs  { margin-top:    .25em; margin-bottom: .25em }
 
-.m-3x     { margin:        3em }
-  .mt-3x  { margin-top:    3em }
-  .mr-3x  { margin-right:  3em }
-  .mb-3x  { margin-bottom: 3em }
-  .ml-3x  { margin-left:   3em }
-  .mx-3x  { margin-right:  3em; margin-left:   3em }
-  .my-3x  { margin-top:    3em; margin-bottom: 3em }
+.m-sm     { margin:        .5em }
+  .mt-sm  { margin-top:    .5em }
+  .mr-sm  { margin-right:  .5em }
+  .mb-sm  { margin-bottom: .5em }
+  .ml-sm  { margin-left:   .5em }
+  .mx-sm  { margin-right:  .5em; margin-left:   .5em }
+  .my-sm  { margin-top:    .5em; margin-bottom: .5em }
 
-.m-4x     { margin:        4em }
-  .mt-4x  { margin-top:    4em }
-  .mr-4x  { margin-right:  4em }
-  .mb-4x  { margin-bottom: 4em }
-  .ml-4x  { margin-left:   4em }
-  .mx-4x  { margin-right:  4em; margin-left:   4em }
-  .my-4x  { margin-top:    4em; margin-bottom: 4em }
+.m-md     { margin:        1em }
+  .mt-md  { margin-top:    1em }
+  .mr-md  { margin-right:  1em }
+  .mb-md  { margin-bottom: 1em }
+  .ml-md  { margin-left:   1em }
+  .mx-md  { margin-right:  1em; margin-left:   1em }
+  .my-md  { margin-top:    1em; margin-bottom: 1em }
 
-.m-025xr    { margin:        .25rem }
-  .mt-025xr { margin-top:    .25rem }
-  .mr-025xr { margin-right:  .25rem }
-  .mb-025xr { margin-bottom: .25rem }
-  .ml-025xr { margin-left:   .25rem }
-  .mx-025xr { margin-right:  .25rem; margin-left:   .25rem }
-  .my-025xr { margin-top:    .25rem; margin-bottom: .25rem }
+.m-lg     { margin:        2em }
+  .mt-lg  { margin-top:    2em }
+  .mr-lg  { margin-right:  2em }
+  .mb-lg  { margin-bottom: 2em }
+  .ml-lg  { margin-left:   2em }
+  .mx-lg  { margin-right:  2em; margin-left:   .2em }
+  .my-lg  { margin-top:    2em; margin-bottom: .2em }
 
-.m-05xr    { margin:        .5rem }
-  .mt-05xr { margin-top:    .5rem }
-  .mr-05xr { margin-right:  .5rem }
-  .mb-05xr { margin-bottom: .5rem }
-  .ml-05xr { margin-left:   .5rem }
-  .mx-05xr { margin-right:  .5rem; margin-left:   .5rem }
-  .my-05xr { margin-top:    .5rem; margin-bottom: .5rem }
+.m-xl     { margin:        4em }
+  .mt-xl  { margin-top:    4em }
+  .mr-xl  { margin-right:  4em }
+  .mb-xl  { margin-bottom: 4em }
+  .ml-xl  { margin-left:   4em }
+  .mx-xl  { margin-right:  4em; margin-left:   .4em }
+  .my-xl  { margin-top:    4em; margin-bottom: .4em }
 
-.m-1xr     { margin:        1rem }
-  .mt-1xr  { margin-top:    1rem }
-  .mr-1xr  { margin-right:  1rem }
-  .mb-1xr  { margin-bottom: 1rem }
-  .ml-1xr  { margin-left:   1rem }
-  .mx-1xr  { margin-right:  1rem; margin-left:   1rem }
-  .my-1xr  { margin-top:    1rem; margin-bottom: 1rem }
+/* -- rem */
 
-.m-2xr     { margin:        2rem }
-  .mt-2xr  { margin-top:    2rem }
-  .mr-2xr  { margin-right:  2rem }
-  .mb-2xr  { margin-bottom: 2rem }
-  .ml-2xr  { margin-left:   2rem }
-  .mx-2xr  { margin-right:  2rem; margin-left:   2rem }
-  .my-2xr  { margin-top:    2rem; margin-bottom: 2rem }
+.m-025x     { margin:        .25rem }
+  .mt-025x  { margin-top:    .25rem }
+  .mr-025x  { margin-right:  .25rem }
+  .mb-025x  { margin-bottom: .25rem }
+  .ml-025x  { margin-left:   .25rem }
+  .mx-025x  { margin-right:  .25rem; margin-left:   .25rem }
+  .my-025x  { margin-top:    .25rem; margin-bottom: .25rem }
 
-.m-3xr     { margin:        3rem }
-  .mt-3xr  { margin-top:    3rem }
-  .mr-3xr  { margin-right:  3rem }
-  .mb-3xr  { margin-bottom: 3rem }
-  .ml-3xr  { margin-left:   3rem }
-  .mx-3xr  { margin-right:  3rem; margin-left:   3rem }
-  .my-3xr  { margin-top:    3rem; margin-bottom: 3rem }
+.m-05x     { margin:        .5rem }
+  .mt-05x  { margin-top:    .5rem }
+  .mr-05x  { margin-right:  .5rem }
+  .mb-05x  { margin-bottom: .5rem }
+  .ml-05x  { margin-left:   .5rem }
+  .mx-05x  { margin-right:  .5rem; margin-left:   .5rem }
+  .my-05x  { margin-top:    .5rem; margin-bottom: .5rem }
 
-.m-4xr     { margin:        4rem }
-  .mt-4xr  { margin-top:    4rem }
-  .mr-4xr  { margin-right:  4rem }
-  .mb-4xr  { margin-bottom: 4rem }
-  .ml-4xr  { margin-left:   4rem }
-  .mx-4xr  { margin-right:  4rem; margin-left:   4rem }
-  .my-4xr  { margin-top:    4rem; margin-bottom: 4rem }
+.m-1x     { margin:        1rem }
+  .mt-1x  { margin-top:    1rem }
+  .mr-1x  { margin-right:  1rem }
+  .mb-1x  { margin-bottom: 1rem }
+  .ml-1x  { margin-left:   1rem }
+  .mx-1x  { margin-right:  1rem; margin-left:   1rem }
+  .my-1x  { margin-top:    1rem; margin-bottom: 1rem }
+
+.m-2x     { margin:        2rem }
+  .mt-2x  { margin-top:    2rem }
+  .mr-2x  { margin-right:  2rem }
+  .mb-2x  { margin-bottom: 2rem }
+  .ml-2x  { margin-left:   2rem }
+  .mx-2x  { margin-right:  2rem; margin-left:   2rem }
+  .my-2x  { margin-top:    2rem; margin-bottom: 2rem }
 
 .m-0a { margin: 0 auto }
 

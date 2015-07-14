@@ -46,19 +46,16 @@ needs
     m-0   = { margin: 0 }
     m-1   = { margin: 1px }
     m-2   = { margin: 2px }
-    m-3   = { margin: 3px }
-    m-20  = { margin: 20px }
-    m-1x  = { margin: 1em }
-    m-2x  = { margin: 2em }
-    m-1xr = { margin: 1rem }
-    m-2xr = { margin: 2rem }
 
-    m-0   = { margin: 0 }
-    m-1   = { margin: 1px }
     m-xs  = { margin: .25em }
     m-sm  = { margin: .5em }
     m-md  = { margin: 1em }
     m-lg  = { margin: 2em }
+
+    m-025x  = { margin: .25rem }
+    m-05x   = { margin: .5rem }
+    m-1x    = { margin: 1rem }
+    m-2x    = { margin: 2rem }
 
 ### Defaults
 
