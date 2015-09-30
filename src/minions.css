@@ -23,17 +23,17 @@
 
 /* opacity */
 
-.o-0  { opacity: 0 }
-.o-01 { opacity: .1 }
-.o-02 { opacity: .2 }
-.o-03 { opacity: .3 }
-.o-04 { opacity: .4 }
-.o-05 { opacity: .5 }
-.o-06 { opacity: .6 }
-.o-07 { opacity: .7 }
-.o-08 { opacity: .8 }
-.o-09 { opacity: .9 }
-.o-1  { opacity: 1 }
+.o-0 { opacity: 0 }
+.o-1 { opacity: .1 }
+.o-2 { opacity: .2 }
+.o-3 { opacity: .3 }
+.o-4 { opacity: .4 }
+.o-5 { opacity: .5 }
+.o-6 { opacity: .6 }
+.o-7 { opacity: .7 }
+.o-8 { opacity: .8 }
+.o-9 { opacity: .9 }
+.o   { opacity: 1 }
 
 /* opacity */
 
