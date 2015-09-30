@@ -377,35 +377,51 @@
 
 /* background-color */
 
-.bgc-n  { background-color: navy; }
-.bgc-b  { background-color: blue; }
-.bgc-a  { background-color: aqua; }
-.bgc-t  { background-color: teal; }
-.bgc-oe { background-color: olive; }
-.bgc-g  { background-color: green; }
-.bgc-l  { background-color: lime; }
-.bgc-y  { background-color: yellow; }
-.bgc-o  { background-color: orange; }
-.bgc-r  { background-color: red; }
-.bgc-m  { background-color: maroon; }
-.bgc-f  { background-color: fuchsia; }
-.bgc-p  { background-color: purple; }
-.bgc-gy { background-color: gray; }
-.bgc-s  { background-color: silver; }
+.gc-white   { background-color: white; }
+.gc-navy    { background-color: navy; }
+.gc-blue    { background-color: blue; }
+.gc-aqua    { background-color: aqua; }
+.gc-teal    { background-color: teal; }
+.gc-olive   { background-color: olive; }
+.gc-green   { background-color: green; }
+.gc-lime    { background-color: lime; }
+.gc-yellow  { background-color: yellow; }
+.gc-orange  { background-color: orange; }
+.gc-red     { background-color: red; }
+.gc-maroon  { background-color: maroon; }
+.gc-fuchsia { background-color: fuchsia; }
+.gc-purple  { background-color: purple; }
+.gc-gray    { background-color: gray; }
+.gc-silver  { background-color: silver; }
+.gc-black   { background-color: black; }
 
-.bgc-k  { background-color: hsl(0, 0%, 0%); }
-.bgc-k9 { background-color: hsl(0, 0%, 10%); }
-.bgc-k8 { background-color: hsl(0, 0%, 20%); }
-.bgc-k7 { background-color: hsl(0, 0%, 30%); }
-.bgc-k6 { background-color: hsl(0, 0%, 40%); }
-.bgc-k5 { background-color: hsl(0, 0%, 50%); }
+/* -- black */
 
-.bgc-w  { background-color: hsl(0, 0%, 100%); }
-.bgc-w9 { background-color: hsl(0, 0%, 90%); }
-.bgc-w8 { background-color: hsl(0, 0%, 80%); }
-.bgc-w7 { background-color: hsl(0, 0%, 70%); }
-.bgc-w6 { background-color: hsl(0, 0%, 60%); }
-.bgc-w5 { background-color: hsl(0, 0%, 60%); }
+.gc-k  { background-color: hsl(0, 0%, 0%); }
+.gc-k9 { background-color: hsl(0, 0%, 10%); }
+.gc-k8 { background-color: hsl(0, 0%, 20%); }
+.gc-k7 { background-color: hsl(0, 0%, 30%); }
+.gc-k6 { background-color: hsl(0, 0%, 40%); }
+.gc-k5 { background-color: hsl(0, 0%, 50%); }
+.gc-k4 { background-color: hsl(0, 0%, 60%); }
+.gc-k3 { background-color: hsl(0, 0%, 70%); }
+.gc-k2 { background-color: hsl(0, 0%, 80%); }
+.gc-k1 { background-color: hsl(0, 0%, 90%); }
+.gc-k0 { background-color: hsl(0, 0%, 100%); }
+
+/* -- white */
+
+.gc-w  { background-color: hsl(0, 0%, 100%); }
+.gc-w9 { background-color: hsl(0, 0%, 90%); }
+.gc-w8 { background-color: hsl(0, 0%, 80%); }
+.gc-w7 { background-color: hsl(0, 0%, 70%); }
+.gc-w6 { background-color: hsl(0, 0%, 60%); }
+.gc-w5 { background-color: hsl(0, 0%, 60%); }
+.gc-w4 { background-color: hsl(0, 0%, 40%); }
+.gc-w3 { background-color: hsl(0, 0%, 30%); }
+.gc-w2 { background-color: hsl(0, 0%, 20%); }
+.gc-w1 { background-color: hsl(0, 0%, 10%); }
+.gc-w0 { background-color: hsl(0, 0%, 0%); }
 
 /* border-color */
 
@@ -431,6 +447,13 @@
 .bc-k7 { border-color: hsl(0, 0%, 30%); }
 .bc-k6 { border-color: hsl(0, 0%, 40%); }
 .bc-k5 { border-color: hsl(0, 0%, 50%); }
+.bc-k4 { border-color: hsl(0, 0%, 60%); }
+.bc-k3 { border-color: hsl(0, 0%, 70%); }
+.bc-k2 { border-color: hsl(0, 0%, 80%); }
+.bc-k1 { border-color: hsl(0, 0%, 90%); }
+.bc-k0 { border-color: hsl(0, 0%, 100%); }
+
+/* -- white */
 
 .bc-w  { border-color: hsl(0, 0%, 100%); }
 .bc-w9 { border-color: hsl(0, 0%, 90%); }
@@ -438,3 +461,8 @@
 .bc-w7 { border-color: hsl(0, 0%, 70%); }
 .bc-w6 { border-color: hsl(0, 0%, 60%); }
 .bc-w5 { border-color: hsl(0, 0%, 60%); }
+.bc-w4 { border-color: hsl(0, 0%, 40%); }
+.bc-w3 { border-color: hsl(0, 0%, 30%); }
+.bc-w2 { border-color: hsl(0, 0%, 20%); }
+.bc-w1 { border-color: hsl(0, 0%, 10%); }
+.bc-w0 { border-color: hsl(0, 0%, 0%); }
