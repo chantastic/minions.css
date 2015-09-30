@@ -425,21 +425,25 @@
 
 /* border-color */
 
-.bc-n  { border-color: navy; }
-.bc-b  { border-color: blue; }
-.bc-a  { border-color: aqua; }
-.bc-t  { border-color: teal; }
-.bc-oe { border-color: olive; }
-.bc-g  { border-color: green; }
-.bc-l  { border-color: lime; }
-.bc-y  { border-color: yellow; }
-.bc-o  { border-color: orange; }
-.bc-r  { border-color: red; }
-.bc-m  { border-color: maroon; }
-.bc-f  { border-color: fuchsia; }
-.bc-p  { border-color: purple; }
-.bc-gy { border-color: gray; }
-.bc-s  { border-color: silver; }
+.bc-white   { border-color: white; }
+.bc-navy    { border-color: navy; }
+.bc-blue    { border-color: blue; }
+.bc-aqua    { border-color: aqua; }
+.bc-teal    { border-color: teal; }
+.bc-olive   { border-color: olive; }
+.bc-green   { border-color: green; }
+.bc-lime    { border-color: lime; }
+.bc-yellow  { border-color: yellow; }
+.bc-orange  { border-color: orange; }
+.bc-red     { border-color: red; }
+.bc-maroon  { border-color: maroon; }
+.bc-fuchsia { border-color: fuchsia; }
+.bc-purple  { border-color: purple; }
+.bc-gray    { border-color: gray; }
+.bc-silver  { border-color: silver; }
+.bc-black   { border-color: black; }
+
+/* -- black */
 
 .bc-k  { border-color: hsl(0, 0%, 0%); }
 .bc-k9 { border-color: hsl(0, 0%, 10%); }
