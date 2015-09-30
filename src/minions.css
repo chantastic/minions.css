@@ -59,8 +59,6 @@
 
 /* margin */
 
-/* -- px */
-
 .m-0     { margin:        0 }
   .mt-0  { margin-top:    0 }
   .mr-0  { margin-right:  0 }
@@ -69,99 +67,109 @@
   .mx-0  { margin-right:  0; margin-left:   0 }
   .my-0  { margin-top:    0; margin-bottom: 0 }
 
-.m-1     { margin:        1px }
-  .mt-1  { margin-top:    1px }
-  .mr-1  { margin-right:  1px }
-  .mb-1  { margin-bottom: 1px }
-  .ml-1  { margin-left:   1px }
-  .mx-1  { margin-right:  1px; margin-left:   1px }
-  .my-1  { margin-top:    1px; margin-bottom: 1px }
+/* -- px */
 
-.m-2     { margin:        2px }
-  .mt-2  { margin-top:    2px }
-  .mr-2  { margin-right:  2px }
-  .mb-2  { margin-bottom: 2px }
-  .ml-2  { margin-left:   2px }
-  .mx-2  { margin-right:  2px; margin-left:   2px }
-  .my-2  { margin-top:    2px; margin-bottom: 2px }
+.m-1p    { margin:        1px }
+  .mt-1p { margin-top:    1px }
+  .mr-1p { margin-right:  1px }
+  .mb-1p { margin-bottom: 1px }
+  .ml-1p { margin-left:   1px }
+  .mx-1p { margin-right:  1px; margin-left:   1px }
+  .my-1p { margin-top:    1px; margin-bottom: 1px }
+
+.m-2p    { margin:        2px }
+  .mt-2p { margin-top:    2px }
+  .mr-2p { margin-right:  2px }
+  .mb-2p { margin-bottom: 2px }
+  .ml-2p { margin-left:   2px }
+  .mx-2p { margin-right:  2px; margin-left:   2px }
+  .my-2p { margin-top:    2px; margin-bottom: 2px }
+
+.m-3p    { margin:        3px }
+  .mt-3p { margin-top:    3px }
+  .mr-3p { margin-right:  3px }
+  .mb-3p { margin-bottom: 3px }
+  .ml-3p { margin-left:   3px }
+  .mx-3p { margin-right:  3px; margin-left:   3px }
+  .my-3p { margin-top:    3px; margin-bottom: 3px }
+
+.m-4p    { margin:        4px }
+  .mt-4p { margin-top:    4px }
+  .mr-4p { margin-right:  4px }
+  .mb-4p { margin-bottom: 4px }
+  .ml-4p { margin-left:   4px }
+  .mx-4p { margin-right:  4px; margin-left:   4px }
+  .my-4p { margin-top:    4px; margin-bottom: 4px }
 
 /* -- em */
 
-.m-xs     { margin:        .25em }
-  .mt-xs  { margin-top:    .25em }
-  .mr-xs  { margin-right:  .25em }
-  .mb-xs  { margin-bottom: .25em }
-  .ml-xs  { margin-left:   .25em }
-  .mx-xs  { margin-right:  .25em; margin-left:   .25em }
-  .my-xs  { margin-top:    .25em; margin-bottom: .25em }
+.m-025    { margin:        .25em }
+  .mt-025 { margin-top:    .25em }
+  .mr-025 { margin-right:  .25em }
+  .mb-025 { margin-bottom: .25em }
+  .ml-025 { margin-left:   .25em }
+  .mx-025 { margin-right:  .25em; margin-left:   .25em }
+  .my-025 { margin-top:    .25em; margin-bottom: .25em }
 
-.m-sm     { margin:        .5em }
-  .mt-sm  { margin-top:    .5em }
-  .mr-sm  { margin-right:  .5em }
-  .mb-sm  { margin-bottom: .5em }
-  .ml-sm  { margin-left:   .5em }
-  .mx-sm  { margin-right:  .5em; margin-left:   .5em }
-  .my-sm  { margin-top:    .5em; margin-bottom: .5em }
+.m-05    { margin:        .5em }
+  .mt-05 { margin-top:    .5em }
+  .mr-05 { margin-right:  .5em }
+  .mb-05 { margin-bottom: .5em }
+  .ml-05 { margin-left:   .5em }
+  .mx-05 { margin-right:  .5em; margin-left:   .5em }
+  .my-05 { margin-top:    .5em; margin-bottom: .5em }
 
-.m-md     { margin:        1em }
-  .mt-md  { margin-top:    1em }
-  .mr-md  { margin-right:  1em }
-  .mb-md  { margin-bottom: 1em }
-  .ml-md  { margin-left:   1em }
-  .mx-md  { margin-right:  1em; margin-left:   1em }
-  .my-md  { margin-top:    1em; margin-bottom: 1em }
+.m-1     { margin:        1em }
+  .mt-1  { margin-top:    1em }
+  .mr-1  { margin-right:  1em }
+  .mb-1  { margin-bottom: 1em }
+  .ml-1  { margin-left:   1em }
+  .mx-1  { margin-right:  1em; margin-left:   1em }
+  .my-1  { margin-top:    1em; margin-bottom: 1em }
 
-.m-lg     { margin:        2em }
-  .mt-lg  { margin-top:    2em }
-  .mr-lg  { margin-right:  2em }
-  .mb-lg  { margin-bottom: 2em }
-  .ml-lg  { margin-left:   2em }
-  .mx-lg  { margin-right:  2em; margin-left:   .2em }
-  .my-lg  { margin-top:    2em; margin-bottom: .2em }
-
-.m-xl     { margin:        4em }
-  .mt-xl  { margin-top:    4em }
-  .mr-xl  { margin-right:  4em }
-  .mb-xl  { margin-bottom: 4em }
-  .ml-xl  { margin-left:   4em }
-  .mx-xl  { margin-right:  4em; margin-left:   .4em }
-  .my-xl  { margin-top:    4em; margin-bottom: .4em }
+.m-2    { margin:        2em }
+  .mt-2 { margin-top:    2em }
+  .mr-2 { margin-right:  2em }
+  .mb-2 { margin-bottom: 2em }
+  .ml-2 { margin-left:   2em }
+  .mx-2 { margin-right:  2em; margin-left:   .2em }
+  .my-2 { margin-top:    2em; margin-bottom: .2em }
 
 /* -- rem */
 
-.m-025x     { margin:        .25rem }
-  .mt-025x  { margin-top:    .25rem }
-  .mr-025x  { margin-right:  .25rem }
-  .mb-025x  { margin-bottom: .25rem }
-  .ml-025x  { margin-left:   .25rem }
-  .mx-025x  { margin-right:  .25rem; margin-left:   .25rem }
-  .my-025x  { margin-top:    .25rem; margin-bottom: .25rem }
+.m-025r    { margin:        .25em }
+  .mt-025r { margin-top:    .25em }
+  .mr-025r { margin-right:  .25em }
+  .mb-025r { margin-bottom: .25em }
+  .ml-025r { margin-left:   .25em }
+  .mx-025r { margin-right:  .25em; margin-left:   .25em }
+  .my-025r { margin-top:    .25em; margin-bottom: .25em }
 
-.m-05x     { margin:        .5rem }
-  .mt-05x  { margin-top:    .5rem }
-  .mr-05x  { margin-right:  .5rem }
-  .mb-05x  { margin-bottom: .5rem }
-  .ml-05x  { margin-left:   .5rem }
-  .mx-05x  { margin-right:  .5rem; margin-left:   .5rem }
-  .my-05x  { margin-top:    .5rem; margin-bottom: .5rem }
+.m-05r     { margin:        .5rem }
+  .mt-05r  { margin-top:    .5rem }
+  .mr-05r  { margin-right:  .5rem }
+  .mb-05r  { margin-bottom: .5rem }
+  .ml-05r  { margin-left:   .5rem }
+  .mx-05r  { margin-right:  .5rem; margin-left:   .5rem }
+  .my-05r  { margin-top:    .5rem; margin-bottom: .5rem }
 
-.m-1x     { margin:        1rem }
-  .mt-1x  { margin-top:    1rem }
-  .mr-1x  { margin-right:  1rem }
-  .mb-1x  { margin-bottom: 1rem }
-  .ml-1x  { margin-left:   1rem }
-  .mx-1x  { margin-right:  1rem; margin-left:   1rem }
-  .my-1x  { margin-top:    1rem; margin-bottom: 1rem }
+.m-1r     { margin:        1rem }
+  .mt-1r  { margin-top:    1rem }
+  .mr-1r  { margin-right:  1rem }
+  .mb-1r  { margin-bottom: 1rem }
+  .ml-1r  { margin-left:   1rem }
+  .mx-1r  { margin-right:  1rem; margin-left:   1rem }
+  .my-1r  { margin-top:    1rem; margin-bottom: 1rem }
 
-.m-2x     { margin:        2rem }
-  .mt-2x  { margin-top:    2rem }
-  .mr-2x  { margin-right:  2rem }
-  .mb-2x  { margin-bottom: 2rem }
-  .ml-2x  { margin-left:   2rem }
-  .mx-2x  { margin-right:  2rem; margin-left:   2rem }
-  .my-2x  { margin-top:    2rem; margin-bottom: 2rem }
+.m-2r     { margin:        2rem }
+  .mt-2r  { margin-top:    2rem }
+  .mr-2r  { margin-right:  2rem }
+  .mb-2r  { margin-bottom: 2rem }
+  .ml-2r  { margin-left:   2rem }
+  .mx-2r  { margin-right:  2rem; margin-left:   2rem }
+  .my-2r  { margin-top:    2rem; margin-bottom: 2rem }
 
-.m-0a { margin: 0 auto }
+.m-0xa { margin: 0 auto }
 
 /* border */
 .b-0, .b-1, .b-2, .b-3, .b-4 { border-style: solid }
