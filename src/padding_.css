@@ -1,0 +1,111 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+/* -- px */
+
+.p_0 > *    { padding:        0 }
+  .pt_0 > * { padding-top:    0 }
+  .pr_0 > * { padding-right:  0 }
+  .pb_0 > * { padding-bottom: 0 }
+  .pl_0 > * { padding-left:   0 }
+  .px_0 > * { padding-right:  0; padding-left:   0 }
+  .py_0 > * { padding-top:    0; padding-bottom: 0 }
+
+.p_1p > *    { padding:        1px }
+  .pt_1p > * { padding-top:    1px }
+  .pr_1p > * { padding-right:  1px }
+  .pb_1p > * { padding-bottom: 1px }
+  .pl_1p > * { padding-left:   1px }
+  .px_1p > * { padding-right:  1px; padding-left:   1px }
+  .py_1p > * { padding-top:    1px; padding-bottom: 1px }
+
+.p_2p > *    { padding:        2px }
+  .pt_2p > * { padding-top:    2px }
+  .pr_2p > * { padding-right:  2px }
+  .pb_2p > * { padding-bottom: 2px }
+  .pl_2p > * { padding-left:   2px }
+  .px_2p > * { padding-right:  2px; padding-left:   2px }
+  .py_2p > * { padding-top:    2px; padding-bottom: 2px }
+
+.p_3p > *    { padding:        3px }
+  .pt_3p > * { padding-top:    3px }
+  .pr_3p > * { padding-right:  3px }
+  .pb_3p > * { padding-bottom: 3px }
+  .pl_3p > * { padding-left:   3px }
+  .px_3p > * { padding-right:  3px; padding-left:   3px }
+  .py_3p > * { padding-top:    3px; padding-bottom: 3px }
+
+.p_4p > *    { padding:        4px }
+  .pt_4p > * { padding-top:    4px }
+  .pr_4p > * { padding-right:  4px }
+  .pb_4p > * { padding-bottom: 4px }
+  .pl_4p > * { padding-left:   4px }
+  .px_4p > * { padding-right:  4px; padding-left:   4px }
+  .py_4p > * { padding-top:    4px; padding-bottom: 4px }
+
+/* -- em */
+
+.p_025 > *   { padding:        .25em }
+  .pt_025 > * { padding-top:    .25em }
+  .pr_025 > * { padding-right:  .25em }
+  .pb_025 > * { padding-bottom: .25em }
+  .pl_025 > * { padding-left:   .25em }
+  .px_025 > * { padding-right:  .25em; padding-left:   .25em }
+  .py_025 > * { padding-top:    .25em; padding-bottom: .25em }
+
+.p_05 > *   { padding:        .5em }
+  .pt_05 > * { padding-top:    .5em }
+  .pr_05 > * { padding-right:  .5em }
+  .pb_05 > * { padding-bottom: .5em }
+  .pl_05 > * { padding-left:   .5em }
+  .px_05 > * { padding-right:  .5em; padding-left:   .5em }
+  .py_05 > * { padding-top:    .5em; padding-bottom: .5em }
+
+.p_1 > *    { padding:        1em }
+  .pt_1 > * { padding-top:    1em }
+  .pr_1 > * { padding-right:  1em }
+  .pb_1 > * { padding-bottom: 1em }
+  .pl_1 > * { padding-left:   1em }
+  .px_1 > * { padding-right:  1em; padding-left:   1em }
+  .py_1 > * { padding-top:    1em; padding-bottom: 1em }
+
+.p_2 > *    { padding:        2em }
+  .pt_2 > * { padding-top:    2em }
+  .pr_2 > * { padding-right:  2em }
+  .pb_2 > * { padding-bottom: 2em }
+  .pl_2 > * { padding-left:   2em }
+  .px_2 > * { padding-right:  2em; padding-left:   2em }
+  .py_2 > * { padding-top:    2em; padding-bottom: 2em }
+
+.p_025r > *   { padding:        .25rem }
+  .pt_025r > * { padding-top:    .25rem }
+  .pr_025r > * { padding-right:  .25rem }
+  .pb_025r > * { padding-bottom: .25rem }
+  .pl_025r > * { padding-left:   .25rem }
+  .px_025r > * { padding-right:  .25rem; padding-left:   .25rem }
+  .py_025r > * { padding-top:    .25rem; padding-bottom: .25rem }
+
+/* -- rem */
+
+.p_05r > *   { padding:        .5rem }
+  .pt_05r > * { padding-top:    .5rem }
+  .pr_05r > * { padding-right:  .5rem }
+  .pb_05r > * { padding-bottom: .5rem }
+  .pl_05r > * { padding-left:   .5rem }
+  .px_05r > * { padding-right:  .5rem; padding-left:   .5rem }
+  .py_05r > * { padding-top:    .5rem; padding-bottom: .5rem }
+
+.p_1r > *    { padding:        1rem }
+  .pt_1r > * { padding-top:    1rem }
+  .pr_1r > * { padding-right:  1rem }
+  .pb_1r > * { padding-bottom: 1rem }
+  .pl_1r > * { padding-left:   1rem }
+  .px_1r > * { padding-right:  1rem; padding-left:   1rem }
+  .py_1r > * { padding-top:    1rem; padding-bottom: 1rem }
+
+.p_2r > *    { padding:        2rem }
+  .pt_2r > * { padding-top:    2rem }
+  .pr_2r > * { padding-right:  2rem }
+  .pb_2r > * { padding-bottom: 2rem }
+  .pl_2r > * { padding-left:   2rem }
+  .px_2r > * { padding-right:  2rem; padding-left:   2rem }
+  .py_2r > * { padding-top:    2rem; padding-bottom: 2rem }
