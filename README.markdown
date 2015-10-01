@@ -1,95 +1,166 @@
-## minions
+# minions
 
-WIP
+Evil, friendly, and obedient immutable CSS class selectors.
 
-### Concepts
+```html
+<div class="p-1"> This element has 1em of padding</div>
+<div class="b-1p"> This element has a 1px border</div>
+<div class="m-1r"> This element has 1rem margin</div>
+<div class="p_05">
+  <div> Every direct child of this element has .5em of padding</div>
+  <div class="p-0!"> ...but not this one. It's been reset to 0 </div>
+</div>
+```
 
-* single-purpose classes in the spirit of Atomic CSS
-* media-queries use same class names inside data attributes
-* unopinionated about units: supports em, rem, and px
+## goals
 
-### Example
+* "immutable", single-purpose classes
+* predictable class names with an unambiguous naming scheme
 
-    <div
-     data-style="c-y"
-     data-style-sm="c-r"
-     data-style-md="c-g"
-     data-style-lg="c-b">
-      {Whatever} First
-    </div>
+## why?
 
-### Syntax
+That's a great question.
+
+I've come to believe that the biggest problem with CSS is that you have to name things to do anything. People suck at naming things and only the best people go back to reconsider their first attempt at a name.
+
+This approach allows you to defer naming thing... maybe indefinitely.
+
+## syntax
     {property-shortand}-{value-shorthand}
 
-### lexicon
+#### property-shorthand
+
+In the majority of cases, properties get shortened to a single charactor per word.
+
+    margin = m
+    padding = p
+
+Properties with two words (separated by a dash) will have two characters.
+
+    bc = border-color
+
+Where there is a conflit, the rules should still apply. `background-color` is an example where another shorthand is needed, to avoid conflicts with `border-color.
+
+    bc = border-color
+    gc = background-color
+
+Sadly, these exceptions just have to be memorized and internalized. Fortunately, there aren't many of them.
+
+#### value-shorthand
+
+In the majority of cases, values get shortened to a single character per word.
+
+    1px = 1p
+    hidden = h
+    inline-block = ib
+
+`em` is used for measurement shorthand. I prefer the flexibility of `em`s. At some point I'll likely variations of this library with othe defaults.
+
+    1px = 1p
+    1rem = 1r
+    1em = 1
+
+#### measurements
+
+There is no additional abstraction between measurement values and class selectors:
+
+    1em = 1
+    .5em = 05
+    .25em = 025
+
+    1rem = 1r
+    .5rem = 05r
+    .25rem = 025r
+
+I could see this feeling cumbersome to some. I'll likely add some abstracted values (e.g., `xs`, `sm`, `md`, `lg`) as an option.
+
+#### opacity/luminosty
+
+The rule for lightness and opacity is different than measurement. There are no leading `0`s. The unsuffixed value is the default value and those suffixed with a number represent a point value.
+
+    hsl(0, 0%, 0%) = k
+    hsl(0, 0%, 50%) = k4
+    hsl(0, 0%, 100%) = k0
+
+Likewise:
+
+    opacity = 0  = o-0
+    opacity = .5 = o-5
+    opacity = 1  = o
+
+## lexicon
     d   = display
     v   = visibility
     o   = opacity
     o   = overflow (no conflicts with opacity )
     f   = float
+    gc  = background-color
     m   = margin
     b   = border (border-width shorthand)
     bc  = border-color
     p   = padding
     c   = color
-    bgc = background-color
 
-needs
-
-    cf  = clearfix
-    fb  = flexbox ( could be `f` if no collisions )
-    bw  = border-width
-
+`border` and `background-color` are outliers. I wanted border to be a single character to match it's box-model friends. `gc` is better than `bgc` for background-color. These are obviously my opnion but this is my library. So I'm still sleeping well at night.
 
 ### Measurement
 
-    m-0   = { margin: 0 }
-    m-1   = { margin: 1px }
-    m-2   = { margin: 2px }
+```css
+/* 0 */
+p-0 { padding: 0 }
 
-    m-xs  = { margin: .25em }
-    m-sm  = { margin: .5em }
-    m-md  = { margin: 1em }
-    m-lg  = { margin: 2em }
+/* px */
+p-1p { padding: 1px }
+p-2p { padding: 2px }
+p-3p { padding: 3px }
+p-4p { padding: 4px }
 
-    m-025x  = { margin: .25rem }
-    m-05x   = { margin: .5rem }
-    m-1x    = { margin: 1rem }
-    m-2x    = { margin: 2rem }
+/* em */
+p-025 { padding: .25em }
+p-05  { padding: .5em }
+p-1   { padding: 1em }
+p-2   { padding: 2em }
 
-### Defaults
+/* rem */
+p-025r { padding: .25em }
+p-05r  { padding: .5em }
+p-1r   { padding: 1em }
+p-2r   { padding: 2em }
+```
 
-#### colors
+## Padding
 
-`g` and `o` have duplicates. The single-character version is what I imagine the
-expectation to be.
+Padding has a few extra rules. It does so to minimize the need for negative margin. I really negative margin.
 
-Duplicates use the first and last character:
-  `gy` = `gray`
-  `oe` = `olive`
+Where `_` is used as a delimiter, all rules are applied to direct children.
 
-black and white have 5 shades. There are only 5 to enforce a11y contrast
-recommendations.
+Those children can override these rules with a `!` suffix. This makes it clear when a child is acting outside of it's parents requests. Enough bangs and it might be time to change the parent's mind.
 
-#### borders
+```html
 
-`border` rules include `border-style: solid". Feel absolutely free to add your
-own classes for style. It's just not something I do enough to justify a class.
+<div class="p_0">
+  <div> all direct children have 0 padding </div>
+</div>
 
-`.b` is a shorthand for `border-width`. With styles assumed, width is the only
-property needed to show some type of border.
+<div class="p_1">
+  <div> all direct children have 1em padding </div>
+</div>
 
-`borders` values are pixels.
+<div class="p_1p">
+  <div> all direct children have 1px padding </div>
+</div>
 
-#### overflow
+<div class="p_1r">
+  <div> all direct children have 1rem padding </div>
+</div>
+```
 
-`opacity` and `overflow` don't have any conflicts. so they are both `o`
-prefixed.
+The inner elements can force their padding rules to override their parents:
 
-#### margin / padding
-
-`margin` and `padding` are calculated relative to font-size. It's hard to imagine a general
-case where you would want a 1px margin.
-
-`x` is for `em`. think `1 x font-size`
-`xr` is for `rem`. think `1 x root-font-size`
+```html
+<div class="p_1">
+  <div> all direct children have 1em padding </div>
+  <div> this one two </div>
+  <div class="p-0!"> this one has reset to 0 </div>
+</div>
+```
