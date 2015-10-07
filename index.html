@@ -20,6 +20,12 @@
   <link rel="stylesheet" href="./src/border-color.css"></link>
   <link rel="stylesheet" href="./src/border-color_black.css"></link>
   <link rel="stylesheet" href="./src/border-color_white.css"></link>
+  <link rel="stylesheet" href="./src/border-color_white.css"></link>
+  <link rel="stylesheet" href="./src/flex_.css"></link>
+  <link rel="stylesheet" href="./src/flex.css"></link>
+  <link rel="stylesheet" href="./src/-row-gutter.css"></link>
+  <link rel="stylesheet" href="./src/-column-gutter.css"></link>
+  <link rel="stylesheet" href="./src/align-items.css"></link>
 </head>
 <body>
   <h2 id="display"> Display </h2>
@@ -35,6 +41,74 @@
   <div class="f-l"> left </div>
   <div class="f-n"> none </div>
   <div class="f-r"> right </div>
+
+  <h2 id="flex"> Flex </h2>
+  <h4> .fd-r </h4>
+  <div class="d-f fd-r">
+    <div class="f-1 b-1p"> flex: 1 </div>
+    <div class="f-2 b-1p"> flex: 2 </div>
+    <div class="f-3 b-1p"> flex: 3 </div>
+    <div class="f-4 b-1p"> flex: 4 </div>
+    <div class="f-5 b-1p"> flex: 5 </div>
+    <div class="f-6 b-1p"> flex: 6 </div>
+  </div>
+
+  <h4> .fd-r.f_1 </h4>
+  <div class="d-f fd-r f_1">
+    <div class="b-1p"> flex: 1 (from parent) </div>
+    <div class="b-1p"> flex: 1 (from parent) </div>
+    <div class="b-1p"> flex: 1 (from parent) </div>
+  </div>
+
+  <h4> .fd-c.f_1.-column-gutter-{value} </h4>
+  <div class="d-f fd-c f_1 -column-gutter-1">
+    <div class="b-1p"> flex: 1 (from parent) </div>
+    <div class="b-1p"> flex: 1 (from parent) </div>
+    <div class="b-1p"> flex: 1 (from parent) </div>
+  </div>
+
+  <h4> .fd-c.f_1.-column-gutter-{value} </h4>
+  <div class="d-f fd-c f_1 -column-gutter-1">
+    <div class="b-1p"> flex: 1 (from parent) </div>
+    <div class="b-1p"> flex: 1 (from parent) </div>
+    <div class="b-1p"> flex: 1 (from parent) </div>
+  </div>
+
+  <h2 id="align-items"> Align Items </h2>
+  <h4> .ai-b </h4>
+  <div class="ai-b d-f fd-r f_1 -row-gutter-05r" style="height: 100px">
+    <div class="gc-blue c-w" style="font-size: .8em;  height: 25px">1</div>
+    <div class="gc-blue c-w" style="font-size: 2.2em; height: 75px">1</div>
+    <div class="gc-blue c-w" style="font-size: 1em;   height: 50px">1</div>
+  </div>
+
+  <h4> .ai-c </h4>
+  <div class="ai-c d-f fd-r f_1 -row-gutter-05r" style="height: 100px">
+    <div class="gc-blue c-w" style="font-size: .8em;  height: 25px">1</div>
+    <div class="gc-blue c-w" style="font-size: 2.2em; height: 75px">1</div>
+    <div class="gc-blue c-w" style="font-size: 1em;   height: 50px">1</div>
+  </div>
+
+  <h4> .ai-fe </h4>
+  <div class="ai-fe d-f fd-r f_1 -row-gutter-05r" style="height: 100px">
+    <div class="gc-blue c-w" style="font-size: .8em;  height: 25px">1</div>
+    <div class="gc-blue c-w" style="font-size: 2.2em; height: 75px">1</div>
+    <div class="gc-blue c-w" style="font-size: 1em;   height: 50px">1</div>
+  </div>
+
+  <h4> .ai-fs </h4>
+  <div class="ai-fs d-f fd-r f_1 -row-gutter-05r" style="height: 100px">
+    <div class="gc-blue c-w" style="font-size: .8em;  height: 25px">1</div>
+    <div class="gc-blue c-w" style="font-size: 2.2em; height: 75px">1</div>
+    <div class="gc-blue c-w" style="font-size: 1em;   height: 50px">1</div>
+  </div>
+
+  <h4> .ai-s </h4>
+  <div class="ai-s d-f fd-r f_1 -row-gutter-05r" style="height: 100px">
+    <div class="gc-blue c-w" style="font-size: .8em;  height: 25px">1</div>
+    <div class="gc-blue c-w" style="font-size: 2.2em; height: 75px">1</div>
+    <div class="gc-blue c-w" style="font-size: 1em;   height: 50px">1</div>
+  </div>
 
   <h2 id="visibility"> Visibilty </h2>
   <div class="v-h"> hidden </div>

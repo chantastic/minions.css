@@ -105,7 +105,8 @@ There is only one number prefix. `n` may be used to prefix a numer as `negative`
     d   = display
     v   = visibility
     o   = opacity, overflow, order
-    f   = float
+    f   = float, flex
+    fd  = flex-direction
     gc  = background-color
     m   = margin
     b   = border (border-width shorthand)
@@ -114,6 +115,13 @@ There is only one number prefix. `n` may be used to prefix a numer as `negative`
     c   = color
 
 `border` and `background-color` are outliers. I wanted border to be a single character to match it's box-model friends. `gc` is better than `bgc` for background-color. These are obviously my opnion but this is my library. So I'm still sleeping well at night.
+
+### attributes
+
+Attributes are hi-level modifiers to certain low-level classes.
+
+    .fd-r.-row-gutter-1    = a 1em horizontal gutter between flex rows
+    .fd-c.-column-gutter-1 = a 1em vertical gutter between flex columns
 
 ### Measurement
 
