@@ -76,17 +76,23 @@ I could see this feeling cumbersome to some. I'll likely add some abstracted val
 
 #### opacity/luminosty
 
-The rule for lightness and opacity is different than measurement. There are no leading `0`s. The unsuffixed value is the default value and those suffixed with a number represent a point value.
+For values of opacity and lightness, the unsuffixed value is the default value and those suffixed with a number represent a point value.
 
-    hsl(0, 0%, 0%) = k
-    hsl(0, 0%, 50%) = k4
-    hsl(0, 0%, 100%) = k0
+    .c-w   { color: hsl(0, 0%, 100%)
+    .c-w.5 { color: hsl(0, 0%,  50%)
+    .c-w.0 { color: hsl(0, 0%,   0%)
 
-Likewise:
+    .o   { opacity: 1 }
+    .o.5 { opacity: .5 }
+    .o.0 { opacity: 0 }
 
-    opacity = 0  = o-0
-    opacity = .5 = o-5
-    opacity = 1  = o
+Out of the box, only classes for 10ths are provided. But This can easily be extended to fit your needs.
+
+    .c-w.42 { color: hsl(0, 0%, 52%) }
+    .c-w.13 { color: hsl(0, 0%, 13%) }
+
+    .o.42 { opacity: .42 }
+    .o.13 { opacity: .13 }
 
 ## lexicon
     d   = display
@@ -131,7 +137,7 @@ p-2r   { padding: 2em }
 
 ## Padding
 
-Padding has a few extra rules. It does so to minimize the need for negative margin. I really negative margin.
+Padding has a few extra rules. It does so to minimize the need for negative margin. I really hate negative margin.
 
 Where `_` is used as a delimiter, all rules are applied to direct children.
 
