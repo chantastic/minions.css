@@ -32,12 +32,27 @@ This approach allows you to defer naming thing... maybe indefinitely.
 
 In the majority of cases, properties get shortened to a single charactor per word.
 
-    margin = m
-    padding = p
+    display  = d
+    ovelflow = o
+    margin   = m
+    padding  = p
 
 Properties with two words (separated by a dash) will have two characters.
 
-    bc = border-color
+    border-color = bc
+    border-width = bw
+
+Likewise specific properties get a carachter for each dash-delimited word.
+
+    border-top-width    = btw
+    border-right-width  = brw
+    border-bottom-width = bbw
+    border-left-width   = blw
+
+With additional convenientences for x and y axis rulse.
+
+    border-left-width && border-right-width  = bxw
+    border-left-top   && border-bottom-width = bxw
 
 Where there is a conflit, the rules should still apply. `background-color` is an example where another shorthand is needed, to avoid conflicts with `border-color.
 
@@ -109,12 +124,12 @@ There is only one number prefix. `n` may be used to prefix a numer as `negative`
     fd  = flex-direction
     gc  = background-color
     m   = margin
-    b   = border (border-width shorthand)
+    bw  = border
     bc  = border-color
     p   = padding, position
     c   = color
 
-`border` and `background-color` are outliers. I wanted border to be a single character to match it's box-model friends. `gc` is better than `bgc` for background-color. These are obviously my opnion but this is my library. So I'm still sleeping well at night.
+`background-color` is an outliers. `gc` is better than `bgc` for background-color. These are obviously my opnion but this is my library. So I'm still sleeping well at night.
 
 ### attributes
 

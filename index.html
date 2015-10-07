@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="./src/overflow.css"></link>
   <link rel="stylesheet" href="./src/visibility.css"></link>
   <link rel="stylesheet" href="./src/margin.css"></link>
-  <link rel="stylesheet" href="./src/border.css"></link>
+  <link rel="stylesheet" href="./src/border-width.css"></link>
   <link rel="stylesheet" href="./src/padding.css"></link>
   <link rel="stylesheet" href="./src/padding-important.css"></link>
   <link rel="stylesheet" href="./src/padding_.css"></link>
@@ -47,33 +47,33 @@
   <h2 id="flex"> Flex </h2>
   <h4> .fd-r </h4>
   <div class="d-f fd-r">
-    <div class="f-1 b-1p"> flex: 1 </div>
-    <div class="f-2 b-1p"> flex: 2 </div>
-    <div class="f-3 b-1p"> flex: 3 </div>
-    <div class="f-4 b-1p"> flex: 4 </div>
-    <div class="f-5 b-1p"> flex: 5 </div>
-    <div class="f-6 b-1p"> flex: 6 </div>
+    <div class="f-1 bw-1p"> flex: 1 </div>
+    <div class="f-2 bw-1p"> flex: 2 </div>
+    <div class="f-3 bw-1p"> flex: 3 </div>
+    <div class="f-4 bw-1p"> flex: 4 </div>
+    <div class="f-5 bw-1p"> flex: 5 </div>
+    <div class="f-6 bw-1p"> flex: 6 </div>
   </div>
 
   <h4> .fd-r.f_1 </h4>
   <div class="d-f fd-r f_1">
-    <div class="b-1p"> flex: 1 (from parent) </div>
-    <div class="b-1p"> flex: 1 (from parent) </div>
-    <div class="b-1p"> flex: 1 (from parent) </div>
+    <div class="bw-1p"> flex: 1 (from parent) </div>
+    <div class="bw-1p"> flex: 1 (from parent) </div>
+    <div class="bw-1p"> flex: 1 (from parent) </div>
   </div>
 
   <h4> .fd-c.f_1.-column-gutter-{value} </h4>
   <div class="d-f fd-c f_1 -column-gutter-1">
-    <div class="b-1p"> flex: 1 (from parent) </div>
-    <div class="b-1p"> flex: 1 (from parent) </div>
-    <div class="b-1p"> flex: 1 (from parent) </div>
+    <div class="bw-1p"> flex: 1 (from parent) </div>
+    <div class="bw-1p"> flex: 1 (from parent) </div>
+    <div class="bw-1p"> flex: 1 (from parent) </div>
   </div>
 
   <h4> .fd-c.f_1.-column-gutter-{value} </h4>
   <div class="d-f fd-c f_1 -column-gutter-1">
-    <div class="b-1p"> flex: 1 (from parent) </div>
-    <div class="b-1p"> flex: 1 (from parent) </div>
-    <div class="b-1p"> flex: 1 (from parent) </div>
+    <div class="bw-1p"> flex: 1 (from parent) </div>
+    <div class="bw-1p"> flex: 1 (from parent) </div>
+    <div class="bw-1p"> flex: 1 (from parent) </div>
   </div>
 
   <h2 id="align-items"> Align Items </h2>
@@ -218,47 +218,47 @@
 
   <div class="m-0xa"> margin 0 auto </div>
 
-  <h2 id="border"> Border </h2>
-  <div class="b-0">  0 </div>
-  <div class="b-1p"> 1px </div>
-  <div class="b-2p"> 2px </div>
-  <div class="b-3p"> 3px </div>
-  <div class="b-4p"> 4px </div>
+  <h2 id="border-width"> Border </h2>
+  <div class="bw-0">  0 </div>
+  <div class="bw-1p"> 1px </div>
+  <div class="bw-2p"> 2px </div>
+  <div class="bw-3p"> 3px </div>
+  <div class="bw-4p"> 4px </div>
 
-  <div class="bt-0"> 0 top </div>
-  <div class="br-0"> 0 right </div>
-  <div class="bb-0"> 0 bottom </div>
-  <div class="bl-0"> 0 left </div>
-  <div class="bx-0"> 0 right + left </div>
-  <div class="by-0"> 0 top + bottom</div>
+  <div class="btw-0"> 0 top </div>
+  <div class="brw-0"> 0 right </div>
+  <div class="bbw-0"> 0 bottom </div>
+  <div class="blw-0"> 0 left </div>
+  <div class="bxw-0"> 0 right + left </div>
+  <div class="byw-0"> 0 top + bottom</div>
 
-  <div class="bt-1p"> 1px top </div>
-  <div class="br-1p"> 1px right </div>
-  <div class="bb-1p"> 1px bottom </div>
-  <div class="bl-1p"> 1px left </div>
-  <div class="bx-1p"> 1px right + left </div>
-  <div class="by-1p"> 1px top + bottom</div>
+  <div class="btw-1p"> 1px top </div>
+  <div class="brw-1p"> 1px right </div>
+  <div class="bbw-1p"> 1px bottom </div>
+  <div class="blw-1p"> 1px left </div>
+  <div class="bxw-1p"> 1px right + left </div>
+  <div class="byw-1p"> 1px top + bottom</div>
 
-  <div class="bt-2p"> 2px top </div>
-  <div class="br-2p"> 2px right </div>
-  <div class="bb-2p"> 2px bottom </div>
-  <div class="bl-2p"> 2px left </div>
-  <div class="bx-2p"> 2px right + left </div>
-  <div class="by-2p"> 2px top + bottom</div>
+  <div class="btw-2p"> 2px top </div>
+  <div class="brw-2p"> 2px right </div>
+  <div class="bbw-2p"> 2px bottom </div>
+  <div class="blw-2p"> 2px left </div>
+  <div class="bxw-2p"> 2px right + left </div>
+  <div class="byw-2p"> 2px top + bottom</div>
 
-  <div class="bt-3p"> 3px top </div>
-  <div class="br-3p"> 3px right </div>
-  <div class="bb-3p"> 3px bottom </div>
-  <div class="bl-3p"> 3px left </div>
-  <div class="bx-3p"> 3px right + left </div>
-  <div class="by-3p"> 3px top + bottom</div>
+  <div class="btw-3p"> 3px top </div>
+  <div class="brw-3p"> 3px right </div>
+  <div class="bbw-3p"> 3px bottom </div>
+  <div class="blw-3p"> 3px left </div>
+  <div class="bxw-3p"> 3px right + left </div>
+  <div class="byw-3p"> 3px top + bottom</div>
 
-  <div class="bt-4p"> 4px top </div>
-  <div class="br-4p"> 4px right </div>
-  <div class="bb-4p"> 4px bottom </div>
-  <div class="bl-4p"> 4px left </div>
-  <div class="bx-4p"> 4px right + left </div>
-  <div class="by-4p"> 4px top + bottom</div>
+  <div class="btw-4p"> 4px top </div>
+  <div class="brw-4p"> 4px right </div>
+  <div class="bbw-4p"> 4px bottom </div>
+  <div class="blw-4p"> 4px left </div>
+  <div class="bxw-4p"> 4px right + left </div>
+  <div class="byw-4p"> 4px top + bottom</div>
 
   <h2 id="padding"> Padding </h2>
   <div class="pt-0"> 0 </div>
@@ -311,58 +311,58 @@
   <div class="p-2r">  2rem </div>
 
   <h2 id="padding_"> Padding > * </h2>
-  <div class="p_0 b-1p">
+  <div class="p_0 bw-1p">
     <div>0</div>
     <div>0</div>
   </div>
 
-  <div class="p_1p b-1p">
+  <div class="p_1p bw-1p">
     <div>1px</div>
     <div class="p-0!">reset</div>
   </div>
-  <div class="p_2p b-1p">
+  <div class="p_2p bw-1p">
     <div>2px</div>
     <div class="p-0!">reset</div>
   </div>
-  <div class="p_3p b-1p">
+  <div class="p_3p bw-1p">
     <div>3px</div>
     <div class="p-0!">reset</div>
   </div>
-  <div class="p_4p b-1p">
+  <div class="p_4p bw-1p">
     <div>4px</div>
     <div class="p-0!">reset</div>
   </div>
 
-  <div class="p_025 b-1p">
+  <div class="p_025 bw-1p">
     <div>.25em</div>
     <div class="p-0!">reset</div>
   </div>
-  <div class="p_05 b-1p">
+  <div class="p_05 bw-1p">
     <div>.5em</div>
     <div class="p-0!">reset</div>
   </div>
-  <div class="p_1 b-1p">
+  <div class="p_1 bw-1p">
     <div>1em</div>
     <div class="p-0!">reset</div>
   </div>
-  <div class="p_2 b-1p">
+  <div class="p_2 bw-1p">
     <div>2em</div>
     <div class="p-0!">reset</div>
   </div>
 
-  <div class="p_025r b-1p">
+  <div class="p_025r bw-1p">
     <div>.25rem </div>
     <div class="p-0!">reset</div>
   </div>
-  <div class="p_05r b-1p">
+  <div class="p_05r bw-1p">
     <div>.5rem</div>
     <div class="p-0!">reset</div>
   </div>
-  <div class="p_1r b-1p">
+  <div class="p_1r bw-1p">
     <div>1rem</div>
     <div class="p-0!">reset</div>
   </div>
-  <div class="p_2r b-1p">
+  <div class="p_2r bw-1p">
     <div>2rem</div>
     <div class="p-0!">reset</div>
   </div>
@@ -452,44 +452,44 @@
   <div class="gc-w.0"> w.0 </div>
 
   <h2 id="border-color"> border-color </h2>
-  <div class="b-4p bc-navy">    navy </div>
-  <div class="b-4p bc-blue">    blue </div>
-  <div class="b-4p bc-aqua">    aqua </div>
-  <div class="b-4p bc-teal">    teal </div>
-  <div class="b-4p bc-olive">   olive </div>
-  <div class="b-4p bc-green">   green </div>
-  <div class="b-4p bc-lime">    lime </div>
-  <div class="b-4p bc-yellow">  yellow </div>
-  <div class="b-4p bc-orange">  orange </div>
-  <div class="b-4p bc-red">     red </div>
-  <div class="b-4p bc-maroon">  maroon </div>
-  <div class="b-4p bc-fuchsia"> fuchsia </div>
-  <div class="b-4p bc-purple">  purple </div>
-  <div class="b-4p bc-gray">    gray </div>
-  <div class="b-4p bc-silver">  silver </div>
+  <div class="bw-4p bc-navy">    navy </div>
+  <div class="bw-4p bc-blue">    blue </div>
+  <div class="bw-4p bc-aqua">    aqua </div>
+  <div class="bw-4p bc-teal">    teal </div>
+  <div class="bw-4p bc-olive">   olive </div>
+  <div class="bw-4p bc-green">   green </div>
+  <div class="bw-4p bc-lime">    lime </div>
+  <div class="bw-4p bc-yellow">  yellow </div>
+  <div class="bw-4p bc-orange">  orange </div>
+  <div class="bw-4p bc-red">     red </div>
+  <div class="bw-4p bc-maroon">  maroon </div>
+  <div class="bw-4p bc-fuchsia"> fuchsia </div>
+  <div class="bw-4p bc-purple">  purple </div>
+  <div class="bw-4p bc-gray">    gray </div>
+  <div class="bw-4p bc-silver">  silver </div>
 
-  <div class="b-4p bc-k" >  k </div>
-  <div class="b-4p bc-k.9"> k.9 </div>
-  <div class="b-4p bc-k.8"> k.8 </div>
-  <div class="b-4p bc-k.7"> k.7 </div>
-  <div class="b-4p bc-k.6"> k.6 </div>
-  <div class="b-4p bc-k.5"> k.5 </div>
-  <div class="b-4p bc-k.4"> k.4 </div>
-  <div class="b-4p bc-k.3"> k.3 </div>
-  <div class="b-4p bc-k.2"> k.2 </div>
-  <div class="b-4p bc-k.1"> k.1 </div>
-  <div class="b-4p bc-k.0"> k.0 </div>
+  <div class="bw-4p bc-k" >  k </div>
+  <div class="bw-4p bc-k.9"> k.9 </div>
+  <div class="bw-4p bc-k.8"> k.8 </div>
+  <div class="bw-4p bc-k.7"> k.7 </div>
+  <div class="bw-4p bc-k.6"> k.6 </div>
+  <div class="bw-4p bc-k.5"> k.5 </div>
+  <div class="bw-4p bc-k.4"> k.4 </div>
+  <div class="bw-4p bc-k.3"> k.3 </div>
+  <div class="bw-4p bc-k.2"> k.2 </div>
+  <div class="bw-4p bc-k.1"> k.1 </div>
+  <div class="bw-4p bc-k.0"> k.0 </div>
 
-  <div class="b-4p bc-w">   w </div>
-  <div class="b-4p bc-w.9"> w.9 </div>
-  <div class="b-4p bc-w.8"> w.8 </div>
-  <div class="b-4p bc-w.7"> w.7 </div>
-  <div class="b-4p bc-w.6"> w.6 </div>
-  <div class="b-4p bc-w.5"> w.5 </div>
-  <div class="b-4p bc-w.4"> w.4 </div>
-  <div class="b-4p bc-w.3"> w.3 </div>
-  <div class="b-4p bc-w.2"> w.2 </div>
-  <div class="b-4p bc-w.1"> w.1 </div>
-  <div class="b-4p bc-w.0"> w.0 </div>
+  <div class="bw-4p bc-w">   w </div>
+  <div class="bw-4p bc-w.9"> w.9 </div>
+  <div class="bw-4p bc-w.8"> w.8 </div>
+  <div class="bw-4p bc-w.7"> w.7 </div>
+  <div class="bw-4p bc-w.6"> w.6 </div>
+  <div class="bw-4p bc-w.5"> w.5 </div>
+  <div class="bw-4p bc-w.4"> w.4 </div>
+  <div class="bw-4p bc-w.3"> w.3 </div>
+  <div class="bw-4p bc-w.2"> w.2 </div>
+  <div class="bw-4p bc-w.1"> w.1 </div>
+  <div class="bw-4p bc-w.0"> w.0 </div>
 </body>
 </html>
