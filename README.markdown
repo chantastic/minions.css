@@ -94,18 +94,23 @@ Out of the box, only classes for 10ths are provided. But This can easily be exte
     .o.42 { opacity: .42 }
     .o.13 { opacity: .13 }
 
+#### negative
+
+There is only one number prefix. `n` may be used to prefix a numer as `negative`. I'm avoiding the use of `-` to prevent confusion with OOCSS-style classes that use the `--` (double-dash) delimiter as a modifier.
+
+    .o-1  { order: 1 }
+    .o-n1 { order: -1 }
+
 ## lexicon
     d   = display
     v   = visibility
-    o   = opacity
-    o   = overflow (no conflicts with opacity )
+    o   = opacity, overflow, order
     f   = float
     gc  = background-color
     m   = margin
     b   = border (border-width shorthand)
     bc  = border-color
-    p   = padding
-    p   = position
+    p   = padding, position
     c   = color
 
 `border` and `background-color` are outliers. I wanted border to be a single character to match it's box-model friends. `gc` is better than `bgc` for background-color. These are obviously my opnion but this is my library. So I'm still sleeping well at night.
