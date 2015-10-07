@@ -116,18 +116,21 @@ There is only one number prefix. `n` may be used to prefix a numer as `negative`
     .o-1  { order: 1 }
     .o-n1 { order: -1 }
 
-## lexicon
+## property lexicon
+    ai  = align-items
+    as  = align-self
+    bw  = border-width
+    bc  = border-color
+    c   = color
     d   = display
-    v   = visibility
-    o   = opacity, overflow, order
     f   = float, flex
     fd  = flex-direction
     gc  = background-color
+    jc  = justify-content
     m   = margin
-    bw  = border
-    bc  = border-color
+    o   = opacity, overflow, order
     p   = padding, position
-    c   = color
+    v   = visibility
 
 `background-color` is an outliers. `gc` is better than `bgc` for background-color. These are obviously my opnion but this is my library. So I'm still sleeping well at night.
 
