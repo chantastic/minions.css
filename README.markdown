@@ -99,6 +99,7 @@ Likewise:
     b   = border (border-width shorthand)
     bc  = border-color
     p   = padding
+    p   = position
     c   = color
 
 `border` and `background-color` are outliers. I wanted border to be a single character to match it's box-model friends. `gc` is better than `bgc` for background-color. These are obviously my opnion but this is my library. So I'm still sleeping well at night.
