@@ -1,19 +1,21 @@
 /*! minions.css | MIT License | https://github.com/chantastic/minions.css */
 
-.gc-white   { background-color: white; }
-.gc-navy    { background-color: navy; }
-.gc-blue    { background-color: blue; }
-.gc-aqua    { background-color: aqua; }
-.gc-teal    { background-color: teal; }
-.gc-olive   { background-color: olive; }
-.gc-green   { background-color: green; }
-.gc-lime    { background-color: lime; }
-.gc-yellow  { background-color: yellow; }
-.gc-orange  { background-color: orange; }
-.gc-red     { background-color: red; }
-.gc-maroon  { background-color: maroon; }
-.gc-fuchsia { background-color: fuchsia; }
-.gc-purple  { background-color: purple; }
-.gc-gray    { background-color: gray; }
-.gc-silver  { background-color: silver; }
-.gc-black   { background-color: black; }
+/* color design by @mrmrs. https://github.com/mrmrs/colors */
+
+.gc-white   { background-color: #ffffff }
+.gc-navy    { background-color: #001f3f }
+.gc-blue    { background-color: #0074d9 }
+.gc-aqua    { background-color: #7fdbff }
+.gc-teal    { background-color: #39cccc }
+.gc-olive   { background-color: #3d9970 }
+.gc-green   { background-color: #2ecc40 }
+.gc-lime    { background-color: #01ff70 }
+.gc-yellow  { background-color: #ffdc00 }
+.gc-orange  { background-color: #ff851b }
+.gc-red     { background-color: #ff4136 }
+.gc-maroon  { background-color: #85144b }
+.gc-fuchsia { background-color: #f012be }
+.gc-purple  { background-color: #b10dc9 }
+.gc-gray    { background-color: #aaaaaa }
+.gc-silver  { background-color: #dddddd }
+.gc-black   { background-color: #111111 }
