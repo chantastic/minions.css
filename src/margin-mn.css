@@ -1,0 +1,116 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (min-width: 0) {
+
+  .m-0\@mn   { margin:        0 }
+  .mt-0\@mn  { margin-top:    0 }
+  .mr-0\@mn  { margin-right:  0 }
+  .mb-0\@mn  { margin-bottom: 0 }
+  .ml-0\@mn  { margin-left:   0 }
+  .mx-0\@mn  { margin-right:  0; margin-left:   0 }
+  .my-0\@mn  { margin-top:    0; margin-bottom: 0 }
+
+  /* -- px */
+
+  .m-1p\@mn  { margin:        1px }
+  .mt-1p\@mn { margin-top:    1px }
+  .mr-1p\@mn { margin-right:  1px }
+  .mb-1p\@mn { margin-bottom: 1px }
+  .ml-1p\@mn { margin-left:   1px }
+  .mx-1p\@mn { margin-right:  1px; margin-left:   1px }
+  .my-1p\@mn { margin-top:    1px; margin-bottom: 1px }
+
+  .m-2p\@mn  { margin:        2px }
+  .mt-2p\@mn { margin-top:    2px }
+  .mr-2p\@mn { margin-right:  2px }
+  .mb-2p\@mn { margin-bottom: 2px }
+  .ml-2p\@mn { margin-left:   2px }
+  .mx-2p\@mn { margin-right:  2px; margin-left:   2px }
+  .my-2p\@mn { margin-top:    2px; margin-bottom: 2px }
+
+  .m-3p\@mn  { margin:        3px }
+  .mt-3p\@mn { margin-top:    3px }
+  .mr-3p\@mn { margin-right:  3px }
+  .mb-3p\@mn { margin-bottom: 3px }
+  .ml-3p\@mn { margin-left:   3px }
+  .mx-3p\@mn { margin-right:  3px; margin-left:   3px }
+  .my-3p\@mn { margin-top:    3px; margin-bottom: 3px }
+
+  .m-4p\@mn  { margin:        4px }
+  .mt-4p\@mn { margin-top:    4px }
+  .mr-4p\@mn { margin-right:  4px }
+  .mb-4p\@mn { margin-bottom: 4px }
+  .ml-4p\@mn { margin-left:   4px }
+  .mx-4p\@mn { margin-right:  4px; margin-left:   4px }
+  .my-4p\@mn { margin-top:    4px; margin-bottom: 4px }
+
+  /* -- em */
+
+  .m-025\@mn  { margin:        .25em }
+  .mt-025\@mn { margin-top:    .25em }
+  .mr-025\@mn { margin-right:  .25em }
+  .mb-025\@mn { margin-bottom: .25em }
+  .ml-025\@mn { margin-left:   .25em }
+  .mx-025\@mn { margin-right:  .25em; margin-left:   .25em }
+  .my-025\@mn { margin-top:    .25em; margin-bottom: .25em }
+
+  .m-05\@mn  { margin:        .5em }
+  .mt-05\@mn { margin-top:    .5em }
+  .mr-05\@mn { margin-right:  .5em }
+  .mb-05\@mn { margin-bottom: .5em }
+  .ml-05\@mn { margin-left:   .5em }
+  .mx-05\@mn { margin-right:  .5em; margin-left:   .5em }
+  .my-05\@mn { margin-top:    .5em; margin-bottom: .5em }
+
+  .m-1\@mn   { margin:        1em }
+  .mt-1\@mn  { margin-top:    1em }
+  .mr-1\@mn  { margin-right:  1em }
+  .mb-1\@mn  { margin-bottom: 1em }
+  .ml-1\@mn  { margin-left:   1em }
+  .mx-1\@mn  { margin-right:  1em; margin-left:   1em }
+  .my-1\@mn  { margin-top:    1em; margin-bottom: 1em }
+
+  .m-2\@mn    { margin:        2em }
+  .mt-2\@mn { margin-top:    2em }
+  .mr-2\@mn { margin-right:  2em }
+  .mb-2\@mn { margin-bottom: 2em }
+  .ml-2\@mn { margin-left:   2em }
+  .mx-2\@mn { margin-right:  2em; margin-left:   .2em }
+  .my-2\@mn { margin-top:    2em; margin-bottom: .2em }
+
+  /* -- rem */
+
+  .m-025r\@mn  { margin:        .25em }
+  .mt-025r\@mn { margin-top:    .25em }
+  .mr-025r\@mn { margin-right:  .25em }
+  .mb-025r\@mn { margin-bottom: .25em }
+  .ml-025r\@mn { margin-left:   .25em }
+  .mx-025r\@mn { margin-right:  .25em; margin-left:   .25em }
+  .my-025r\@mn { margin-top:    .25em; margin-bottom: .25em }
+
+  .m-05r\@mn   { margin:        .5rem }
+  .mt-05r\@mn  { margin-top:    .5rem }
+  .mr-05r\@mn  { margin-right:  .5rem }
+  .mb-05r\@mn  { margin-bottom: .5rem }
+  .ml-05r\@mn  { margin-left:   .5rem }
+  .mx-05r\@mn  { margin-right:  .5rem; margin-left:   .5rem }
+  .my-05r\@mn  { margin-top:    .5rem; margin-bottom: .5rem }
+
+  .m-1r\@mn   { margin:        1rem }
+  .mt-1r\@mn  { margin-top:    1rem }
+  .mr-1r\@mn  { margin-right:  1rem }
+  .mb-1r\@mn  { margin-bottom: 1rem }
+  .ml-1r\@mn  { margin-left:   1rem }
+  .mx-1r\@mn  { margin-right:  1rem; margin-left:   1rem }
+  .my-1r\@mn  { margin-top:    1rem; margin-bottom: 1rem }
+
+  .m-2r\@mn   { margin:        2rem }
+  .mt-2r\@mn  { margin-top:    2rem }
+  .mr-2r\@mn  { margin-right:  2rem }
+  .mb-2r\@mn  { margin-bottom: 2rem }
+  .ml-2r\@mn  { margin-left:   2rem }
+  .mx-2r\@mn  { margin-right:  2rem; margin-left:   2rem }
+  .my-2r\@mn  { margin-top:    2rem; margin-bottom: 2rem }
+
+  .m-0xa\@mn { margin: 0 auto }
+}
