@@ -1,0 +1,15 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (min-width: 992px) {
+  .o\@lg    { opacity: 1 }
+  .o\.9\@lg { opacity: .9 }
+  .o\.8\@lg { opacity: .8 }
+  .o\.7\@lg { opacity: .7 }
+  .o\.6\@lg { opacity: .6 }
+  .o\.5\@lg { opacity: .5 }
+  .o\.4\@lg { opacity: .4 }
+  .o\.3\@lg { opacity: .3 }
+  .o\.2\@lg { opacity: .2 }
+  .o\.1\@lg { opacity: .1 }
+  .o\.0\@lg { opacity: 0 }
+}
