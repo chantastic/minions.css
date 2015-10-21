@@ -1,0 +1,23 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+/* color design by @mrmrs. https://github.com/mrmrs/colors */
+
+@media (min-width: 0) {
+  .gc-white\@mn   { background-color: #ffffff }
+  .gc-navy\@mn    { background-color: #001f3f }
+  .gc-blue\@mn    { background-color: #0074d9 }
+  .gc-aqua\@mn    { background-color: #7fdbff }
+  .gc-teal\@mn    { background-color: #39cccc }
+  .gc-olive\@mn   { background-color: #3d9970 }
+  .gc-green\@mn   { background-color: #2ecc40 }
+  .gc-lime\@mn    { background-color: #01ff70 }
+  .gc-yellow\@mn  { background-color: #ffdc00 }
+  .gc-orange\@mn  { background-color: #ff851b }
+  .gc-red\@mn     { background-color: #ff4136 }
+  .gc-maroon\@mn  { background-color: #85144b }
+  .gc-fuchsia\@mn { background-color: #f012be }
+  .gc-purple\@mn  { background-color: #b10dc9 }
+  .gc-gray\@mn    { background-color: #aaaaaa }
+  .gc-silver\@mn  { background-color: #dddddd }
+  .gc-black\@mn   { background-color: #111111 }
+}
