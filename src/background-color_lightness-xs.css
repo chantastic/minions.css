@@ -1,0 +1,15 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (min-width: 320px) {
+  .gc-l\@xs    { background-color: hsl(0, 0%, 100%); }
+  .gc-l\.9\@xs { background-color: hsl(0, 0%, 90%); }
+  .gc-l\.8\@xs { background-color: hsl(0, 0%, 80%); }
+  .gc-l\.7\@xs { background-color: hsl(0, 0%, 70%); }
+  .gc-l\.6\@xs { background-color: hsl(0, 0%, 60%); }
+  .gc-l\.5\@xs { background-color: hsl(0, 0%, 50%); }
+  .gc-l\.4\@xs { background-color: hsl(0, 0%, 40%); }
+  .gc-l\.3\@xs { background-color: hsl(0, 0%, 30%); }
+  .gc-l\.2\@xs { background-color: hsl(0, 0%, 20%); }
+  .gc-l\.1\@xs { background-color: hsl(0, 0%, 10%); }
+  .gc-l\.0\@xs { background-color: hsl(0, 0%, 0%); }
+}
