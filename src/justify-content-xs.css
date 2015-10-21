@@ -1,0 +1,9 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (min-width: 320px) {
+  .jc-c\@xs  { justify-content: center }
+  .jc-fe\@xs { justify-content: flex-end }
+  .jc-fs\@xs { justify-content: flex-start }
+  .jc-sb\@xs { justify-content: space-between }
+  .jc-sa\@xs { justify-content: space-around }
+}
