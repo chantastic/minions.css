@@ -6,6 +6,7 @@ Evil, friendly, and obedient immutable CSS class selectors.
 <div class="p-1"> This element has 1em of padding</div>
 <div class="b-1p"> This element has a 1px border</div>
 <div class="m-1r"> This element has 1rem margin</div>
+<div class="m-1r m-2r@sm"> This element has 1rem margin on mobile and a 2rem margin for anything above </div>
 <div class="p_05">
   <div> Every direct child of this element has .5em of padding</div>
   <div class="p-0!"> ...but not this one. It's been reset to 0 </div>
@@ -14,14 +15,16 @@ Evil, friendly, and obedient immutable CSS class selectors.
 
 ## goals
 
-* "immutable", single-purpose classes
-* predictable class names with an unambiguous naming scheme
+* "immutable", single-property classes
+* whatever-first. mobile-first, wearable-first, mega-widescreen-first, toaster-first, who cares?
+* predictable class names
+* the best of inline, plus media queries
 
 ## why?
 
 That's a great question.
 
-I've come to believe that the biggest problem with CSS is that you have to name things to do anything. People suck at naming things and only the best people go back to reconsider their first attempt at a name.
+I've come to believe that the biggest problem with CSS is that you have to name things to do anything. People suck at naming things and only the best people go back to reconsider.
 
 This approach allows you to defer naming thing... maybe indefinitely.
 
@@ -49,12 +52,12 @@ Likewise specific properties get a carachter for each dash-delimited word.
     border-bottom-width = bbw
     border-left-width   = blw
 
-With additional convenientences for x and y axis rulse.
+`x` and `y` have been added as aliases for `left & right` and `top & bottom`, respectively, for box-model properties.
 
     border-left-width && border-right-width  = bxw
     border-left-top   && border-bottom-width = bxw
 
-Where there is a conflit, the rules should still apply. `background-color` is an example where another shorthand is needed, to avoid conflicts with `border-color.
+Where there is a conflit, the rules should still apply. `background-color` is an example where another shorthand is needed, to avoid conflicts with `border-color`. Here I've used `gc` for `background-color` because `bc` is taken by `border-color`.
 
     bc = border-color
     gc = background-color
@@ -69,7 +72,7 @@ In the majority of cases, values get shortened to a single character per word.
     hidden = h
     inline-block = ib
 
-`em` is used for measurement shorthand. I prefer the flexibility of `em`s. At some point I'll likely variations of this library with othe defaults.
+`em` is used for measurement shorthand. `em`s are a sensible default because they are alays a multiplier of font-size. At some point I'll likely variations of this library with othe defaults. Until then, the other measurement values are suffixed.
 
     1px = 1p
     1rem = 1r
@@ -89,13 +92,13 @@ There is no additional abstraction between measurement values and class selector
 
 I could see this feeling cumbersome to some. I'll likely add some abstracted values (e.g., `xs`, `sm`, `md`, `lg`) as an option.
 
-#### opacity/luminosty
+#### opacity/lightness
 
 For values of opacity and lightness, the unsuffixed value is the default value and those suffixed with a number represent a point value.
 
-    .c-w   { color: hsl(0, 0%, 100%)
-    .c-w.5 { color: hsl(0, 0%,  50%)
-    .c-w.0 { color: hsl(0, 0%,   0%)
+    .c-l   { color: hsl(0, 0%, 100%)
+    .c-l.5 { color: hsl(0, 0%,  50%)
+    .c-l.0 { color: hsl(0, 0%,   0%)
 
     .o   { opacity: 1 }
     .o.5 { opacity: .5 }
@@ -103,8 +106,8 @@ For values of opacity and lightness, the unsuffixed value is the default value a
 
 Out of the box, only classes for 10ths are provided. But This can easily be extended to fit your needs.
 
-    .c-w.42 { color: hsl(0, 0%, 52%) }
-    .c-w.13 { color: hsl(0, 0%, 13%) }
+    .c-l.42 { color: hsl(0, 0%, 52%) }
+    .c-l.13 { color: hsl(0, 0%, 13%) }
 
     .o.42 { opacity: .42 }
     .o.13 { opacity: .13 }
@@ -203,3 +206,31 @@ The inner elements can force their padding rules to override their parents:
   <div class="p-0!"> this one has reset to 0 </div>
 </div>
 ```
+
+## Media Queries
+
+The primary advantage that these classes provide over inline-styles is there ability to leverage media-queries.
+
+Breakpoint-specific classes are suffixed with an `@`-symbol, followed by the two-character shorthand for the breakpoint (i.e., `mn`, `sm`, `md`, `lg`, `xl`).
+
+For example, this element becomes darker at every available breakpoint.
+
+```html
+<p class="c-l c-l.8@sm c-l.5@md c-l.2@lg c-l.0@xl">
+  The wider I get, the darker I become
+</p>
+```
+
+### Breakpoints
+
+I've used the breapoints from [Bootstrap](http://getbootstrap.com) because it's the most popular CSS framework on the planet. If you dont like them, feel free to modify that single line in your local copy.
+
+    xl >=1200
+    lg >=992
+    md >=768
+    sm >=544
+
+I've added two additional breakpoints:
+
+    xs >=320
+    mn >=0   (min)
