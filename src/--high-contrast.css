@@ -1,0 +1,13 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+.high-contrast .c-l    { color: hsl(0, 0%, 100%); }
+.high-contrast .c-l\.9,
+.high-contrast .c-l\.8,
+.high-contrast .c-l\.7 { color: hsl(0, 0%, 75%); }
+.high-contrast .c-l\.6,
+.high-contrast .c-l\.5,
+.high-contrast .c-l\.4 { color: hsl(0, 0%, 50%); }
+.high-contrast .c-l\.3,
+.high-contrast .c-l\.2,
+.high-contrast .c-l\.1 { color: hsl(0, 0%, 25%); }
+.high-contrast .c-l\.0 { color: hsl(0, 0%, 0%); }
