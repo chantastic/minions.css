@@ -78,13 +78,13 @@
 
 /* -- rem */
 
-.m-025r    { margin:        .25em }
-  .mt-025r { margin-top:    .25em }
-  .mr-025r { margin-right:  .25em }
-  .mb-025r { margin-bottom: .25em }
-  .ml-025r { margin-left:   .25em }
-  .mx-025r { margin-right:  .25em; margin-left:   .25em }
-  .my-025r { margin-top:    .25em; margin-bottom: .25em }
+.m-025r    { margin:        .25rem }
+  .mt-025r { margin-top:    .25rem }
+  .mr-025r { margin-right:  .25rem }
+  .mb-025r { margin-bottom: .25rem }
+  .ml-025r { margin-left:   .25rem }
+  .mx-025r { margin-right:  .25rem; margin-left:   .25rem }
+  .my-025r { margin-top:    .25rem; margin-bottom: .25rem }
 
 .m-05r     { margin:        .5rem }
   .mt-05r  { margin-top:    .5rem }
