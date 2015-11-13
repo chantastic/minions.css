@@ -30,7 +30,7 @@
 
 .-row-gutter-05 > *:first-child { margin-left:  0 }
 .-row-gutter-05 > *             { margin-right: .25em; margin-left: .25em }
-.-row-gutter-05 > *:last-child  { margin-right:  }
+.-row-gutter-05 > *:last-child  { margin-right: 0 }
 
 .-row-gutter-1 > *:first-child { margin-left:  0 }
 .-row-gutter-1 > *             { margin-right: .5em; margin-left: .5em }
