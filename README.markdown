@@ -223,7 +223,7 @@ For example, this element becomes darker at every available breakpoint.
 
 ### Breakpoints
 
-I've used the breapoints from [Bootstrap](http://getbootstrap.com) because it's the most popular CSS framework on the planet. If you dont like them, feel free to modify that single line in your local copy.
+I've used the breakpoints from [Bootstrap](http://getbootstrap.com) because it's the most popular CSS framework on the planet. If you dont like them, feel free to modify that single line in your local copy.
 
     xl >=1200
     lg >=992
