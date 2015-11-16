@@ -13,12 +13,24 @@ Evil, friendly, and obedient immutable CSS class selectors.
 </div>
 ```
 
+## prior art
+
+* [tachyons](http://tachyons.io/) - This is the first library I'd seen that went completely down the rabbit-hole of Atomic CSS with media-queries.
+* [gravatons](http://jxnblk.com/gravitons/) - Brent's projects are some of my favorite on the internet. Gravatons and [basscss](http://www.basscss.com/) make an elegant and minimal framework.
+
+### experimentation
+
+If you want to use something in your app, use those. Calling this repo a library is an overstatement. It's a brain dump. I love the existing libraries but they fail my particular use case in two ways:
+
+* support for legacy apps - "Mobile first" isn't possible in 10-year old app.
+* "guessable" class names - I want class names that are internally consistent. I want virtually 0 abstraction between a rule I'd type in CSS and a minions class name.
+
 ## goals
 
 * "immutable", single-property classes
 * whatever-first. mobile-first, wearable-first, mega-widescreen-first, toaster-first, who cares?
-* predictable class names
-* the best of inline, plus media queries
+* "guessable" class names
+* the best of inline-styles plus media queries
 
 ## why?
 
