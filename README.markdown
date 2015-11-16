@@ -33,10 +33,10 @@ This approach allows you to defer naming thing... maybe indefinitely.
 
 #### property-shorthand
 
-In the majority of cases, properties get shortened to a single charactor per word.
+In the majority of cases, properties get shortened to a single character per word.
 
     display  = d
-    ovelflow = o
+    overflow = o
     margin   = m
     padding  = p
 
@@ -45,7 +45,7 @@ Properties with two words (separated by a dash) will have two characters.
     border-color = bc
     border-width = bw
 
-Likewise specific properties get a carachter for each dash-delimited word.
+Likewise specific properties get a character for each dash-delimited word.
 
     border-top-width    = btw
     border-right-width  = brw
@@ -57,7 +57,7 @@ Likewise specific properties get a carachter for each dash-delimited word.
     border-left-width && border-right-width  = bxw
     border-left-top   && border-bottom-width = bxw
 
-Where there is a conflit, the rules should still apply. `background-color` is an example where another shorthand is needed, to avoid conflicts with `border-color`. Here I've used `gc` for `background-color` because `bc` is taken by `border-color`.
+Where there is a conflict, the basic rules should still apply. `background-color` is an example where another shorthand is needed, to avoid conflicts with `border-color`. Here I've used `gc` for `background-color` because `bc` is taken by `border-color`.
 
     bc = border-color
     gc = background-color
@@ -72,7 +72,7 @@ In the majority of cases, values get shortened to a single character per word.
     hidden = h
     inline-block = ib
 
-`em` is used for measurement shorthand. `em`s are a sensible default because they are alays a multiplier of font-size. At some point I'll likely variations of this library with othe defaults. Until then, the other measurement values are suffixed.
+`em` is used for measurement shorthand. `em`s are a sensible default because they are always a multiplier of font-size. At some point I'll likely variations of this library with other defaults. Until then, the other measurement values are suffixed.
 
     1px = 1p
     1rem = 1r
@@ -114,7 +114,7 @@ Out of the box, only classes for 10ths are provided. But This can easily be exte
 
 #### negative
 
-There is only one number prefix. `n` may be used to prefix a numer as `negative`. I'm avoiding the use of `-` to prevent confusion with OOCSS-style classes that use the `--` (double-dash) delimiter as a modifier.
+There is only one number prefix. `n` may be used to prefix a number as `negative`. I'm avoiding the use of `-` to prevent confusion with OOCSS-style classes that use the `--` (double-dash) delimiter as a modifier.
 
     .o-1  { order: 1 }
     .o-n1 { order: -1 }
@@ -135,8 +135,6 @@ There is only one number prefix. `n` may be used to prefix a numer as `negative`
     p   = padding, position
     ta  = text-align
     v   = visibility
-
-`background-color` is an outliers. `gc` is better than `bgc` for background-color. These are obviously my opnion but this is my library. So I'm still sleeping well at night.
 
 ### attributes
 
