@@ -219,6 +219,26 @@ For example, this element becomes darker at every available breakpoint.
 </p>
 ```
 
+### Matching
+
+With the right matching, this library can support legacy apps with a "whatever-first" approach. Here's what I'm thinking:
+
+#### Additive match
+
+    .pr-1r@sm
+
+#### Reverse Additive match
+
+    .pr-1r@!sm
+
+#### Exact match
+
+    .pr-1r@=sm
+
+#### Exclude Exact match
+
+    .pr-1r@!=sm
+
 ### Breakpoints
 
 I've used the breakpoints from [Bootstrap](http://getbootstrap.com) because it's the most popular CSS framework on the planet. If you dont like them, feel free to modify that single line in your local copy.
