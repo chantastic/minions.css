@@ -147,6 +147,7 @@ There is only one number prefix. `n` may be used to prefix a number as `negative
     p   = padding, position
     ta  = text-align
     v   = visibility
+    w   = width
 
 ### attributes
 

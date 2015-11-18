@@ -1,0 +1,14 @@
+@media (min-width: 320px) {
+  .w-a\@xs    { width: auto }
+  .w-10\@xs   { width: 10% }
+  .w-20\@xs   { width: 20% }
+  .w-30\@xs   { width: 30% }
+  .w-40\@xs   { width: 40% }
+  .w-50\@xs   { width: 50% }
+  .w-60\@xs   { width: 60% }
+  .w-70\@xs   { width: 70% }
+  .w-80\@xs   { width: 80% }
+  .w-90\@xs   { width: 90% }
+  .w-100\@xs,
+  .w-full\@xs { width: 100% }
+}
