@@ -1,0 +1,14 @@
+@media (min-width: 992px) {
+  .w-10\@lg   { width: 10% }
+  .w-20\@lg   { width: 20% }
+  .w-30\@lg   { width: 30% }
+  .w-40\@lg   { width: 40% }
+  .w-50\@lg   { width: 50% }
+  .w-60\@lg   { width: 60% }
+  .w-70\@lg   { width: 70% }
+  .w-80\@lg   { width: 80% }
+  .w-90\@lg   { width: 90% }
+  .w-100\@lg,
+  .w-full\@lg { width: 100% }
+
+}

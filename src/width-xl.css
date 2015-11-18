@@ -1,0 +1,13 @@
+@media (min-width: 1200px) {
+  .w-10\@xl   { width: 10% }
+  .w-20\@xl   { width: 20% }
+  .w-30\@xl   { width: 30% }
+  .w-40\@xl   { width: 40% }
+  .w-50\@xl   { width: 50% }
+  .w-60\@xl   { width: 60% }
+  .w-70\@xl   { width: 70% }
+  .w-80\@xl   { width: 80% }
+  .w-90\@xl   { width: 90% }
+  .w-100\@xl,
+  .w-full\@xl { width: 100% }
+}
