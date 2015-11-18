@@ -1,4 +1,5 @@
 @media (min-width: 768px) {
+  .w-a\@md    { width: auto }
   .w-10\@md   { width: 10% }
   .w-20\@md   { width: 20% }
   .w-30\@md   { width: 30% }

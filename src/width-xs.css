@@ -1,4 +1,5 @@
 @media (min-width: 320px) {
+  .w-a\@xs    { width: auto }
   .w-10\@xs   { width: 10% }
   .w-20\@xs   { width: 20% }
   .w-30\@xs   { width: 30% }
