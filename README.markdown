@@ -135,6 +135,7 @@ There is only one number prefix. `n` may be used to prefix a numer as `negative`
     p   = padding, position
     ta  = text-align
     v   = visibility
+    w   = width
 
 `background-color` is an outliers. `gc` is better than `bgc` for background-color. These are obviously my opnion but this is my library. So I'm still sleeping well at night.
 
