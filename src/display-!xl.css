@@ -1,0 +1,13 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (max-width: 1199px) {
+  .d-b\@\!xl  { display: block; }
+  .d-i\@\!xl  { display: inline; }
+  .d-ib\@\!xl { display: inline-block; }
+  .d-n\@\!xl  { display: none; }
+
+  .d-f\@\!xl  { display: flex; }
+  .d-t\@\!xl  { display: table; }
+  .d-tc\@\!xl { display: table-cell; }
+  .d-tr\@\!xl { display: table-row; }
+}
