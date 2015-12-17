@@ -2,12 +2,20 @@
 <html>
 <head>
   <link rel="stylesheet" href="./src/align-items.css"></link>
+
   <link rel="stylesheet" href="./src/align-items-mn.css"></link>
   <link rel="stylesheet" href="./src/align-items-xs.css"></link>
   <link rel="stylesheet" href="./src/align-items-sm.css"></link>
   <link rel="stylesheet" href="./src/align-items-md.css"></link>
   <link rel="stylesheet" href="./src/align-items-lg.css"></link>
   <link rel="stylesheet" href="./src/align-items-xl.css"></link>
+
+  <!-- load order matters for reverse matchers -->
+  <link rel="stylesheet" href="./src/align-items-!xl.css"></link>
+  <link rel="stylesheet" href="./src/align-items-!lg.css"></link>
+  <link rel="stylesheet" href="./src/align-items-!md.css"></link>
+  <link rel="stylesheet" href="./src/align-items-!sm.css"></link>
+  <link rel="stylesheet" href="./src/align-items-!xs.css"></link>
 </head>
 <body>
   <h2 id="padding"> Align Items - steps </h2>
@@ -16,5 +24,11 @@
   <div class="ai-fe ai-fe@mn ai-fe@xs ai-fe@sm ai-fe@md ai-fe@lg ai-fe@xl"> flex-end </div>
   <div class="ai-fs ai-fs@mn ai-fs@xs ai-fs@sm ai-fs@md ai-fs@lg ai-fs@xl"> flex-start </div>
   <div class="ai-s  ai-s@mn  ai-s@xs  ai-s@sm  ai-s@md  ai-s@lg  ai-s@xl">  stretch </div>
+
+  <div class="ai-b  ai-b@!mn  ai-b@!xs  ai-b@!sm  ai-b@!md  ai-b@!lg  ai-b@!xl">  baseline </div>
+  <div class="ai-c  ai-c@!mn  ai-c@!xs  ai-c@!sm  ai-c@!md  ai-c@!lg  ai-c@!xl">  center </div>
+  <div class="ai-fe ai-fe@!mn ai-fe@!xs ai-fe@!sm ai-fe@!md ai-fe@!lg ai-fe@!xl"> flex-end </div>
+  <div class="ai-fs ai-fs@!mn ai-fs@!xs ai-fs@!sm ai-fs@!md ai-fs@!lg ai-fs@!xl"> flex-start </div>
+  <div class="ai-s  ai-s@!mn  ai-s@!xs  ai-s@!sm  ai-s@!md  ai-s@!lg  ai-s@!xl">  stretch </div>
 </body>
 </html>
