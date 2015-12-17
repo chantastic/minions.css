@@ -1,0 +1,9 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (max-width: 991px) {
+  .as-b\@\!lg  { align-self: baseline }
+  .as-c\@\!lg  { align-self: center }
+  .as-fe\@\!lg { align-self: flex-end }
+  .as-fs\@\!lg { align-self: flex-start }
+  .as-s\@\!lg  { align-self: stretch }
+}

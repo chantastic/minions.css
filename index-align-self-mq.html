@@ -8,6 +8,13 @@
   <link rel="stylesheet" href="./src/align-self-md.css"></link>
   <link rel="stylesheet" href="./src/align-self-lg.css"></link>
   <link rel="stylesheet" href="./src/align-self-xl.css"></link>
+
+  <!-- load order matters for subtractive matchers -->
+  <link rel="stylesheet" href="./src/align-self-!xl.css"></link>
+  <link rel="stylesheet" href="./src/align-self-!lg.css"></link>
+  <link rel="stylesheet" href="./src/align-self-!md.css"></link>
+  <link rel="stylesheet" href="./src/align-self-!sm.css"></link>
+  <link rel="stylesheet" href="./src/align-self-!xs.css"></link>
 </head>
 <body>
   <h2 id="padding"> Align Self - steps </h2>
@@ -16,5 +23,11 @@
   <div class="as-fe as-fe@mn as-fe@xs as-fe@sm as-fe@md as-fe@lg as-fe@xl"> flex-end </div>
   <div class="as-fs as-fs@mn as-fs@xs as-fs@sm as-fs@md as-fs@lg as-fs@xl"> flex-start </div>
   <div class="as-s  as-s@mn  as-s@xs  as-s@sm  as-s@md  as-s@lg  as-s@xl">  stretch </div>
+
+  <div class="as-b  as-b@!mn  as-b@!xs  as-b@!sm  as-b@!md  as-b@!lg  as-b@!xl">  baseline </div>
+  <div class="as-c  as-c@!mn  as-c@!xs  as-c@!sm  as-c@!md  as-c@!lg  as-c@!xl">  center </div>
+  <div class="as-fe as-fe@!mn as-fe@!xs as-fe@!sm as-fe@!md as-fe@!lg as-fe@!xl"> flex-end </div>
+  <div class="as-fs as-fs@!mn as-fs@!xs as-fs@!sm as-fs@!md as-fs@!lg as-fs@!xl"> flex-start </div>
+  <div class="as-s  as-s@!mn  as-s@!xs  as-s@!sm  as-s@!md  as-s@!lg  as-s@!xl">  stretch </div>
 </body>
 </html>
