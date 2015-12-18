@@ -8,6 +8,13 @@
   <link rel="stylesheet" href="./src/position-md.css"></link>
   <link rel="stylesheet" href="./src/position-lg.css"></link>
   <link rel="stylesheet" href="./src/position-xl.css"></link>
+
+  <!-- load orders matters for matchers -->
+  <link rel="stylesheet" href="./src/position-!xl.css"></link>
+  <link rel="stylesheet" href="./src/position-!lg.css"></link>
+  <link rel="stylesheet" href="./src/position-!md.css"></link>
+  <link rel="stylesheet" href="./src/position-!sm.css"></link>
+  <link rel="stylesheet" href="./src/position-!xs.css"></link>
 </head>
 <body>
   <h2> Position - steps </h2>
@@ -42,5 +49,38 @@
               p-f@md
               p-f@lg
               p-f@xl"> fixed </div>
+
+  <!-- subtractive matchers -->
+  <div class="p-s
+              p-s@!mn
+              p-s@!xs
+              p-s@!sm
+              p-s@!md
+              p-s@!lg
+              p-s@!xl"> static </div>
+
+  <div class="p-r
+              p-r@!mn
+              p-r@!xs
+              p-r@!sm
+              p-r@!md
+              p-r@!lg
+              p-r@!xl"> relative </div>
+
+  <div class="p-a
+              p-a@!mn
+              p-a@!xs
+              p-a@!sm
+              p-a@!md
+              p-a@!lg
+              p-a@!xl"> auto </div>
+
+  <div class="p-f
+              p-f@!mn
+              p-f@!xs
+              p-f@!sm
+              p-f@!md
+              p-f@!lg
+              p-f@!xl"> fixed </div>
 </body>
 </html>
