@@ -1,0 +1,8 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (max-width: 543px) {
+  .p-s\@\!sm { position: static }
+  .p-r\@\!sm { position: relative }
+  .p-a\@\!sm { position: absolute }
+  .p-f\@\!sm { position: fixed }
+}
