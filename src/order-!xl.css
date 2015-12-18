@@ -1,0 +1,18 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (max-width: 1199px) {
+  .o-0\@\!xl { order: 0 }
+  .o-1\@\!xl { order: 1 }
+  .o-2\@\!xl { order: 2 }
+  .o-3\@\!xl { order: 3 }
+  .o-4\@\!xl { order: 4 }
+  .o-5\@\!xl { order: 5 }
+  .o-6\@\!xl { order: 6 }
+
+  .o-n1\@\!xl { order: -1 }
+  .o-n2\@\!xl { order: -2 }
+  .o-n3\@\!xl { order: -3 }
+  .o-n4\@\!xl { order: -4 }
+  .o-n5\@\!xl { order: -5 }
+  .o-n6\@\!xl { order: -6 }
+}

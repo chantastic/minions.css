@@ -8,6 +8,13 @@
   <link rel="stylesheet" href="./src/background-color_lightness-md.css"></link>
   <link rel="stylesheet" href="./src/background-color_lightness-lg.css"></link>
   <link rel="stylesheet" href="./src/background-color_lightness-xl.css"></link>
+
+  <!-- load order matters for subtractive matchers -->
+  <link rel="stylesheet" href="./src/background-color_lightness-!xl.css"></link>
+  <link rel="stylesheet" href="./src/background-color_lightness-!lg.css"></link>
+  <link rel="stylesheet" href="./src/background-color_lightness-!md.css"></link>
+  <link rel="stylesheet" href="./src/background-color_lightness-!sm.css"></link>
+  <link rel="stylesheet" href="./src/background-color_lightness-!xs.css"></link>
 </head>
 <body>
   <h2> Background Colors (lightness) - steps </h2>
@@ -99,19 +106,97 @@
               gc-l.0@lg
               gc-l.0@xl"> lightness 0 </div>
 
-  <h2> Background Colors (lightness) - steps, mixed </h2>
 
-  <div class="gc-l@mn
-              gc-l.9@xs
-              gc-l.8@sm
-              gc-l.7@md
-              gc-l.6@lg
-              gc-l.5@xl"> lightness - mixed </div>
+  <!-- subtractive matchers -->
 
-  <div class="gc-l.4@mn
-              gc-l.3@xs
-              gc-l.2@sm
-              gc-l.1@md
-              gc-l.0@lg"> lightness - mixed </div>
+
+  <div class="gc-l
+              gc-l@!mn
+              gc-l@!xs
+              gc-l@!sm
+              gc-l@!md
+              gc-l@!lg
+              gc-l@!xl"> lightness </div>
+
+  <div class="gc-l.9
+              gc-l.9@!mn
+              gc-l.9@!xs
+              gc-l.9@!sm
+              gc-l.9@!md
+              gc-l.9@!lg
+              gc-l.9@!xl"> lightness .9 </div>
+
+  <div class="gc-l.8
+              gc-l.8@!mn
+              gc-l.8@!xs
+              gc-l.8@!sm
+              gc-l.8@!md
+              gc-l.8@!lg
+              gc-l.8@!xl"> lightness .8 </div>
+
+  <div class="gc-l.7
+              gc-l.7@!mn
+              gc-l.7@!xs
+              gc-l.7@!sm
+              gc-l.7@!md
+              gc-l.7@!lg
+              gc-l.7@!xl"> lightness .7 </div>
+
+  <div class="gc-l.6
+              gc-l.6@!mn
+              gc-l.6@!xs
+              gc-l.6@!sm
+              gc-l.6@!md
+              gc-l.6@!lg
+              gc-l.6@!xl"> lightness .6 </div>
+
+  <div class="gc-l.5
+              gc-l.5@!mn
+              gc-l.5@!xs
+              gc-l.5@!sm
+              gc-l.5@!md
+              gc-l.5@!lg
+              gc-l.5@!xl"> lightness .5 </div>
+
+  <div class="gc-l.4
+              gc-l.4@!mn
+              gc-l.4@!xs
+              gc-l.4@!sm
+              gc-l.4@!md
+              gc-l.4@!lg
+              gc-l.4@!xl"> lightness .4 </div>
+
+  <div class="gc-l.3
+              gc-l.3@!mn
+              gc-l.3@!xs
+              gc-l.3@!sm
+              gc-l.3@!md
+              gc-l.3@!lg
+              gc-l.3@!xl"> lightness .3 </div>
+
+  <div class="gc-l.2
+              gc-l.2@!mn
+              gc-l.2@!xs
+              gc-l.2@!sm
+              gc-l.2@!md
+              gc-l.2@!lg
+              gc-l.2@!xl"> lightness .2 </div>
+
+  <div class="gc-l.1
+              gc-l.1@!mn
+              gc-l.1@!xs
+              gc-l.1@!sm
+              gc-l.1@!md
+              gc-l.1@!lg
+              gc-l.1@!xl"> lightness .1 </div>
+
+  <div class="gc-l.0
+              gc-l.0@!mn
+              gc-l.0@!xs
+              gc-l.0@!sm
+              gc-l.0@!md
+              gc-l.0@!lg
+              gc-l.0@!xl"> lightness .0 </div>
+
 </body>
 </html>
