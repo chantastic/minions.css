@@ -1,0 +1,8 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (max-width: 767px) {
+  .ta-c\@\!md { text-align: center }
+  .ta-j\@\!md { text-align: justify }
+  .ta-l\@\!md { text-align: left }
+  .ta-r\@\!md { text-align: right }
+}
