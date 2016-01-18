@@ -1,0 +1,28 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+/* +1px */
+.fs-6p  { font-size: 6px }  /* 0.375 em */
+.fs-7p  { font-size: 7px }  /* 0.4375em */
+.fs-8p  { font-size: 8px }  /* 0.5   em */
+.fs-9p  { font-size: 9px }  /* 0.5625em */
+.fs-10p { font-size: 10px } /* 0.625 em */
+.fs-11p { font-size: 11px } /* 0.6875em */
+
+/* +2px */
+.fs-12p { font-size: 12px } /* 0.75  em */ /* 3px base */
+.fs-14p { font-size: 14px } /* 0.875 em */
+.fs-16p { font-size: 16px } /* 1     em */ /* 4px base */
+.fs-18p { font-size: 18px } /* 1.125 em */
+
+/* +4px */
+.fs-20p { font-size: 20px } /* 1.25 em */  /* 5px base */
+.fs-24p { font-size: 24px } /* 1.5  em */
+.fs-28p { font-size: 28px } /* 1.75 em */
+.fs-32p { font-size: 32px } /* 2    em */
+
+/* +8px */
+.fs-40p { font-size: 40px } /* 2.5  em */
+.fs-48p { font-size: 48px } /* 3    em */
+
+/* +16px */
+.fs-64p { font-size: 64px } /* 4    em */

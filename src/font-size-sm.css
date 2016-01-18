@@ -1,0 +1,21 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (min-width: 544px) {
+  .fs-6p\@sm  { font-size: 6px }
+  .fs-7p\@sm  { font-size: 7px }
+  .fs-8p\@sm  { font-size: 8px }
+  .fs-9p\@sm  { font-size: 9px }
+  .fs-10p\@sm { font-size: 10px }
+  .fs-11p\@sm { font-size: 11px }
+  .fs-12p\@sm { font-size: 12px }
+  .fs-14p\@sm { font-size: 14px }
+  .fs-16p\@sm { font-size: 16px }
+  .fs-18p\@sm { font-size: 18px }
+  .fs-20p\@sm { font-size: 20px }
+  .fs-24p\@sm { font-size: 24px }
+  .fs-28p\@sm { font-size: 28px }
+  .fs-32p\@sm { font-size: 32px }
+  .fs-40p\@sm { font-size: 40px }
+  .fs-48p\@sm { font-size: 48px }
+  .fs-64p\@sm { font-size: 64px }
+}
