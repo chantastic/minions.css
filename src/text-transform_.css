@@ -1,0 +1,8 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+.tt_c  { text-transform: capitalize }
+.tt_u  { text-transform: uppercase }
+.tt_l  { text-transform: lowercase }
+.tt_n  { text-transform: none }
+.tt_fw { text-transform: full-width }
+.tt_i  { text-transform: initial }
