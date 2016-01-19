@@ -1,0 +1,20 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+/* pixel */
+.bs-0  { border-radius: 0 }
+.bs-1p { border-radius: 1px }
+.bs-2p { border-radius: 2px }
+.bs-3p { border-radius: 3px }
+.bs-4p { border-radius: 4px }
+
+/* em */
+.bs-025 { border-radius: .25em }
+.bs-05  { border-radius: .5em }
+.bs-1   { border-radius: 1em }
+.bs-2   { border-radius: 2em }
+
+/* rem */
+.bs-025r { border-radius: .25rem }
+.bs-05r  { border-radius: .5rem }
+.bs-1r   { border-radius: 1rem }
+.bs-2r   { border-radius: 2rem }
