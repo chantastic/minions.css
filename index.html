@@ -45,6 +45,9 @@
   <link rel="stylesheet" href="./src/left.css"></link>
   <link rel="stylesheet" href="./src/text-decoration.css"></link>
   <link rel="stylesheet" href="./src/text-decoration_.css"></link>
+  <link rel="stylesheet" href="./src/transition-property.css"></link>
+  <link rel="stylesheet" href="./src/transition-duration.css"></link>
+  <link rel="stylesheet" href="./src/transition-timing-function.css"></link>
 </head>
 <body>
   <h2 id="display"> Display </h2>
@@ -867,5 +870,38 @@
   <div class="td_o"> <span>using text-decoration rule: <code>.td-o</code></span></div>
   <div class="td_n"> <span>using text-decoration rule: <code>.td-n</code></span></div>
   <div class="td_u"> <span>using text-decoration rule: <code>.td-u</code></span></div>
+
+  <style>
+    .hover-demo       { cursor: default }
+    .hover-demo:hover { opacity: .1 }
+  </style>
+
+  <h2 id="transition-property"> Transition Property </h2>
+  <div class="tp-a td-.2s ttf-eio hover-demo">tp-a td-.2s ttf-eio</div>
+  <div class="tp-n td-.2s ttf-eio hover-demo">tp-n td-.2s ttf-eio</div>
+  <div class="tp-i td-.2s ttf-eio hover-demo">tp-i td-.2s ttf-eio</div>
+  <div class="tp-u td-.2s ttf-eio hover-demo">tp-u td-.2s ttf-eio</div>
+  <div class="tp-o td-.2s ttf-eio hover-demo">tp-o td-.2s ttf-eio</div>
+
+  <h2 id="transition-duration"> Transition Duration </h2>
+  <div class="tp-a td-.1s ttf-eio hover-demo">tp-a td-.1s ttf-eio</div>
+  <div class="tp-a td-.2s ttf-eio hover-demo">tp-a td-.2s ttf-eio</div>
+  <div class="tp-a td-.3s ttf-eio hover-demo">tp-a td-.3s ttf-eio</div>
+  <div class="tp-a td-.4s ttf-eio hover-demo">tp-a td-.4s ttf-eio</div>
+  <div class="tp-a td-.5s ttf-eio hover-demo">tp-a td-.5s ttf-eio</div>
+  <div class="tp-a td-.6s ttf-eio hover-demo">tp-a td-.6s ttf-eio</div>
+  <div class="tp-a td-.7s ttf-eio hover-demo">tp-a td-.7s ttf-eio</div>
+  <div class="tp-a td-.8s ttf-eio hover-demo">tp-a td-.8s ttf-eio</div>
+  <div class="tp-a td-.9s ttf-eio hover-demo">tp-a td-.9s ttf-eio</div>
+  <div class="tp-a td-1s  ttf-eio hover-demo">tp-a td-1s  ttf-eio</div>
+
+  <h2 id="transition-timing-function"> Transition Timing Function </h2>
+  <div class="tp-a td-1s ttf-l   hover-demo">tp-a td-1s ttf-l</div>
+  <div class="tp-a td-1s ttf-e   hover-demo">tp-a td-1s ttf-e</div>
+  <div class="tp-a td-1s ttf-ei  hover-demo">tp-a td-1s ttf-ei</div>
+  <div class="tp-a td-1s ttf-eio hover-demo">tp-a td-1s ttf-eio</div>
+  <div class="tp-a td-1s ttf-eo  hover-demo">tp-a td-1s ttf-eo</div>
+  <div class="tp-a td-1s ttf-ss  hover-demo">tp-a td-1s ttf-ss</div>
+  <div class="tp-a td-1s ttf-se  hover-demo">tp-a td-1s ttf-se</div>
 </body>
 </html>

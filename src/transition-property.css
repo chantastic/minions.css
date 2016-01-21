@@ -1,0 +1,12 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+.tp-a { transition-property: all }
+.tp-n { transition-property: none }
+.tp-i { transition-property: initial }
+.tp-u { transition-property: unset }
+
+/* performant animations */
+
+.tp-o { transform-property: opacity }
+
+/* common patterns might get abstracted after being identified */
