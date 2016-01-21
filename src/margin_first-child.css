@@ -1,0 +1,111 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+.m_0\:fc     > *:first-child { margin:        0 }
+  .mt_0\:fc  > *:first-child { margin-top:    0 }
+  .mr_0\:fc  > *:first-child { margin-right:  0 }
+  .mb_0\:fc  > *:first-child { margin-bottom: 0 }
+  .ml_0\:fc  > *:first-child { margin-left:   0 }
+  .mx_0\:fc  > *:first-child { margin-right:  0; margin-left:   0 }
+  .my_0\:fc  > *:first-child { margin-top:    0; margin-bottom: 0 }
+
+/* -- px */
+
+.m_1p\:fc    > *:first-child { margin:        1px }
+  .mt_1p\:fc > *:first-child { margin-top:    1px }
+  .mr_1p\:fc > *:first-child { margin-right:  1px }
+  .mb_1p\:fc > *:first-child { margin-bottom: 1px }
+  .ml_1p\:fc > *:first-child { margin-left:   1px }
+  .mx_1p\:fc > *:first-child { margin-right:  1px; margin-left:   1px }
+  .my_1p\:fc > *:first-child { margin-top:    1px; margin-bottom: 1px }
+
+.m_2p\:fc    > *:first-child { margin:        2px }
+  .mt_2p\:fc > *:first-child { margin-top:    2px }
+  .mr_2p\:fc > *:first-child { margin-right:  2px }
+  .mb_2p\:fc > *:first-child { margin-bottom: 2px }
+  .ml_2p\:fc > *:first-child { margin-left:   2px }
+  .mx_2p\:fc > *:first-child { margin-right:  2px; margin-left:   2px }
+  .my_2p\:fc > *:first-child { margin-top:    2px; margin-bottom: 2px }
+
+.m_3p\:fc    > *:first-child { margin:        3px }
+  .mt_3p\:fc > *:first-child { margin-top:    3px }
+  .mr_3p\:fc > *:first-child { margin-right:  3px }
+  .mb_3p\:fc > *:first-child { margin-bottom: 3px }
+  .ml_3p\:fc > *:first-child { margin-left:   3px }
+  .mx_3p\:fc > *:first-child { margin-right:  3px; margin-left:   3px }
+  .my_3p\:fc > *:first-child { margin-top:    3px; margin-bottom: 3px }
+
+.m_4p\:fc    > *:first-child { margin:        4px }
+  .mt_4p\:fc > *:first-child { margin-top:    4px }
+  .mr_4p\:fc > *:first-child { margin-right:  4px }
+  .mb_4p\:fc > *:first-child { margin-bottom: 4px }
+  .ml_4p\:fc > *:first-child { margin-left:   4px }
+  .mx_4p\:fc > *:first-child { margin-right:  4px; margin-left:   4px }
+  .my_4p\:fc > *:first-child { margin-top:    4px; margin-bottom: 4px }
+
+/* -- em */
+
+.m_025\:fc    > *:first-child { margin:        .25em }
+  .mt_025\:fc > *:first-child { margin-top:    .25em }
+  .mr_025\:fc > *:first-child { margin-right:  .25em }
+  .mb_025\:fc > *:first-child { margin-bottom: .25em }
+  .ml_025\:fc > *:first-child { margin-left:   .25em }
+  .mx_025\:fc > *:first-child { margin-right:  .25em; margin-left:   .25em }
+  .my_025\:fc > *:first-child { margin-top:    .25em; margin-bottom: .25em }
+
+.m_05\:fc    > *:first-child { margin:        .5em }
+  .mt_05\:fc > *:first-child { margin-top:    .5em }
+  .mr_05\:fc > *:first-child { margin-right:  .5em }
+  .mb_05\:fc > *:first-child { margin-bottom: .5em }
+  .ml_05\:fc > *:first-child { margin-left:   .5em }
+  .mx_05\:fc > *:first-child { margin-right:  .5em; margin-left:   .5em }
+  .my_05\:fc > *:first-child { margin-top:    .5em; margin-bottom: .5em }
+
+.m_1\:fc     > *:first-child { margin:        1em }
+  .mt_1\:fc  > *:first-child { margin-top:    1em }
+  .mr_1\:fc  > *:first-child { margin-right:  1em }
+  .mb_1\:fc  > *:first-child { margin-bottom: 1em }
+  .ml_1\:fc  > *:first-child { margin-left:   1em }
+  .mx_1\:fc  > *:first-child { margin-right:  1em; margin-left:   1em }
+  .my_1\:fc  > *:first-child { margin-top:    1em; margin-bottom: 1em }
+
+.m_2\:fc    > *:first-child { margin:        2em }
+  .mt_2\:fc > *:first-child { margin-top:    2em }
+  .mr_2\:fc > *:first-child { margin-right:  2em }
+  .mb_2\:fc > *:first-child { margin-bottom: 2em }
+  .ml_2\:fc > *:first-child { margin-left:   2em }
+  .mx_2\:fc > *:first-child { margin-right:  2em; margin-left:   .2em }
+  .my_2\:fc > *:first-child { margin-top:    2em; margin-bottom: .2em }
+
+/* -- rem */
+
+.m_025r\:fc    > *:first-child { margin:        .25rem }
+  .mt_025r\:fc > *:first-child { margin-top:    .25rem }
+  .mr_025r\:fc > *:first-child { margin-right:  .25rem }
+  .mb_025r\:fc > *:first-child { margin-bottom: .25rem }
+  .ml_025r\:fc > *:first-child { margin-left:   .25rem }
+  .mx_025r\:fc > *:first-child { margin-right:  .25rem; margin-left:   .25rem }
+  .my_025r\:fc > *:first-child { margin-top:    .25rem; margin-bottom: .25rem }
+
+.m_05r\:fc     > *:first-child { margin:        .5rem }
+  .mt_05r\:fc  > *:first-child { margin-top:    .5rem }
+  .mr_05r\:fc  > *:first-child { margin-right:  .5rem }
+  .mb_05r\:fc  > *:first-child { margin-bottom: .5rem }
+  .ml_05r\:fc  > *:first-child { margin-left:   .5rem }
+  .mx_05r\:fc  > *:first-child { margin-right:  .5rem; margin-left:   .5rem }
+  .my_05r\:fc  > *:first-child { margin-top:    .5rem; margin-bottom: .5rem }
+
+.m_1r\:fc     > *:first-child { margin:        1rem }
+  .mt_1r\:fc  > *:first-child { margin-top:    1rem }
+  .mr_1r\:fc  > *:first-child { margin-right:  1rem }
+  .mb_1r\:fc  > *:first-child { margin-bottom: 1rem }
+  .ml_1r\:fc  > *:first-child { margin-left:   1rem }
+  .mx_1r\:fc  > *:first-child { margin-right:  1rem; margin-left:   1rem }
+  .my_1r\:fc  > *:first-child { margin-top:    1rem; margin-bottom: 1rem }
+
+.m_2r\:fc     > *:first-child { margin:        2rem }
+  .mt_2r\:fc  > *:first-child { margin-top:    2rem }
+  .mr_2r\:fc  > *:first-child { margin-right:  2rem }
+  .mb_2r\:fc  > *:first-child { margin-bottom: 2rem }
+  .ml_2r\:fc  > *:first-child { margin-left:   2rem }
+  .mx_2r\:fc  > *:first-child { margin-right:  2rem; margin-left:   2rem }
+  .my_2r\:fc  > *:first-child { margin-top:    2rem; margin-bottom: 2rem }
