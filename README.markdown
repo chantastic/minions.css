@@ -74,6 +74,11 @@ Where there is a conflict, the basic rules should still apply. `background-color
     bc = border-color
     gc = background-color
 
+Another conflict is with `border-radius`, conflicting with `border-right`. I've used `bs` here.
+
+    br = border-right
+    bs = border-radius
+
 Sadly, these exceptions just have to be memorized and internalized. Fortunately, there aren't many of them.
 
 #### value-shorthand
@@ -134,20 +139,42 @@ There is only one number prefix. `n` may be used to prefix a number as `negative
 ## property lexicon
     ai  = align-items
     as  = align-self
-    bw  = border-width
+    b   = bottom
     bc  = border-color
+    bs  = border-bs *
+    bw  = border-width
     c   = color
     d   = display
-    f   = float, flex
+    f   = float
+          flex
     fd  = flex-direction
-    gc  = background-color
+    fs  = flex-size
+    fw  = flex-weight
+          flex-wrap
+    gc  = background-color *
     jc  = justify-content
+    l   = left
+    lh  = line-height
+    lst = list-style-type
     m   = margin
-    o   = opacity, overflow, order
-    p   = padding, position
+    o   = opacity
+          order
+          overflow
+    p   = padding
+          position
+    r   = right
+    t   = top
     ta  = text-align
+    td  = text-decoration
+          transition-duration
+    tp  = transition-property
+    tt  = text-transform
+    ttf = text-timing-function
     v   = visibility
     w   = width
+    zi  = z-index
+
+    * see #property-shorthand section for why these are named strangely
 
 ### attributes
 
