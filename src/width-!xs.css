@@ -1,0 +1,25 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (max-width: 319px) {
+  .w-a\!\@xs  { width: auto }
+  .w-mc\!\@xs { width: max-content }
+  .w-nc\!\@xs { width: min-content }
+  .w-fc\!\@xs { width: fit-content }
+  .w-i\!\@xs  { width: initial }
+  .w-u\!\@xs  { width: unset }
+
+  .w-10\%\!\@xs  { width: 10% }
+  .w-20\%\!\@xs  { width: 20% }
+  .w-25\%\!\@xs  { width: 25% }
+  .w-30\%\!\@xs  { width: 30% }
+  .w-33\%\!\@xs  { width: 33% }
+  .w-40\%\!\@xs  { width: 40% }
+  .w-50\%\!\@xs  { width: 50% }
+  .w-60\%\!\@xs  { width: 60% }
+  .w-66\%\!\@xs  { width: 66% }
+  .w-70\%\!\@xs  { width: 70% }
+  .w-75\%\!\@xs  { width: 75% }
+  .w-80\%\!\@xs  { width: 80% }
+  .w-90\%\!\@xs  { width: 90% }
+  .w-100\%\!\@xs { width: 100% }
+}

@@ -8,9 +8,17 @@
   <link rel="stylesheet" href="./src/width-md.css"></link>
   <link rel="stylesheet" href="./src/width-lg.css"></link>
   <link rel="stylesheet" href="./src/width-xl.css"></link>
+
+  <!-- load order matters for subtractive matchers -->
+  <link rel="stylesheet" href="./src/width-!xl.css"></link>
+  <link rel="stylesheet" href="./src/width-!lg.css"></link>
+  <link rel="stylesheet" href="./src/width-!md.css"></link>
+  <link rel="stylesheet" href="./src/width-!sm.css"></link>
+  <link rel="stylesheet" href="./src/width-!xs.css"></link>
 </head>
 <body>
   <h2 id="margin"> Width - steps </h2>
+  <h4> Additive Matchers </h4>
   <div class="w-a w-a@mn w-a@xs w-a@sm w-a@md w-a@lg w-a@xl"> auto </div>
   <div class="w-mc w-mc@mn w-mc@xs w-mc@sm w-mc@md w-mc@lg w-mc@xl"> max-content </div>
   <div class="w-nc w-nc@mn w-nc@xs w-nc@sm w-nc@md w-nc@lg w-nc@xl"> min-content </div>
@@ -29,5 +37,25 @@
   <div class="w-80% w-80%@mn w-80%@xs w-80%@sm w-80%@md w-80%@lg w-80%@xl"> 80% </div>
   <div class="w-90% w-90%@mn w-90%@xs w-90%@sm w-90%@md w-90%@lg w-90%@xl"> 90% </div>
   <div class="w-100% w-100%@mn w-100%@xs w-100%@sm w-100%@md w-100%@lg w-100%@xl"> 100% </div>
+
+  <h4> Subtractive Matchers </h4>
+  <div class="w-a w-a!@mn w-a!@xs w-a!@sm w-a!@md w-a!@lg w-a!@xl"> auto </div>
+  <div class="w-mc w-mc!@mn w-mc!@xs w-mc!@sm w-mc!@md w-mc!@lg w-mc!@xl"> max-content </div>
+  <div class="w-nc w-nc!@mn w-nc!@xs w-nc!@sm w-nc!@md w-nc!@lg w-nc!@xl"> min-content </div>
+  <div class="w-fc w-fc!@mn w-fc!@xs w-fc!@sm w-fc!@md w-fc!@lg w-fc!@xl"> fit-content </div>
+
+  <div class="w-i w-i!@mn w-i!@xs w-i!@sm w-i!@md w-i!@lg w-i!@xl"> initial </div>
+  <div class="w-u w-u!@mn w-u!@xs w-u!@sm w-u!@md w-u!@lg w-u!@xl"> unset</div>
+
+  <div class="w-10% w-10%!@mn w-10%!@xs w-10%!@sm w-10%!@md w-10%!@lg w-10%!@xl"> 10% </div>
+  <div class="w-20% w-20%!@mn w-20%!@xs w-20%!@sm w-20%!@md w-20%!@lg w-20%!@xl"> 20% </div>
+  <div class="w-30% w-30%!@mn w-30%!@xs w-30%!@sm w-30%!@md w-30%!@lg w-30%!@xl"> 30% </div>
+  <div class="w-40% w-40%!@mn w-40%!@xs w-40%!@sm w-40%!@md w-40%!@lg w-40%!@xl"> 40% </div>
+  <div class="w-50% w-50%!@mn w-50%!@xs w-50%!@sm w-50%!@md w-50%!@lg w-50%!@xl"> 50% </div>
+  <div class="w-60% w-60%!@mn w-60%!@xs w-60%!@sm w-60%!@md w-60%!@lg w-60%!@xl"> 60% </div>
+  <div class="w-70% w-70%!@mn w-70%!@xs w-70%!@sm w-70%!@md w-70%!@lg w-70%!@xl"> 70% </div>
+  <div class="w-80% w-80%!@mn w-80%!@xs w-80%!@sm w-80%!@md w-80%!@lg w-80%!@xl"> 80% </div>
+  <div class="w-90% w-90%!@mn w-90%!@xs w-90%!@sm w-90%!@md w-90%!@lg w-90%!@xl"> 90% </div>
+  <div class="w-100% w-100%!@mn w-100%!@xs w-100%!@sm w-100%!@md w-100%!@lg w-100%!@xl"> 100% </div>
 </body>
 </html>
