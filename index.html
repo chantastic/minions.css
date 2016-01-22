@@ -25,6 +25,7 @@
   <link rel="stylesheet" href="./src/border-color_lightness.css"></link>
   <link rel="stylesheet" href="./src/flex_.css"></link>
   <link rel="stylesheet" href="./src/flex.css"></link>
+  <link rel="stylesheet" href="./src/flex-wrap.css"></link>
   <link rel="stylesheet" href="./src/-row-gutter.css"></link>
   <link rel="stylesheet" href="./src/-column-gutter.css"></link>
   <link rel="stylesheet" href="./src/align-items.css"></link>
@@ -79,6 +80,28 @@
     <div class="f-4 bw-1p"> flex: 4 </div>
     <div class="f-5 bw-1p"> flex: 5 </div>
     <div class="f-6 bw-1p"> flex: 6 </div>
+  </div>
+
+  <h2 id="flex-wrap"> Flex Wrap </h2>
+  <h4> .fw-w </h4>
+  <div class="fw-w d-f">
+    <div style="width: 50%"> width: 50% </div>
+    <div style="width: 50%"> width: 50% </div>
+    <div style="width: 50%"> width: 50% </div>
+  </div>
+
+  <h4> .fw-n </h4>
+  <div class="fw-n d-f">
+    <div style="width: 50%"> width: 50% (width not honored) </div>
+    <div style="width: 50%"> width: 50% (width not honored) </div>
+    <div style="width: 50%"> width: 50% (width not honored) </div>
+  </div>
+
+  <h4> .fw-wr </h4>
+  <div class="fw-wr d-f">
+    <div style="width: 50%"> width: 50% (width not honored) </div>
+    <div style="width: 50%"> width: 50% (width not honored) </div>
+    <div style="width: 50%"> width: 50% (width not honored) </div>
   </div>
 
   <h4> .fd-r.f_1 </h4>
