@@ -149,7 +149,7 @@ There is only one number prefix. `n` may be used to prefix a number as `negative
           flex
     fd  = flex-direction
     fs  = flex-size
-    fw  = flex-weight
+    fw  = font-weight
           flex-wrap
     gc  = background-color *
     jc  = justify-content
