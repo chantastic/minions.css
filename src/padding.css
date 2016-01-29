@@ -76,6 +76,14 @@
   .px-2  { padding-right:  2em; padding-left:   2em }
   .py-2  { padding-top:    2em; padding-bottom: 2em }
 
+.p-3     { padding:        3em }
+  .pt-3  { padding-top:    3em }
+  .pr-3  { padding-right:  3em }
+  .pb-3  { padding-bottom: 3em }
+  .pl-3  { padding-left:   3em }
+  .px-3  { padding-right:  3em; padding-left:   3em }
+  .py-3  { padding-top:    3em; padding-bottom: 3em }
+
 /* -- rem */
 
 .p-025r    { padding:        .25rem }
@@ -109,3 +117,11 @@
   .pl-2r  { padding-left:   2rem }
   .px-2r  { padding-right:  2rem; padding-left:   2rem }
   .py-2r  { padding-top:    2rem; padding-bottom: 2rem }
+
+.p-3r     { padding:        3rem }
+  .pt-3r  { padding-top:    3rem }
+  .pr-3r  { padding-right:  3rem }
+  .pb-3r  { padding-bottom: 3rem }
+  .pl-3r  { padding-left:   3rem }
+  .px-3r  { padding-right:  3rem; padding-left:   3rem }
+  .py-3r  { padding-top:    3rem; padding-bottom: 3rem }
