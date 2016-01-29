@@ -201,12 +201,14 @@ p-025 { padding: .25em }
 p-05  { padding: .5em }
 p-1   { padding: 1em }
 p-2   { padding: 2em }
+p-3   { padding: 3em }
 
 /* rem */
 p-025r { padding: .25em }
 p-05r  { padding: .5em }
 p-1r   { padding: 1em }
 p-2r   { padding: 2em }
+p-3r   { padding: 3em }
 ```
 
 ## Padding

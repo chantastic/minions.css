@@ -74,8 +74,16 @@
   .pr-2\@xs { padding-right:  2em }
   .pb-2\@xs { padding-bottom: 2em }
   .pl-2\@xs { padding-left:   2em }
-  .px-2\@xs { padding-right:  2em; padding-left:   .2em }
-  .py-2\@xs { padding-top:    2em; padding-bottom: .2em }
+  .px-2\@xs { padding-right:  2em; padding-left:   2em }
+  .py-2\@xs { padding-top:    2em; padding-bottom: 2em }
+
+  .p-3\@xs  { padding:        3em }
+  .pt-3\@xs { padding-top:    3em }
+  .pr-3\@xs { padding-right:  3em }
+  .pb-3\@xs { padding-bottom: 3em }
+  .pl-3\@xs { padding-left:   3em }
+  .px-3\@xs { padding-right:  3em; padding-left:   3em }
+  .py-3\@xs { padding-top:    3em; padding-bottom: 3em }
 
   /* -- rem */
 
@@ -110,4 +118,12 @@
   .pl-2r\@xs  { padding-left:   2rem }
   .px-2r\@xs  { padding-right:  2rem; padding-left:   2rem }
   .py-2r\@xs  { padding-top:    2rem; padding-bottom: 2rem }
+
+  .p-3r\@xs   { padding:        3rem }
+  .pt-3r\@xs  { padding-top:    3rem }
+  .pr-3r\@xs  { padding-right:  3rem }
+  .pb-3r\@xs  { padding-bottom: 3rem }
+  .pl-3r\@xs  { padding-left:   3rem }
+  .px-3r\@xs  { padding-right:  3rem; padding-left:   3rem }
+  .py-3r\@xs  { padding-top:    3rem; padding-bottom: 3rem }
 }
