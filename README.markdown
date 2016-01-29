@@ -141,9 +141,10 @@ There is only one number prefix. `n` may be used to prefix a number as `negative
     as  = align-self
     b   = bottom
     bc  = border-color
-    bs  = border-bs *
+    bs  = border-radius *
     bw  = border-width
     c   = color
+          cursor
     d   = display
     f   = float
           flex
