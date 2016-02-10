@@ -148,6 +148,7 @@ There is only one number prefix. `n` may be used to prefix a number as `negative
     d   = display
     f   = float
           flex
+    fb  = flex-basis
     fd  = flex-direction
     fs  = flex-size
     fw  = font-weight
