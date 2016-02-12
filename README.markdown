@@ -136,6 +136,13 @@ There is only one number prefix. `n` may be used to prefix a number as `negative
     .o-1  { order: 1 }
     .o-n1 { order: -1 }
 
+#### theming
+
+The ability to theme minions is important. There's a simple convention for themeable values. If the value side of the `-` isn't abbreviated, it's themeable. Everything else is static. Here's an example:
+
+    .c-r   /* static, don't touch this */
+    .c-red /* variable. theme the shit out of this one */
+
 ## property lexicon
     ai  = align-items
     as  = align-self
