@@ -4,8 +4,13 @@
   "description": "evil micro-classes",
   "main": "minions.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cleancss --s1 -o dist/minions.min.css _build_all.css"
   },
   "author": "Michael Chan (@chantastic)",
-  "license": "MIT"
+  "repository": "https://github.com/chantastic/minions.css",
+  "license": "MIT",
+  "dependencies": {
+    "clean-css": "^3.4.9"
+  }
 }
