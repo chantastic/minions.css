@@ -16,7 +16,7 @@ Evil, friendly, and obedient immutable CSS class selectors.
 ## prior art
 
 * [tachyons](http://tachyons.io/) - This is the first library I'd seen that went completely down the rabbit-hole of Atomic CSS with media-queries.
-* [gravatons](http://jxnblk.com/gravitons/) - Brent's projects are some of my favorite on the internet. Gravatons and [basscss](http://www.basscss.com/) make an elegant and minimal framework.
+* [gravitons](http://jxnblk.com/gravitons/) - Brent's projects are some of my favorite on the internet. Gravitons and [basscss](http://www.basscss.com/) make an elegant and minimal framework.
 
 ### experimentation
 
