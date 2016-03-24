@@ -1,0 +1,105 @@
+<!doctype html>
+<html class="bs*bb h-100% fs-14p lh-18p">
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="./vendor/normalize.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="../dist/minions.min.css" type="text/css" media="screen" />
+</head>
+
+<style>
+  /*
+   * These are rules that don't yet live in minions but fit this example.
+   * As I build more examples more of these will find their way into a minions build.
+   */
+
+  html { color: #4d4d4d }
+  body {
+    background-size: cover;
+    background-color: rgb(0, 174, 204);
+  }
+
+  .list {
+    width: 270px;
+    background-color: #e2e4e6;
+  }
+
+  .list-footer {
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+  }
+
+  .list-footer:hover { background-color: rgba(0,0,0,0.1) }
+
+  .card {
+    background-color: white;
+    box-shadow: 0 1px 0 #bbb;
+  }
+
+  .card:hover { background-color: #eee }
+
+  .d_ib > * { display: inline-block }
+
+  .c_p > * { cursor: pointer }
+
+  .h-100\% { height: 100% }
+
+  .ws-n { white-space: nowrap } /* ummm... white-space: normal
+
+  .us-n {
+    -webkit-user-select: none
+    -moz-user-select: none
+    -ms-user-select: none
+  }
+
+  .va-t { vertical-align: top }
+  .oy-o { overflow-y: overlay }
+  .ww-bw { word-wrap: break-word }
+
+  /* add translate3d hack */
+</style>
+
+<body class="h-100% o-h">
+  <div class="surface d-f fd-c h-100%">
+    <div class="content p-r" style="flex-grow: 1">
+      <div class="board-wrapper p-a t-0 r-0 b-0 l-0">
+        <div class="board-main-content h-100% d-f fd-c mr-0" style="transition: margin .1s ease-in">
+          <div class="board-header p-r" style="flex-grow: 1">
+            This is a Board
+          </div>
+
+          <div class="board-canvas p-r" style="flex-grow: 1">
+            <div class="board p-a ws-n mb-1 pb-1 ox-a oy-h t-0 r-0 b-0 l-0 us-n -wos">
+              <div class="list-wrapper ml-0 my-0 mx-05 h-100% d-ib va-t ws-n va-t" style="width: 270px; box-sizing: border-box">
+                <div class="list p-r bs-3p d-f fd-c" style="background-color: #e2e4e6; box-sizing: border-box; max-height: 100%; white-space: normal">
+                  <div class="list-header p-r c-g p-05" style="flex: 0 0 auto; min-height: 19px">
+                    To Do
+                  </div>
+
+                  <div class="list-cards oy-o mr-2p py-0 px-025 ox-h my-0 mx-025 -wos" style="flex: 1 1 auto; z-index: 1; min-height: 0">
+                    <div class="list-card p-r gc-l bc-l.7 bbw-1p bs-3p c-p mb-05" style="max-width: 300px; min-height:20px; z-index: 0">
+                      <div class="list-card-details o-a p-05 p-r" style="z-index: 10">
+                        <a class="list-card-title d-b fw-400 m-0 mb-4p o-h td-n ww-bw" style="clear: both; color: #4d4d4d" href="#">This is a card which should wrap around to a second line.</a>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="list-cards oy-o mr-2p py-0 px-025 ox-h my-0 mx-025 -wos" style="flex: 1 1 auto; z-index: 1; min-height: 0">
+                    <div class="list-card p-r gc-l bc-l.7 bbw-1p bs-3p c-p mb-05" style="max-width: 300px; min-height:20px; z-index: 0">
+                      <div class="list-card-details o-a p-05 p-r" style="z-index: 10">
+                        <a class="list-card-title d-b fw-400 m-0 mb-4p o-h td-n ww-bw" style="clear: both; color: #4d4d4d" href="#">This is a card which should wrap around to a second line.</a>
+                      </div>
+                    </div>
+                  </div>
+                <div>
+              </div>
+
+              <a class="open-card-composer c-l.5 d-b p-05 p-r td-n us-n" style="flex: 0 0 auto; border-radius: 0 0 3px 3px">Add a card...</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

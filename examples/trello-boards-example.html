@@ -1,0 +1,103 @@
+<!doctype html>
+<html class="bs*bb">
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="./vendor/normalize.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="../dist/minions.min.css" type="text/css" media="screen" />
+</head>
+
+<style>
+  /*
+   * These are rules that don't yet live in minions but fit this example.
+   * As I build more examples more of these will find their way into a minions build.
+   */
+
+  .bs\*bb * { box-sizing: border-box }
+
+  .c-a\.7 { color: hsla(0, 0%, 100%, .7) }
+
+  .px-075 { padding: 0.75em }
+
+  .mh-5 { min-height: 5em }
+
+  .r-075 { right: .75em }
+
+  .fs-larger { font-size: 150% }
+  .fs-larger\:h:hover { transform: scale(1.4) }
+
+  @media (min-width: 768px) {
+    .mw_25\%\@md > * { min-width: 25% }
+    .ml_1\@md > * { margin-left: 1em }
+    .ml_0\:nc\(4n\+4\)\@=md > *:nth-child(4n+4) { margin-left: 0 }
+    .w_33\%\@md > * { width: 33% }
+  }
+
+  @media (min-width: 768px) and (max-width: 991px) {
+    .ml_0\:nc\(4n\+4\)\@\=md > *:nth-child(4n+4) { margin-left: 0 }
+  }
+
+  @media (min-width: 992px) {
+    .mw_20\%\@lg > * { min-width: 20% }
+    .ml_0\:nc\(5n\+5\)\@lg > *:nth-child(5n+5) { margin-left: 0 }
+    .w_25\%\@lg > * { width: 25% }
+  }
+</style>
+
+<body class="github-theme">
+  <main class="p-05 p-1@md mt-1">
+    <h4 class="c-l.3 m-0">
+      <i class="fa fa-user fs-larger c-l.7 mr-05"></i>
+      My Boards
+    </h4>
+
+    <ul class="p-0 lst-n d-f fw-w fd-c fd-r@md w-100% w_33%@md w_25%@lg mb_1">
+      <li>
+        <a class="p-r d-b px-075 py-05 bs-3p td-n mr-1@md mh-5 gc-blue c-white" href="#">
+          <div class="pr-2">
+            <div class="fw-b tt-u">Board One</div>
+            <div class="c-a.7 fs-14p lh-22p">A potentially big description block.</div>
+            <i class="fa fa-star-o c-yellow p-a t-0 r-0 px-075 py-05 fs-larger:h td-a td-.1s ttf-eio"></i>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="p-r d-b px-075 py-05 bs-3p td-n mr-1@md mh-5 gc-olive c-white" href="#">
+          <div class="pr-2">
+            <div class="fw-b tt-u">Board One</div>
+            <div class="c-a.7 fs-14p lh-22p">A potentially big description block.</div>
+            <i class="fa fa-star-o c-yellow p-a t-0 r-0 px-075 py-05 fs-larger:h td-a td-.1s ttf-eio"></i>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="p-r d-b px-075 py-05 bs-3p td-n mr-1@md mh-5 gc-blue c-white" href="#">
+          <div class="pr-2">
+            <div class="fw-b tt-u">Board One</div>
+            <div class="c-a.7 fs-14p lh-22p">A potentially big description block.</div>
+            <i class="fa fa-star-o c-yellow p-a t-0 r-0 px-075 py-05 fs-larger:h td-a td-.1s ttf-eio"></i>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="p-r d-b px-075 py-05 bs-3p td-n mr-1@md mh-5 gc-maroon c-white" href="#">
+          <div class="pr-2">
+            <div class="fw-b tt-u">Board One</div>
+            <div class="c-a.7 fs-14p lh-22p">A potentially big description block.</div>
+            <i class="fa fa-star-o c-yellow p-a t-0 r-0 px-075 py-05 fs-larger:h td-a td-.1s ttf-eio"></i>
+          </div>
+        </a>
+      </li>
+      <li>
+        <a class="p-r d-b px-075 py-05 bs-3p td-n mr-1@md mh-5 gc-orange c-white" href="#">
+          <div class="pr-2">
+            <div class="fw-b tt-u">Board One</div>
+            <div class="c-a.7 fs-14p lh-22p">A potentially big description block.</div>
+            <i class="fa fa-star-o c-yellow p-a t-0 r-0 px-075 py-05 fs-larger:h td-a td-.1s ttf-eio"></i>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </main>
+</body>
+</html>
