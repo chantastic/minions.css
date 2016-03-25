@@ -112,6 +112,12 @@
 @import "./src/flex-md.css";
 @import "./src/flex-mn.css";
 @import "./src/flex-sm.css";
+@import "./src/flex-wrap-lg.css";
+@import "./src/flex-wrap-md.css";
+@import "./src/flex-wrap-mn.css";
+@import "./src/flex-wrap-sm.css";
+@import "./src/flex-wrap-xl.css";
+@import "./src/flex-wrap-xs.css";
 @import "./src/flex-wrap.css";
 @import "./src/flex-xl.css";
 @import "./src/flex-xs.css";
