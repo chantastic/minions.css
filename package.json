@@ -1,6 +1,6 @@
 {
   "name": "minions.css",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "evil micro-classes",
   "main": "minions.css",
   "scripts": {
