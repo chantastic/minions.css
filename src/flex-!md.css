@@ -3,6 +3,7 @@
 @media (max-width: 767px) {
   .fd-c\@\!md { flex-direction: column }
   .fd-r\@\!md { flex-direction: row }
+  .fb-0\@\!md { flex-basis: 0 }
 
   .f-1\@\!md { flex: 1 }
   .f-2\@\!md { flex: 2 }
