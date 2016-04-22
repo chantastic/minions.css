@@ -3,6 +3,7 @@
 @media (min-width: 992px) {
   .fd-c\@lg { flex-direction: column }
   .fd-r\@lg { flex-direction: row }
+  .fb-0\@lg { flex-basis: 0 }
 
   .f-1\@lg { flex: 1 }
   .f-2\@lg { flex: 2 }

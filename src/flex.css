@@ -2,6 +2,7 @@
 
 .fd-c { flex-direction: column }
 .fd-r { flex-direction: row }
+.fb-0 { flex-basis: 0 }
 
 .f-1 { flex: 1 }
 .f-2 { flex: 2 }
