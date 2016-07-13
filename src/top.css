@@ -15,7 +15,7 @@
 .t-2   { top: 2em }
 
 /* --rem */
-.t-025r { top: .25em }
-.t-05r  { top: .5em }
-.t-1r   { top: 1em }
-.t-2r   { top: 2em }
+.t-025r { top: .25rem }
+.t-05r  { top: .5rem }
+.t-1r   { top: 1rem }
+.t-2r   { top: 2rem }
