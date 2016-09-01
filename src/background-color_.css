@@ -19,3 +19,5 @@
 .gc_gray    > * { background-color: #aaaaaa }
 .gc_silver  > * { background-color: #dddddd }
 .gc_black   > * { background-color: #111111 }
+
+.gc_t       > * { background-color: transparent }

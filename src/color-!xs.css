@@ -20,4 +20,6 @@
   .c-gray\@\!xs    { color: #aaaaaa }
   .c-silver\@\!xs  { color: #dddddd }
   .c-black\@\!xs   { color: #111111 }
+
+  .c-t\@\!xs       { color: transparent }
 }

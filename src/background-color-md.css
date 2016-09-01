@@ -20,4 +20,6 @@
   .gc-gray\@md    { background-color: #aaaaaa }
   .gc-silver\@md  { background-color: #dddddd }
   .gc-black\@md   { background-color: #111111 }
+
+  .gc-t\@md       { background-color: transparent }
 }

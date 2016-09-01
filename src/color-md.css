@@ -20,4 +20,6 @@
   .c-gray\@md    { color: #aaaaaa }
   .c-silver\@md  { color: #dddddd }
   .c-black\@md   { color: #111111 }
+
+  .c-t\@md       { color: transparent }
 }

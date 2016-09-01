@@ -20,4 +20,6 @@
   .c-gray\@xl    { color: #aaaaaa }
   .c-silver\@xl  { color: #dddddd }
   .c-black\@xl   { color: #111111 }
+
+  .c-t\@xl       { color: transparent }
 }

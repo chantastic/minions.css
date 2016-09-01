@@ -19,3 +19,5 @@
 .bc-gray    { border-color: #aaaaaa }
 .bc-silver  { border-color: #dddddd }
 .bc-black   { border-color: #111111 }
+
+.bc-t       { border-color: transparent }
