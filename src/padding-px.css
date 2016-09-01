@@ -1,0 +1,33 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+.p-1p   { padding:        1px }
+.pt-1p  { padding-top:    1px }
+.pr-1p  { padding-right:  1px }
+.pb-1p  { padding-bottom: 1px }
+.pl-1p  { padding-left:   1px }
+.px-1p  { padding-right:  1px; padding-left:   1px }
+.py-1p  { padding-top:    1px; padding-bottom: 1px }
+
+.p-2p   { padding:        2px }
+.pt-2p  { padding-top:    2px }
+.pr-2p  { padding-right:  2px }
+.pb-2p  { padding-bottom: 2px }
+.pl-2p  { padding-left:   2px }
+.px-2p  { padding-right:  2px; padding-left:   2px }
+.py-2p  { padding-top:    2px; padding-bottom: 2px }
+
+.p-3p   { padding:        3px }
+.pt-3p  { padding-top:    3px }
+.pr-3p  { padding-right:  3px }
+.pb-3p  { padding-bottom: 3px }
+.pl-3p  { padding-left:   3px }
+.px-3p  { padding-right:  3px; padding-left:   3px }
+.py-3p  { padding-top:    3px; padding-bottom: 3px }
+
+.p-4p   { padding:        4px }
+.pt-4p  { padding-top:    4px }
+.pr-4p  { padding-right:  4px }
+.pb-4p  { padding-bottom: 4px }
+.pl-4p  { padding-left:   4px }
+.px-4p  { padding-right:  4px; padding-left:   4px }
+.py-4p  { padding-top:    4px; padding-bottom: 4px }

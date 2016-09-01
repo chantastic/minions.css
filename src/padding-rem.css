@@ -1,0 +1,49 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+.p-025r  { padding:        .25rem }
+.pt-025r { padding-top:    .25rem }
+.pr-025r { padding-right:  .25rem }
+.pb-025r { padding-bottom: .25rem }
+.pl-025r { padding-left:   .25rem }
+.px-025r { padding-right:  .25rem; padding-left:   .25rem }
+.py-025r { padding-top:    .25rem; padding-bottom: .25rem }
+
+.p-05r  { padding:        .5rem }
+.pt-05r { padding-top:    .5rem }
+.pr-05r { padding-right:  .5rem }
+.pb-05r { padding-bottom: .5rem }
+.pl-05r { padding-left:   .5rem }
+.px-05r { padding-right:  .5rem; padding-left:   .5rem }
+.py-05r { padding-top:    .5rem; padding-bottom: .5rem }
+
+.p-1r   { padding:        1rem }
+.pt-1r  { padding-top:    1rem }
+.pr-1r  { padding-right:  1rem }
+.pb-1r  { padding-bottom: 1rem }
+.pl-1r  { padding-left:   1rem }
+.px-1r  { padding-right:  1rem; padding-left:   1rem }
+.py-1r  { padding-top:    1rem; padding-bottom: 1rem }
+
+.p-2r   { padding:        2rem }
+.pt-2r  { padding-top:    2rem }
+.pr-2r  { padding-right:  2rem }
+.pb-2r  { padding-bottom: 2rem }
+.pl-2r  { padding-left:   2rem }
+.px-2r  { padding-right:  2rem; padding-left:   2rem }
+.py-2r  { padding-top:    2rem; padding-bottom: 2rem }
+
+.p-3r   { padding:        3rem }
+.pt-3r  { padding-top:    3rem }
+.pr-3r  { padding-right:  3rem }
+.pb-3r  { padding-bottom: 3rem }
+.pl-3r  { padding-left:   3rem }
+.px-3r  { padding-right:  3rem; padding-left:   3rem }
+.py-3r  { padding-top:    3rem; padding-bottom: 3rem }
+
+.p-4r   { padding:        4rem }
+.pt-4r  { padding-top:    4rem }
+.pr-4r  { padding-right:  4rem }
+.pb-4r  { padding-bottom: 4rem }
+.pl-4r  { padding-left:   4rem }
+.px-4r  { padding-right:  4rem; padding-left:   4rem }
+.py-4r  { padding-top:    4rem; padding-bottom: 4rem }

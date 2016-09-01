@@ -252,8 +252,12 @@
 @import "./src/overflow-!sm.css";
 @import "./src/overflow-!xs.css";
 
+@import "./src/padding-0.css";
+@import "./src/padding-px.css";
+@import "./src/padding-em.css";
+@import "./src/padding-rem.css";
+
 @import "./src/padding-!lg.css";
-@import "./src/padding.css";
 @import "./src/padding-mn.css";
 @import "./src/padding-xs.css";
 @import "./src/padding-sm.css";

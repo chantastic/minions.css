@@ -1,0 +1,49 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+.p-025  { padding:        .25em }
+.pt-025 { padding-top:    .25em }
+.pr-025 { padding-right:  .25em }
+.pb-025 { padding-bottom: .25em }
+.pl-025 { padding-left:   .25em }
+.px-025 { padding-right:  .25em; padding-left:   .25em }
+.py-025 { padding-top:    .25em; padding-bottom: .25em }
+
+.p-05  { padding:        .5em }
+.pt-05 { padding-top:    .5em }
+.pr-05 { padding-right:  .5em }
+.pb-05 { padding-bottom: .5em }
+.pl-05 { padding-left:   .5em }
+.px-05 { padding-right:  .5em; padding-left:   .5em }
+.py-05 { padding-top:    .5em; padding-bottom: .5em }
+
+.p-1   { padding:        1em }
+.pt-1  { padding-top:    1em }
+.pr-1  { padding-right:  1em }
+.pb-1  { padding-bottom: 1em }
+.pl-1  { padding-left:   1em }
+.px-1  { padding-right:  1em; padding-left:   1em }
+.py-1  { padding-top:    1em; padding-bottom: 1em }
+
+.p-2   { padding:        2em }
+.pt-2  { padding-top:    2em }
+.pr-2  { padding-right:  2em }
+.pb-2  { padding-bottom: 2em }
+.pl-2  { padding-left:   2em }
+.px-2  { padding-right:  2em; padding-left:   2em }
+.py-2  { padding-top:    2em; padding-bottom: 2em }
+
+.p-3   { padding:        3em }
+.pt-3  { padding-top:    3em }
+.pr-3  { padding-right:  3em }
+.pb-3  { padding-bottom: 3em }
+.pl-3  { padding-left:   3em }
+.px-3  { padding-right:  3em; padding-left:   3em }
+.py-3  { padding-top:    3em; padding-bottom: 3em }
+
+.p-4   { padding:        4em }
+.pt-4  { padding-top:    4em }
+.pr-4  { padding-right:  4em }
+.pb-4  { padding-bottom: 4em }
+.pl-4  { padding-left:   4em }
+.px-4  { padding-right:  4em; padding-left:   4em }
+.py-4  { padding-top:    4em; padding-bottom: 4em }
