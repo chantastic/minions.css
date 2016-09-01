@@ -158,6 +158,7 @@ The ability to theme minions is important. There's a simple convention for theme
     fd  = flex-direction
     ff  = font-family
     fs  = flex-size
+        = flex-style
     fw  = font-weight
           flex-wrap
     gc  = background-color *
