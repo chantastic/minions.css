@@ -179,6 +179,7 @@ The ability to theme minions is important. There's a simple convention for theme
     tt  = text-transform
     ttf = text-timing-function
     v   = visibility
+    va  = vertical-align
     w   = width
     zi  = z-index
 
