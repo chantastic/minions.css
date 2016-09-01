@@ -158,6 +158,8 @@
 
 @import "./src/float_.css";
 
+@import "./src/font-family.css";
+
 @import "./src/font-size.css";
 @import "./src/font-size-mn.css";
 @import "./src/font-size-xs.css";
@@ -170,6 +172,8 @@
 @import "./src/font-size-!md.css";
 @import "./src/font-size-!sm.css";
 @import "./src/font-size-!xs.css";
+
+@import "./src/font-style.css";
 
 @import "./src/font-weight.css";
 
@@ -279,6 +283,8 @@
 
 @import "./src/right.css";
 
+@import "./src/user-select.css";
+
 @import "./src/text-align.css";
 @import "./src/text-align-mn.css";
 @import "./src/text-align-xs.css";
@@ -307,6 +313,8 @@
 @import "./src/transition-property.css";
 
 @import "./src/transition-timing-function.css";
+
+@import "./src/vertical-align.css";
 
 @import "./src/visibility.css";
 @import "./src/visibility-mn.css";
