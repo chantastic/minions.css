@@ -76,6 +76,22 @@
   .mx_2\:fc > *:first-child { margin-right:  2em; margin-left:   .2em }
   .my_2\:fc > *:first-child { margin-top:    2em; margin-bottom: .2em }
 
+.m_3\:fc    > *:first-child { margin:        3em }
+  .mt_3\:fc > *:first-child { margin-top:    3em }
+  .mr_3\:fc > *:first-child { margin-right:  3em }
+  .mb_3\:fc > *:first-child { margin-bottom: 3em }
+  .ml_3\:fc > *:first-child { margin-left:   3em }
+  .mx_3\:fc > *:first-child { margin-right:  3em; margin-left:   .3em }
+  .my_3\:fc > *:first-child { margin-top:    3em; margin-bottom: .3em }
+
+.m_4\:fc    > *:first-child { margin:        4em }
+  .mt_4\:fc > *:first-child { margin-top:    4em }
+  .mr_4\:fc > *:first-child { margin-right:  4em }
+  .mb_4\:fc > *:first-child { margin-bottom: 4em }
+  .ml_4\:fc > *:first-child { margin-left:   4em }
+  .mx_4\:fc > *:first-child { margin-right:  4em; margin-left:   .4em }
+  .my_4\:fc > *:first-child { margin-top:    4em; margin-bottom: .4em }
+
 /* -- rem */
 
 .m_025r\:fc    > *:first-child { margin:        .25rem }
@@ -109,3 +125,19 @@
   .ml_2r\:fc  > *:first-child { margin-left:   2rem }
   .mx_2r\:fc  > *:first-child { margin-right:  2rem; margin-left:   2rem }
   .my_2r\:fc  > *:first-child { margin-top:    2rem; margin-bottom: 2rem }
+
+.m_3r\:fc     > *:first-child { margin:        3rem }
+  .mt_3r\:fc  > *:first-child { margin-top:    3rem }
+  .mr_3r\:fc  > *:first-child { margin-right:  3rem }
+  .mb_3r\:fc  > *:first-child { margin-bottom: 3rem }
+  .ml_3r\:fc  > *:first-child { margin-left:   3rem }
+  .mx_3r\:fc  > *:first-child { margin-right:  3rem; margin-left:   3rem }
+  .my_3r\:fc  > *:first-child { margin-top:    3rem; margin-bottom: 3rem }
+
+.m_4r\:fc     > *:first-child { margin:        4rem }
+  .mt_4r\:fc  > *:first-child { margin-top:    4rem }
+  .mr_4r\:fc  > *:first-child { margin-right:  4rem }
+  .mb_4r\:fc  > *:first-child { margin-bottom: 4rem }
+  .ml_4r\:fc  > *:first-child { margin-left:   4rem }
+  .mx_4r\:fc  > *:first-child { margin-right:  4rem; margin-left:   4rem }
+  .my_4r\:fc  > *:first-child { margin-top:    4rem; margin-bottom: 4rem }

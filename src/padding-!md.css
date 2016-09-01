@@ -77,6 +77,22 @@
   .px-2\@\!md { padding-right:  2em; padding-left:   .2em }
   .py-2\@\!md { padding-top:    2em; padding-bottom: .2em }
 
+  .p-3\@\!md  { padding:        3em }
+  .pt-3\@\!md { padding-top:    3em }
+  .pr-3\@\!md { padding-right:  3em }
+  .pb-3\@\!md { padding-bottom: 3em }
+  .pl-3\@\!md { padding-left:   3em }
+  .px-3\@\!md { padding-right:  3em; padding-left:   .3em }
+  .py-3\@\!md { padding-top:    3em; padding-bottom: .3em }
+
+  .p-4\@\!md  { padding:        4em }
+  .pt-4\@\!md { padding-top:    4em }
+  .pr-4\@\!md { padding-right:  4em }
+  .pb-4\@\!md { padding-bottom: 4em }
+  .pl-4\@\!md { padding-left:   4em }
+  .px-4\@\!md { padding-right:  4em; padding-left:   .4em }
+  .py-4\@\!md { padding-top:    4em; padding-bottom: .4em }
+
   /* -- rem */
 
   .p-025r\@\!md  { padding:        .25em }
@@ -110,4 +126,20 @@
   .pl-2r\@\!md  { padding-left:   2rem }
   .px-2r\@\!md  { padding-right:  2rem; padding-left:   2rem }
   .py-2r\@\!md  { padding-top:    2rem; padding-bottom: 2rem }
+
+  .p-3r\@\!md   { padding:        3rem }
+  .pt-3r\@\!md  { padding-top:    3rem }
+  .pr-3r\@\!md  { padding-right:  3rem }
+  .pb-3r\@\!md  { padding-bottom: 3rem }
+  .pl-3r\@\!md  { padding-left:   3rem }
+  .px-3r\@\!md  { padding-right:  3rem; padding-left:   3rem }
+  .py-3r\@\!md  { padding-top:    3rem; padding-bottom: 3rem }
+
+  .p-4r\@\!md   { padding:        4rem }
+  .pt-4r\@\!md  { padding-top:    4rem }
+  .pr-4r\@\!md  { padding-right:  4rem }
+  .pb-4r\@\!md  { padding-bottom: 4rem }
+  .pl-4r\@\!md  { padding-left:   4rem }
+  .px-4r\@\!md  { padding-right:  4rem; padding-left:   4rem }
+  .py-4r\@\!md  { padding-top:    4rem; padding-bottom: 4rem }
 }

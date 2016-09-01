@@ -69,13 +69,29 @@
   .mx-1\@\!xs  { margin-right:  1em; margin-left:   1em }
   .my-1\@\!xs  { margin-top:    1em; margin-bottom: 1em }
 
-  .m-2\@\!xs    { margin:        2em }
+  .m-2\@\!xs  { margin:        2em }
   .mt-2\@\!xs { margin-top:    2em }
   .mr-2\@\!xs { margin-right:  2em }
   .mb-2\@\!xs { margin-bottom: 2em }
   .ml-2\@\!xs { margin-left:   2em }
   .mx-2\@\!xs { margin-right:  2em; margin-left:   .2em }
   .my-2\@\!xs { margin-top:    2em; margin-bottom: .2em }
+
+  .m-3\@\!xs  { margin:        3em }
+  .mt-3\@\!xs { margin-top:    3em }
+  .mr-3\@\!xs { margin-right:  3em }
+  .mb-3\@\!xs { margin-bottom: 3em }
+  .ml-3\@\!xs { margin-left:   3em }
+  .mx-3\@\!xs { margin-right:  3em; margin-left:   .3em }
+  .my-3\@\!xs { margin-top:    3em; margin-bottom: .3em }
+
+  .m-4\@\!xs  { margin:        4em }
+  .mt-4\@\!xs { margin-top:    4em }
+  .mr-4\@\!xs { margin-right:  4em }
+  .mb-4\@\!xs { margin-bottom: 4em }
+  .ml-4\@\!xs { margin-left:   4em }
+  .mx-4\@\!xs { margin-right:  4em; margin-left:   .4em }
+  .my-4\@\!xs { margin-top:    4em; margin-bottom: .4em }
 
   /* -- rem */
 
@@ -110,6 +126,22 @@
   .ml-2r\@\!xs  { margin-left:   2rem }
   .mx-2r\@\!xs  { margin-right:  2rem; margin-left:   2rem }
   .my-2r\@\!xs  { margin-top:    2rem; margin-bottom: 2rem }
+
+  .m-3r\@\!xs   { margin:        3rem }
+  .mt-3r\@\!xs  { margin-top:    3rem }
+  .mr-3r\@\!xs  { margin-right:  3rem }
+  .mb-3r\@\!xs  { margin-bottom: 3rem }
+  .ml-3r\@\!xs  { margin-left:   3rem }
+  .mx-3r\@\!xs  { margin-right:  3rem; margin-left:   3rem }
+  .my-3r\@\!xs  { margin-top:    3rem; margin-bottom: 3rem }
+
+  .m-4r\@\!xs   { margin:        4rem }
+  .mt-4r\@\!xs  { margin-top:    4rem }
+  .mr-4r\@\!xs  { margin-right:  4rem }
+  .mb-4r\@\!xs  { margin-bottom: 4rem }
+  .ml-4r\@\!xs  { margin-left:   4rem }
+  .mx-4r\@\!xs  { margin-right:  4rem; margin-left:   4rem }
+  .my-4r\@\!xs  { margin-top:    4rem; margin-bottom: 4rem }
 
   .m-0xa\@\!xs { margin: 0 auto }
 }
