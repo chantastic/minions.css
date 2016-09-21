@@ -1,0 +1,23 @@
+{
+  "use": [
+    "postcss-import",
+    "postcss-custom-media",
+    "postcss-custom-properties",
+    "postcss-discard-comments",
+    "postcss-remove-root",
+    "autoprefixer",
+    "postcss-remove-root",
+    "cssnano"
+  ],
+  "input": "src/minions.css",
+  "output": "dist/minions.min.css",
+  "local-plugins": true,
+  "cssnano": {
+    "mergeRules": false,
+    "discardEmpty": true,
+    "discardComments": {
+      "removeAll": true,
+      "removeAllButFirst": false
+    }
+  }
+}
