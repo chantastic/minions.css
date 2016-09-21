@@ -4,13 +4,19 @@
   "description": "evil micro-classes",
   "main": "minions.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "cleancss --s1 -o dist/minions.min.css _build_all.css"
+    "build": "postcss -c postcss.config.json"
   },
   "author": "Michael Chan (@chantastic)",
   "repository": "https://github.com/chantastic/minions.css",
   "license": "MIT",
-  "dependencies": {
-    "clean-css": "^3.4.9"
+  "devDependencies": {
+    "autoprefixer": "^6.4.1",
+    "cssnano": "^3.7.5",
+    "postcss-cli": "^2.6.0",
+    "postcss-custom-media": "^5.0.1",
+    "postcss-custom-properties": "^5.0.1",
+    "postcss-discard-comments": "^2.0.4",
+    "postcss-import": "^8.1.2",
+    "postcss-remove-root": "0.0.2"
   }
 }
