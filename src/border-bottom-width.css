@@ -1,0 +1,13 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+.bbw-0,
+.bbw-1p,
+.bbw-2p,
+.bbw-3p,
+.bbw-4p { border-style: solid }
+
+.bbw-0  { border-bottom-width: 0 }
+.bbw-1p { border-bottom-width: 1px }
+.bbw-2p { border-bottom-width: 2px }
+.bbw-3p { border-bottom-width: 3px }
+.bbw-4p { border-bottom-width: 4px }
