@@ -1,24 +1,20 @@
-/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
-
-.py-0 { padding-top: 0; padding-bottom: 0 }
-
-.py-1p { padding-top: 1px; padding-bottom: 1px }
-.py-2p { padding-top: 2px; padding-bottom: 2px }
-.py-3p { padding-top: 3px; padding-bottom: 3px }
-.py-4p { padding-top: 4px; padding-bottom: 4px }
-
-.py-\.25e { padding-top: .25em; padding-bottom: .25em }
-.py-\.5e { padding-top: .5em; padding-bottom: .5em }
-.py-\.75e { padding-top: .75em; padding-bottom: .75em }
-.py-1e { padding-top: 1em; padding-bottom: 1em }
-.py-2e { padding-top: 2em; padding-bottom: 2em }
-.py-3e { padding-top: 3em; padding-bottom: 3em }
-.py-4e { padding-top: 4em; padding-bottom: 4em }
-
-.py-\.25r { padding-top: .25rem; padding-bottom: .25rem }
-.py-\.5r { padding-top: .5rem; padding-bottom: .5rem }
-.py-\.75r { padding-top: .75rem; padding-bottom: .75rem }
-.py-1r { padding-top: 1rem; padding-bottom: 1rem }
-.py-2r { padding-top: 2rem; padding-bottom: 2rem }
-.py-3r { padding-top: 3rem; padding-bottom: 3rem }
-.py-4r { padding-top: 4rem; padding-bottom: 4rem }
+/*! minions.css */
+.py-0{padding-top:0;padding-bottom:0}
+.py-1p{padding-top:1px;padding-bottom:1px}
+.py-2p{padding-top:2px;padding-bottom:2px}
+.py-3p{padding-top:3px;padding-bottom:3px}
+.py-4p{padding-top:4px;padding-bottom:4px}
+.py-\.25e{padding-top:.25em;padding-bottom:.25em}
+.py-\.5e{padding-top:.5em;padding-bottom:.5em}
+.py-\.75e{padding-top:.75em;padding-bottom:.75em}
+.py-1e{padding-top:1em;padding-bottom:1em}
+.py-2e{padding-top:2em;padding-bottom:2em}
+.py-3e{padding-top:3em;padding-bottom:3em}
+.py-4e{padding-top:4em;padding-bottom:4em}
+.py-\.25r{padding-top:.25rem;padding-bottom:.25rem}
+.py-\.5r{padding-top:.5rem;padding-bottom:.5rem}
+.py-\.75r{padding-top:.75rem;padding-bottom:.75rem}
+.py-1r{padding-top:1rem;padding-bottom:1rem}
+.py-2r{padding-top:2rem;padding-bottom:2rem}
+.py-3r{padding-top:3rem;padding-bottom:3rem}
+.py-4r{padding-top:4rem;padding-bottom:4rem}

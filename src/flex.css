@@ -1,8 +1,7 @@
-/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
-
-.f-1 { flex: 1 }
-.f-2 { flex: 2 }
-.f-3 { flex: 3 }
-.f-4 { flex: 4 }
-.f-5 { flex: 5 }
-.f-6 { flex: 6 }
+/*! minions.css */
+.f-1{flex:1}
+.f-2{flex:2}
+.f-3{flex:3}
+.f-4{flex:4}
+.f-5{flex:5}
+.f-6{flex:6}

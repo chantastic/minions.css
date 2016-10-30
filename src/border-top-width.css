@@ -1,13 +1,7 @@
-/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
-
-.btw-0,
-.btw-1p,
-.btw-2p,
-.btw-3p,
-.btw-4p { border-style: solid }
-
-.btw-0  { border-top-width: 0 }
-.btw-1p { border-top-width: 1px }
-.btw-2p { border-top-width: 2px }
-.btw-3p { border-top-width: 3px }
-.btw-4p { border-top-width: 4px }
+/*! minions.css */
+.btw-0,.btw-1p,.btw-2p,.btw-3p,.btw-4p{border-style:solid}
+.btw-0{border-top-width:0}
+.btw-1p{border-top-width:1px}
+.btw-2p{border-top-width:2px}
+.btw-3p{border-top-width:3px}
+.btw-4p{border-top-width:4px}

@@ -1,6 +1,5 @@
-/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
-
-.p-s { position: static }
-.p-r { position: relative }
-.p-a { position: absolute }
-.p-f { position: fixed }
+/*! minions.css */
+.p-s{position:static}
+.p-r{position:relative}
+.p-a{position:absolute}
+.p-f{position:fixed}

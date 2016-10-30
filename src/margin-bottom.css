@@ -1,24 +1,20 @@
-/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
-
-.mb-0 { margin-bottom: 0 }
-
-.mb-1p { margin-bottom: 1px }
-.mb-2p { margin-bottom: 2px }
-.mb-3p { margin-bottom: 3px }
-.mb-4p { margin-bottom: 4px }
-
-.mb-\.25e { margin-bottom: .25em }
-.mb-\.5e { margin-bottom: .5em }
-.mb-\.75e { margin-bottom: .25em }
-.mb-1e { margin-bottom: 1em }
-.mb-2e { margin-bottom: 2em }
-.mb-3e { margin-bottom: 3em }
-.mb-4e { margin-bottom: 4em }
-
-.mb-\.25r { margin-bottom: .25rem }
-.mb-\.5r { margin-bottom: .5rem }
-.mb-\.75r { margin-bottom: .25rem }
-.mb-1r { margin-bottom: 1rem }
-.mb-2r { margin-bottom: 2rem }
-.mb-3r { margin-bottom: 3rem }
-.mb-4r { margin-bottom: 4rem }
+/*! minions.css */
+.mb-0{margin-bottom:0}
+.mb-1p{margin-bottom:1px}
+.mb-2p{margin-bottom:2px}
+.mb-3p{margin-bottom:3px}
+.mb-4p{margin-bottom:4px}
+.mb-\.25e{margin-bottom:.25em}
+.mb-\.5e{margin-bottom:.5em}
+.mb-\.75e{margin-bottom:.25em}
+.mb-1e{margin-bottom:1em}
+.mb-2e{margin-bottom:2em}
+.mb-3e{margin-bottom:3em}
+.mb-4e{margin-bottom:4em}
+.mb-\.25r{margin-bottom:.25rem}
+.mb-\.5r{margin-bottom:.5rem}
+.mb-\.75r{margin-bottom:.25rem}
+.mb-1r{margin-bottom:1rem}
+.mb-2r{margin-bottom:2rem}
+.mb-3r{margin-bottom:3rem}
+.mb-4r{margin-bottom:4rem}
