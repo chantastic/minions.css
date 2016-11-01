@@ -1,0 +1,4 @@
+/*! minions.css */
+.tp-a { transition-property: all }
+.tp-n { transition-property: none }
+.tp-o { transform-property: opacity }
