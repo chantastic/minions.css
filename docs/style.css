@@ -1,7 +1,2 @@
-.ff-sans{
-  font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    sans-serif
-}
+.ff-system-sans{font-family:-apple-system,BlinkMacSystemFont,sans-serif}
 .fs-20p { font-size:20px }
