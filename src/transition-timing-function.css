@@ -1,0 +1,8 @@
+/*! minions.css */
+.ttf-l{transition-timing-function:linear}
+.ttf-e{transition-timing-function:ease}
+.ttf-ei{transition-timing-function:ease-in}
+.ttf-eio{transition-timing-function:ease-in-out}
+.ttf-eo{transition-timing-function:ease-out}
+.ttf-ss{transition-timing-function:step-start}
+.ttf-se{transition-timing-function:step-end}
