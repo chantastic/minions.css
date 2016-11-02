@@ -2,10 +2,11 @@
   "name": "minions.css",
   "version": "0.0.4",
   "description": "evil micro-classes",
-  "main": "minions.css",
+  "main": "minions.min.css",
+  "style": "minions.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "cleancss --s1 -o dist/minions.min.css _build_all.css"
+    "build": "cleancss --s1 -o minions.min.css _build_all.css"
   },
   "author": "Michael Chan (@chantastic)",
   "repository": "https://github.com/chantastic/minions.css",
