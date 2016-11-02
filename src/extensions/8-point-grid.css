@@ -1,13 +1,4 @@
-<!doctype html>
-<html>
-<head>
-  <link rel="stylesheet" href="../style.css">
-</head>
-<body class="ff-sans fs-20p">
-  <section>
-    <h2>8-point grid</h2>
-
-    <pre><code>
+/*! minions.css */
 .m-1{margin:.5rem}
 .m-2{margin:1rem}
 .m-3{margin:3rem}
@@ -80,6 +71,3 @@
 .l-2{left:1rem}
 .l-3{left:3rem}
 .l-4{left:4rem}
-    </code></pre>
-  </section>
-</body>
