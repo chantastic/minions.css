@@ -1,0 +1,19 @@
+{
+  "name": "minions.padding",
+  "version": "0.0.4-alpha",
+  "description": "minions padding classes",
+  "main": "padding.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chantastic/minions.css.git"
+  },
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/minions.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/minions.css#readme"
+}
