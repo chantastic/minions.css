@@ -1,0 +1,17 @@
+{
+  "name": "minions.flex-direction",
+  "version": "0.0.4-alpha-2",
+  "description": "minions flex-direction classes",
+  "main": "flex-direction.css",
+  "style": "flex-direction.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/chantastic/minions.css",
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/minions.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/minions.css#readme"
+}
