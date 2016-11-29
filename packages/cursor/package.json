@@ -1,9 +1,9 @@
 {
-  "name": "minions.bottom",
+  "name": "minions.cursor",
   "version": "0.0.4-alpha-3",
-  "description": "minions bottom classes",
-  "main": "bottom.css",
-  "style": "bottom.css",
+  "description": "minions cursor classes",
+  "main": "cursor.css",
+  "style": "cursor.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
