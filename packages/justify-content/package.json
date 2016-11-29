@@ -1,9 +1,9 @@
 {
-  "name": "minions.float",
+  "name": "minions.justify-content",
   "version": "0.0.4-alpha-4",
-  "description": "minions float classes",
-  "main": "float.css",
-  "style": "float.css",
+  "description": "minions justify-content classes",
+  "main": "justify-content.css",
+  "style": "justify-content.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

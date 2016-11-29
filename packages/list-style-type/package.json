@@ -1,9 +1,9 @@
 {
-  "name": "minions.float",
+  "name": "minions.list-style-type",
   "version": "0.0.4-alpha-4",
-  "description": "minions float classes",
-  "main": "float.css",
-  "style": "float.css",
+  "description": "minions list-style-type classes",
+  "main": "list-style-type.css",
+  "style": "list-style-type.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
