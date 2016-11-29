@@ -1,0 +1,17 @@
+{
+  "name": "minions.mix-blend-mode",
+  "version": "0.0.4-alpha-8",
+  "description": "minions mix-blend-mode classes",
+  "main": "mix-blend-mode.css",
+  "style": "mix-blend-mode.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/chantastic/minions.css",
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/minions.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/minions.css#readme"
+}
