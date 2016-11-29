@@ -1,6 +1,6 @@
 {
   "name": "minions.opacity",
-  "version": "0.0.4-alpha-3",
+  "version": "0.0.4-alpha-4",
   "description": "minions opacity classes",
   "main": "opacity.css",
   "style": "opacity.css",

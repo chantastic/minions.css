@@ -1,6 +1,6 @@
 {
   "name": "minions.white-space",
-  "version": "0.0.4-alpha-3",
+  "version": "0.0.4-alpha-4",
   "description": "minions white-space classes",
   "main": "white-space.css",
   "style": "white-space.css",

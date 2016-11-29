@@ -1,6 +1,6 @@
 {
   "name": "minions.text-decoration",
-  "version": "0.0.4-alpha-3",
+  "version": "0.0.4-alpha-4",
   "description": "minions text-decoration classes",
   "main": "text-decoration.css",
   "style": "text-decoration.css",

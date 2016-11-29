@@ -1,6 +1,6 @@
 {
   "name": "minions.vertical-align",
-  "version": "0.0.4-alpha-3",
+  "version": "0.0.4-alpha-4",
   "description": "minions vertical-align classes",
   "main": "vertical-align.css",
   "style": "vertical-align.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.transition-timing-function",
-  "version": "0.0.4-alpha-3",
+  "version": "0.0.4-alpha-4",
   "description": "minions transition-timing-function classes",
   "main": "transition-timing-function.css",
   "style": "transition-timing-function.css",
