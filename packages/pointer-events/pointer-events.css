@@ -1,0 +1,10 @@
+/*! minions.css */
+.pe-n{pointer-events:none}
+.pe-vP{pointer-events:visiblePainted}
+.pe-vF{pointer-events:visibleFill}
+.pe-vS{pointer-events:visibleStroke}
+.pe-v{pointer-events:visible}
+.pe-p{pointer-events:painted}
+.pe-f{pointer-events:fill}
+.pe-s{pointer-events:stroke}
+.pe-a{pointer-events:all}

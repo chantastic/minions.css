@@ -1,9 +1,9 @@
 {
-  "name": "minions.overflow",
+  "name": "minions.pointer-events",
   "version": "0.0.4-alpha-9",
-  "description": "minions overflow classes",
-  "main": "overflow.css",
-  "style": "overflow.css",
+  "description": "minions pointer-events classes",
+  "main": "pointer-events.css",
+  "style": "pointer-events.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

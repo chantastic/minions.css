@@ -1,9 +1,9 @@
 {
-  "name": "minions.overflow",
+  "name": "minions.word-break",
   "version": "0.0.4-alpha-9",
-  "description": "minions overflow classes",
-  "main": "overflow.css",
-  "style": "overflow.css",
+  "description": "minions word-break classes",
+  "main": "word-break.css",
+  "style": "word-break.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

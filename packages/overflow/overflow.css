@@ -3,12 +3,4 @@
 .o-h{overflow:hidden}
 .o-s{overflow:scroll}
 .o-v{overflow:visible}
-.ox-a{overflow-x:auto}
-.ox-h{overflow-x:hidden}
-.ox-s{overflow-x:scroll}
-.ox-v{overflow-x:visible}
-.oy-a{overflow-y:auto}
-.oy-h{overflow-y:hidden}
-.oy-s{overflow-y:scroll}
-.oy-v{overflow-y:visible}
 .-wos-t{overflow:scroll;-webkit-overflow-scrolling:touch}

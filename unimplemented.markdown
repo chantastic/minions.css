@@ -13,7 +13,6 @@ border-top-radius
 border-right-radius
 border-bottom-radius
 border-left-radius
-border-style
 border-top-style
 border-right-style
 border-bottom-style
@@ -26,3 +25,9 @@ content (conflict with clear: none | normal)
 font
 list-style-image
 list-style
+outline-color
+outline
+text-shadow
+transform
+transform-origin
+transition

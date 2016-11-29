@@ -1,9 +1,9 @@
 {
-  "name": "minions.overflow",
+  "name": "minions.overflow-y",
   "version": "0.0.4-alpha-9",
-  "description": "minions overflow classes",
-  "main": "overflow.css",
-  "style": "overflow.css",
+  "description": "minions overflow-y classes",
+  "main": "overflow-y.css",
+  "style": "overflow-y.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

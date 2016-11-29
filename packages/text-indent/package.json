@@ -1,9 +1,9 @@
 {
-  "name": "minions.overflow",
+  "name": "minions.text-indent",
   "version": "0.0.4-alpha-9",
-  "description": "minions overflow classes",
-  "main": "overflow.css",
-  "style": "overflow.css",
+  "description": "minions text-indent classes",
+  "main": "text-indent.css",
+  "style": "text-indent.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

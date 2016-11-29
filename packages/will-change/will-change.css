@@ -1,0 +1,7 @@
+/*! minions.css */
+.wc-a{will-change:auto}
+.wc-sp{will-change:scroll-position}
+.wc-c{will-change:contents}
+.wc-t{will-change:transform}
+.wc-o{will-change:opacity}
+/* only performant custom-indent by default */
