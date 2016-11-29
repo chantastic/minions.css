@@ -1,0 +1,8 @@
+/*! minions.css */
+.ff-r{flex-flow:row}
+.ff-rr{flex-flow:row-reverse}
+.ff-c{flex-flow:column}
+.ff-cr{flex-flow:column-reverse}
+.ff-n{flex-flow:nowrap}
+.ff-w{flex-flow:wrap}
+.ff-wr{flex-flow:wrap-reverse}

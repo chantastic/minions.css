@@ -23,3 +23,4 @@ color
 column-gap (use relative padding/margin measurements?)
 column-width (percentage? like width?)
 content (conflict with clear: none | normal)
+font
