@@ -1,6 +1,6 @@
 {
   "name": "minions.mix-blend-mode",
-  "version": "0.0.4-alpha-8",
+  "version": "0.0.4-alpha-9",
   "description": "minions mix-blend-mode classes",
   "main": "mix-blend-mode.css",
   "style": "mix-blend-mode.css",

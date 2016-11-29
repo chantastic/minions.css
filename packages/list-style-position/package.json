@@ -1,6 +1,6 @@
 {
   "name": "minions.list-style-position",
-  "version": "0.0.4-alpha-8",
+  "version": "0.0.4-alpha-9",
   "description": "minions list-style-position classes",
   "main": "list-style-position.css",
   "style": "list-style-position.css",

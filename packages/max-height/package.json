@@ -1,6 +1,6 @@
 {
   "name": "minions.max-height",
-  "version": "0.0.4-alpha-8",
+  "version": "0.0.4-alpha-9",
   "description": "minions max-height classes",
   "main": "max-height.css",
   "style": "max-height.css",

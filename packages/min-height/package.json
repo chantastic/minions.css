@@ -1,6 +1,6 @@
 {
   "name": "minions.min-height",
-  "version": "0.0.4-alpha-8",
+  "version": "0.0.4-alpha-9",
   "description": "minions min-height classes",
   "main": "min-height.css",
   "style": "min-height.css",
