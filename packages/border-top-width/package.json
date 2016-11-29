@@ -1,6 +1,6 @@
 {
   "name": "minions.border-top-width",
-  "version": "0.0.4-alpha-1",
+  "version": "0.0.4-alpha-2",
   "description": "minions border-top-width classes",
   "main": "border-top-width.css",
   "style": "border-top-width.css",
