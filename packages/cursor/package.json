@@ -1,6 +1,6 @@
 {
   "name": "minions.bottom",
-  "version": "0.0.4-alpha-2",
+  "version": "0.0.4-alpha-3",
   "description": "minions bottom classes",
   "main": "bottom.css",
   "style": "bottom.css",

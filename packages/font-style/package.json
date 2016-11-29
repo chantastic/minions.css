@@ -1,6 +1,6 @@
 {
   "name": "minions.font-style",
-  "version": "0.0.4-alpha-2",
+  "version": "0.0.4-alpha-3",
   "description": "minions font-style classes",
   "main": "font-style.css",
   "style": "font-style.css",
