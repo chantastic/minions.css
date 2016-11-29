@@ -1,0 +1,17 @@
+{
+  "name": "minions.overflow",
+  "version": "0.0.4-alpha-3",
+  "description": "minions overflow classes",
+  "main": "overflow.css",
+  "style": "overflow.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/chantastic/minions.css",
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/minions.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/minions.css#readme"
+}
