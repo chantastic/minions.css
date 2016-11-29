@@ -1,0 +1,17 @@
+{
+  "name": "minions.animation-timing-function",
+  "version": "0.0.4-alpha-6",
+  "description": "minions animation-timing-function classes",
+  "main": "animation-timing-function.css",
+  "style": "animation-timing-function.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/chantastic/minions.css",
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/minions.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/minions.css#readme"
+}

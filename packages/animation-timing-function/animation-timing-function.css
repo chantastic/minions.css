@@ -1,0 +1,8 @@
+/*! minions.css */
+.atf-l{animation-timing-function:linear}
+.atf-e{animation-timing-function:ease}
+.atf-ei{animation-timing-function:ease-in}
+.atf-eio{animation-timing-function:ease-in-out}
+.atf-eo{animation-timing-function:ease-out}
+.atf-ss{animation-timing-function:step-start}
+.atf-se{animation-timing-function:step-end}
