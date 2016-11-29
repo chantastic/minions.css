@@ -1,0 +1,17 @@
+{
+  "name": "minions.border-right-width",
+  "version": "0.0.4-alpha-1",
+  "description": "minions border-right-width classes",
+  "main": "border-right-width.css",
+  "style": "border-right-width.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/chantastic/minions.css",
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/minions.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/minions.css#readme"
+}

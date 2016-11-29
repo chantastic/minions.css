@@ -1,0 +1,17 @@
+{
+  "name": "minions.bottom",
+  "version": "0.0.4-alpha-1",
+  "description": "minions bottom classes",
+  "main": "bottom.css",
+  "style": "bottom.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/chantastic/minions.css",
+  "author": "Michael Chan (@chantastic)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/minions.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/minions.css#readme"
+}
