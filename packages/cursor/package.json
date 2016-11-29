@@ -1,6 +1,6 @@
 {
   "name": "minions.cursor",
-  "version": "0.0.4-alpha-3",
+  "version": "0.0.4-alpha-5",
   "description": "minions cursor classes",
   "main": "cursor.css",
   "style": "cursor.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.justify-content",
-  "version": "0.0.4-alpha-4",
+  "version": "0.0.4-alpha-5",
   "description": "minions justify-content classes",
   "main": "justify-content.css",
   "style": "justify-content.css",
