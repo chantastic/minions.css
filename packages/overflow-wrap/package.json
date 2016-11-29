@@ -1,6 +1,6 @@
 {
   "name": "minions.overflow-wrap",
-  "version": "0.0.4-alpha-9",
+  "version": "0.0.4-alpha-10",
   "description": "minions overflow-wrap classes",
   "main": "overflow-wrap.css",
   "style": "overflow-wrap.css",
