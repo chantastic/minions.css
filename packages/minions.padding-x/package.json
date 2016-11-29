@@ -1,9 +1,9 @@
 {
-  "name": "minions.padding",
+  "name": "minions.padding-x",
   "version": "0.0.4-alpha",
-  "description": "minions padding classes",
-  "main": "padding.css",
-  "style": "padding.css",
+  "description": "minions padding-x classes",
+  "main": "padding-x.css",
+  "style": "padding-x.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
