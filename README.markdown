@@ -155,6 +155,7 @@ The ability to theme minions is important. There's a simple convention for theme
     d   = display
     f   = float
           flex
+    fb  = flex-basis
     fd  = flex-direction
     ff  = font-family
     fs  = flex-size

@@ -1,0 +1,19 @@
+/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
+
+@media (min-width: 992px) {
+  .fb-a\@lg     { flex-basis: auto }
+  .fb-10\%\@lg  { flex-basis: 10% }
+  .fb-20\%\@lg  { flex-basis: 20% }
+  .fb-25\%\@lg  { flex-basis: 25% }
+  .fb-30\%\@lg  { flex-basis: 30% }
+  .fb-33\%\@lg  { flex-basis: 33% }
+  .fb-40\%\@lg  { flex-basis: 40% }
+  .fb-50\%\@lg  { flex-basis: 50% }
+  .fb-60\%\@lg  { flex-basis: 60% }
+  .fb-66\%\@lg  { flex-basis: 66% }
+  .fb-70\%\@lg  { flex-basis: 70% }
+  .fb-75\%\@lg  { flex-basis: 75% }
+  .fb-80\%\@lg  { flex-basis: 80% }
+  .fb-90\%\@lg  { flex-basis: 90% }
+  .fb-100\%\@lg { flex-basis: 100% }
+}
