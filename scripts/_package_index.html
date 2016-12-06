@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>minions.css</title>
+<style>
+  .ff-system-sans{font-family:-apple-system,BlinkMacSystemFont,sans-serif}
+  .fs-20p{font-size:20px}
+  .m-0{margin:0}
+  .px-2r{padding-right:2rem;padding-left:2rem}
+</style>
+</head>
+<body class="ff-system-sans fs-20p m-0 px-2r">
+  <h1>minions.css</h1>
+
+  <a href="https://github.com/chantastic/minions.css/" target="_blank">
+    source on Github
+  </a>
+
+  <br />
+  <hr />
+
+  <h2>Packages</h2>
+
+  <% _.forEach(packages, function(package) { %>
+    <p><a href="./packages/<%= package %>">minions.<%= package %></a></p>
+  <% }) %>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-46843279-3', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+</body>
+</html>
