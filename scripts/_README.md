@@ -9,12 +9,12 @@ main/style: `<%= mod.style %>`
 ## Installation
 npm:
 ```bash
-npm install minions.<%= packageName %>@<%= mod.version %>
+npm install minions.<%= packageName %>
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.<%= packageName %>@<%= mod.version %>" />
+<link rel="stylesheet" href="https://unpkg.com/minions.<%= packageName %>" />
 ```
 
 ## Code
@@ -24,8 +24,7 @@ browser:
 
 ## Source and issues
 
-<%= mod.repository %>/tree/v<%= mod.version %>/packages/<%= packageName %>
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+<%= mod.repository %>/tree/master/packages/<%= packageName %>
 
 ## License
 
