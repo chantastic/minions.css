@@ -1,6 +1,6 @@
 {
   "name": "minions.border-collapse",
-  "version": "0.0.4-alpha-7",
+  "version": "0.0.4-alpha-14",
   "description": "minions border-collapse classes",
   "main": "border-collapse.css",
   "style": "border-collapse.css",
