@@ -3,18 +3,18 @@ minions column-count classes
 
 ## Module
 name: `minions.minions.column-count`  
-version: `0.0.4-alpha-7`  
+version: `0.0.4-alpha-15`  
 main/style: `column-count.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.column-count@0.0.4-alpha-7
+npm install minions.column-count
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.column-count@0.0.4-alpha-7" />
+<link rel="stylesheet" href="https://unpkg.com/minions.column-count" />
 ```
 
 ## Code
@@ -29,8 +29,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-7/packages/column-count
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/column-count
 
 ## License
 

@@ -3,18 +3,18 @@ minions animation-direction classes
 
 ## Module
 name: `minions.minions.animation-direction`  
-version: `0.0.4-alpha-6`  
+version: `0.0.4-alpha-15`  
 main/style: `animation-direction.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.animation-direction@0.0.4-alpha-6
+npm install minions.animation-direction
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.animation-direction@0.0.4-alpha-6" />
+<link rel="stylesheet" href="https://unpkg.com/minions.animation-direction" />
 ```
 
 ## Code
@@ -28,8 +28,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-6/packages/animation-direction
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/animation-direction
 
 ## License
 

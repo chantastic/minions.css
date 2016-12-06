@@ -3,18 +3,18 @@ minions border-style classes
 
 ## Module
 name: `minions.minions.border-style`  
-version: `0.0.4-alpha-10`  
+version: `0.0.4-alpha-15`  
 main/style: `border-style.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.border-style@0.0.4-alpha-10
+npm install minions.border-style
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.border-style@0.0.4-alpha-10" />
+<link rel="stylesheet" href="https://unpkg.com/minions.border-style" />
 ```
 
 ## Code
@@ -32,8 +32,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-10/packages/border-style
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/border-style
 
 ## License
 

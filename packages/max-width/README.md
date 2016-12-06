@@ -3,18 +3,18 @@ minions max-width classes
 
 ## Module
 name: `minions.minions.max-width`  
-version: `0.0.4-alpha-9`  
+version: `0.0.4-alpha-15`  
 main/style: `max-width.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.max-width@0.0.4-alpha-9
+npm install minions.max-width
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.max-width@0.0.4-alpha-9" />
+<link rel="stylesheet" href="https://unpkg.com/minions.max-width" />
 ```
 
 ## Code
@@ -44,8 +44,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-9/packages/max-width
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/max-width
 
 ## License
 

@@ -3,18 +3,18 @@ minions transition-property classes
 
 ## Module
 name: `minions.minions.transition-property`  
-version: `0.0.4-alpha-4`  
+version: `0.0.4-alpha-15`  
 main/style: `transition-property.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.transition-property@0.0.4-alpha-4
+npm install minions.transition-property
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.transition-property@0.0.4-alpha-4" />
+<link rel="stylesheet" href="https://unpkg.com/minions.transition-property" />
 ```
 
 ## Code
@@ -28,8 +28,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-4/packages/transition-property
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/transition-property
 
 ## License
 

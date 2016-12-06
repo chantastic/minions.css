@@ -3,18 +3,18 @@ minions padding classes
 
 ## Module
 name: `minions.minions.padding`  
-version: `0.0.4-alpah-13`  
+version: `0.0.4-alpha-15`  
 main/style: `padding.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.padding@0.0.4-alpah-13
+npm install minions.padding
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.padding@0.0.4-alpah-13" />
+<link rel="stylesheet" href="https://unpkg.com/minions.padding" />
 ```
 
 ## Code
@@ -38,8 +38,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpah-13/packages/padding
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/padding
 
 ## License
 

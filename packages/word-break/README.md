@@ -3,18 +3,18 @@ minions word-break classes
 
 ## Module
 name: `minions.minions.word-break`  
-version: `0.0.4-alpha-10`  
+version: `0.0.4-alpha-15`  
 main/style: `word-break.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.word-break@0.0.4-alpha-10
+npm install minions.word-break
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.word-break@0.0.4-alpha-10" />
+<link rel="stylesheet" href="https://unpkg.com/minions.word-break" />
 ```
 
 ## Code
@@ -28,8 +28,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-10/packages/word-break
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/word-break
 
 ## License
 

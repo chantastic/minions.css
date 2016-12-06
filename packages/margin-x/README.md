@@ -3,18 +3,18 @@ minions margin-x classes
 
 ## Module
 name: `minions.minions.margin-x`  
-version: `0.0.4-alpah-13`  
+version: `0.0.4-alpha-15`  
 main/style: `margin-x.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.margin-x@0.0.4-alpah-13
+npm install minions.margin-x
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.margin-x@0.0.4-alpah-13" />
+<link rel="stylesheet" href="https://unpkg.com/minions.margin-x" />
 ```
 
 ## Code
@@ -38,8 +38,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpah-13/packages/margin-x
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/margin-x
 
 ## License
 

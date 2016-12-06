@@ -3,18 +3,18 @@ minions opacity classes
 
 ## Module
 name: `minions.minions.opacity`  
-version: `0.0.4-alpha-4`  
+version: `0.0.4-alpha-15`  
 main/style: `opacity.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.opacity@0.0.4-alpha-4
+npm install minions.opacity
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.opacity@0.0.4-alpha-4" />
+<link rel="stylesheet" href="https://unpkg.com/minions.opacity" />
 ```
 
 ## Code
@@ -36,8 +36,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-4/packages/opacity
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/opacity
 
 ## License
 

@@ -3,18 +3,18 @@ minions text-indent classes
 
 ## Module
 name: `minions.minions.text-indent`  
-version: `0.0.4-alpha-10`  
+version: `0.0.4-alpha-15`  
 main/style: `text-indent.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.text-indent@0.0.4-alpha-10
+npm install minions.text-indent
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.text-indent@0.0.4-alpha-10" />
+<link rel="stylesheet" href="https://unpkg.com/minions.text-indent" />
 ```
 
 ## Code
@@ -38,8 +38,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-10/packages/text-indent
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/text-indent
 
 ## License
 

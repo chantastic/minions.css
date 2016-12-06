@@ -3,18 +3,18 @@ minions background-size classes
 
 ## Module
 name: `minions.minions.background-size`  
-version: `0.0.4-alpha-7`  
+version: `0.0.4-alpha-15`  
 main/style: `background-size.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.background-size@0.0.4-alpha-7
+npm install minions.background-size
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.background-size@0.0.4-alpha-7" />
+<link rel="stylesheet" href="https://unpkg.com/minions.background-size" />
 ```
 
 ## Code
@@ -28,8 +28,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-7/packages/background-size
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/background-size
 
 ## License
 

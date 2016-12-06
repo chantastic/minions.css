@@ -3,18 +3,18 @@ minions white-space classes
 
 ## Module
 name: `minions.minions.white-space`  
-version: `0.0.4-alpha-4`  
+version: `0.0.4-alpha-15`  
 main/style: `white-space.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.white-space@0.0.4-alpha-4
+npm install minions.white-space
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.white-space@0.0.4-alpha-4" />
+<link rel="stylesheet" href="https://unpkg.com/minions.white-space" />
 ```
 
 ## Code
@@ -29,8 +29,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-4/packages/white-space
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/white-space
 
 ## License
 

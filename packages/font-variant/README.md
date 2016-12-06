@@ -3,18 +3,18 @@ minions font-variant classes
 
 ## Module
 name: `minions.minions.font-variant`  
-version: `0.0.4-alpha-8`  
+version: `0.0.4-alpha-15`  
 main/style: `font-variant.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.font-variant@0.0.4-alpha-8
+npm install minions.font-variant
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.font-variant@0.0.4-alpha-8" />
+<link rel="stylesheet" href="https://unpkg.com/minions.font-variant" />
 ```
 
 ## Code
@@ -26,8 +26,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-8/packages/font-variant
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/font-variant
 
 ## License
 

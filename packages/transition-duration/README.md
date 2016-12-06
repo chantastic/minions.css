@@ -3,18 +3,18 @@ minions transition-duration classes
 
 ## Module
 name: `minions.minions.transition-duration`  
-version: `0.0.4-alpha-4`  
+version: `0.0.4-alpha-15`  
 main/style: `transition-duration.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.transition-duration@0.0.4-alpha-4
+npm install minions.transition-duration
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.transition-duration@0.0.4-alpha-4" />
+<link rel="stylesheet" href="https://unpkg.com/minions.transition-duration" />
 ```
 
 ## Code
@@ -35,8 +35,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-4/packages/transition-duration
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/transition-duration
 
 ## License
 

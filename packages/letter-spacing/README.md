@@ -3,18 +3,18 @@ minions letter-spacing classes
 
 ## Module
 name: `minions.minions.letter-spacing`  
-version: `0.0.4-alpha-9`  
+version: `0.0.4-alpha-15`  
 main/style: `letter-spacing.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.letter-spacing@0.0.4-alpha-9
+npm install minions.letter-spacing
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.letter-spacing@0.0.4-alpha-9" />
+<link rel="stylesheet" href="https://unpkg.com/minions.letter-spacing" />
 ```
 
 ## Code
@@ -29,8 +29,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-9/packages/letter-spacing
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/letter-spacing
 
 ## License
 

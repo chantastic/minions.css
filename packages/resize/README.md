@@ -3,18 +3,18 @@ minions resize classes
 
 ## Module
 name: `minions.minions.resize`  
-version: `0.0.4-alpha-10`  
+version: `0.0.4-alpha-15`  
 main/style: `resize.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.resize@0.0.4-alpha-10
+npm install minions.resize
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.resize@0.0.4-alpha-10" />
+<link rel="stylesheet" href="https://unpkg.com/minions.resize" />
 ```
 
 ## Code
@@ -31,8 +31,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-10/packages/resize
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/resize
 
 ## License
 

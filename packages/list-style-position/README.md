@@ -3,18 +3,18 @@ minions list-style-position classes
 
 ## Module
 name: `minions.minions.list-style-position`  
-version: `0.0.4-alpha-9`  
+version: `0.0.4-alpha-15`  
 main/style: `list-style-position.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.list-style-position@0.0.4-alpha-9
+npm install minions.list-style-position
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.list-style-position@0.0.4-alpha-9" />
+<link rel="stylesheet" href="https://unpkg.com/minions.list-style-position" />
 ```
 
 ## Code
@@ -27,8 +27,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-9/packages/list-style-position
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/list-style-position
 
 ## License
 

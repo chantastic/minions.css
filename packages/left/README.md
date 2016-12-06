@@ -3,18 +3,18 @@ minions left classes
 
 ## Module
 name: `minions.minions.left`  
-version: `0.0.4-alpha-5`  
+version: `0.0.4-alpha-15`  
 main/style: `left.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.left@0.0.4-alpha-5
+npm install minions.left
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.left@0.0.4-alpha-5" />
+<link rel="stylesheet" href="https://unpkg.com/minions.left" />
 ```
 
 ## Code
@@ -42,8 +42,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-5/packages/left
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/left
 
 ## License
 

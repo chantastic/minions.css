@@ -3,18 +3,18 @@ minions height classes
 
 ## Module
 name: `minions.minions.height`  
-version: `0.0.4-alpha-9`  
+version: `0.0.4-alpha-15`  
 main/style: `height.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.height@0.0.4-alpha-9
+npm install minions.height
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.height@0.0.4-alpha-9" />
+<link rel="stylesheet" href="https://unpkg.com/minions.height" />
 ```
 
 ## Code
@@ -43,8 +43,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-9/packages/height
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/height
 
 ## License
 

@@ -3,18 +3,18 @@ minions align-items classes
 
 ## Module
 name: `minions.minions.align-items`  
-version: `0.0.4-alpah-13`  
+version: `0.0.4-alpha-15`  
 main/style: `align-items.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.align-items@0.0.4-alpah-13
+npm install minions.align-items
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.align-items@0.0.4-alpah-13" />
+<link rel="stylesheet" href="https://unpkg.com/minions.align-items" />
 ```
 
 ## Code
@@ -30,8 +30,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpah-13/packages/align-items
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/align-items
 
 ## License
 

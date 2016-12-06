@@ -3,18 +3,18 @@ minions top classes
 
 ## Module
 name: `minions.minions.top`  
-version: `0.0.4-alpha-4`  
+version: `0.0.4-alpha-15`  
 main/style: `top.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.top@0.0.4-alpha-4
+npm install minions.top
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.top@0.0.4-alpha-4" />
+<link rel="stylesheet" href="https://unpkg.com/minions.top" />
 ```
 
 ## Code
@@ -42,8 +42,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-4/packages/top
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/top
 
 ## License
 

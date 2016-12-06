@@ -3,18 +3,18 @@ minions padding-left classes
 
 ## Module
 name: `minions.minions.padding-left`  
-version: `0.0.4-alpah-13`  
+version: `0.0.4-alpha-15`  
 main/style: `padding-left.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.padding-left@0.0.4-alpah-13
+npm install minions.padding-left
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.padding-left@0.0.4-alpah-13" />
+<link rel="stylesheet" href="https://unpkg.com/minions.padding-left" />
 ```
 
 ## Code
@@ -38,8 +38,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpah-13/packages/padding-left
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/padding-left
 
 ## License
 

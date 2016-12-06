@@ -3,18 +3,18 @@ minions list-style-type classes
 
 ## Module
 name: `minions.minions.list-style-type`  
-version: `0.0.4-alpha-5`  
+version: `0.0.4-alpha-15`  
 main/style: `list-style-type.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.list-style-type@0.0.4-alpha-5
+npm install minions.list-style-type
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.list-style-type@0.0.4-alpha-5" />
+<link rel="stylesheet" href="https://unpkg.com/minions.list-style-type" />
 ```
 
 ## Code
@@ -33,8 +33,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-5/packages/list-style-type
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/list-style-type
 
 ## License
 

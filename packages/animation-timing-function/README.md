@@ -3,18 +3,18 @@ minions animation-timing-function classes
 
 ## Module
 name: `minions.minions.animation-timing-function`  
-version: `0.0.4-alpha-6`  
+version: `0.0.4-alpha-15`  
 main/style: `animation-timing-function.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.animation-timing-function@0.0.4-alpha-6
+npm install minions.animation-timing-function
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.animation-timing-function@0.0.4-alpha-6" />
+<link rel="stylesheet" href="https://unpkg.com/minions.animation-timing-function" />
 ```
 
 ## Code
@@ -32,8 +32,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-6/packages/animation-timing-function
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/animation-timing-function
 
 ## License
 

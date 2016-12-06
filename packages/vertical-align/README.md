@@ -3,18 +3,18 @@ minions vertical-align classes
 
 ## Module
 name: `minions.minions.vertical-align`  
-version: `0.0.4-alpha-4`  
+version: `0.0.4-alpha-15`  
 main/style: `vertical-align.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.vertical-align@0.0.4-alpha-4
+npm install minions.vertical-align
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.vertical-align@0.0.4-alpha-4" />
+<link rel="stylesheet" href="https://unpkg.com/minions.vertical-align" />
 ```
 
 ## Code
@@ -31,8 +31,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-4/packages/vertical-align
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/vertical-align
 
 ## License
 

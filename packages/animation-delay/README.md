@@ -3,18 +3,18 @@ minions animation-delay classes
 
 ## Module
 name: `minions.minions.animation-delay`  
-version: `0.0.4-alpha-10`  
+version: `0.0.4-alpha-15`  
 main/style: `animation-delay.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.animation-delay@0.0.4-alpha-10
+npm install minions.animation-delay
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.animation-delay@0.0.4-alpha-10" />
+<link rel="stylesheet" href="https://unpkg.com/minions.animation-delay" />
 ```
 
 ## Code
@@ -35,8 +35,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-10/packages/animation-delay
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/animation-delay
 
 ## License
 

@@ -3,18 +3,18 @@ minions border-left-width classes
 
 ## Module
 name: `minions.minions.border-left-width`  
-version: `0.0.4-alpha-2`  
+version: `0.0.4-alpha-15`  
 main/style: `border-left-width.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.border-left-width@0.0.4-alpha-2
+npm install minions.border-left-width
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.border-left-width@0.0.4-alpha-2" />
+<link rel="stylesheet" href="https://unpkg.com/minions.border-left-width" />
 ```
 
 ## Code
@@ -31,8 +31,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-2/packages/border-left-width
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/border-left-width
 
 ## License
 

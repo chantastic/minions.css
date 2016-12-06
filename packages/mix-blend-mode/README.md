@@ -3,18 +3,18 @@ minions mix-blend-mode classes
 
 ## Module
 name: `minions.minions.mix-blend-mode`  
-version: `0.0.4-alpha-9`  
+version: `0.0.4-alpha-15`  
 main/style: `mix-blend-mode.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.mix-blend-mode@0.0.4-alpha-9
+npm install minions.mix-blend-mode
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.mix-blend-mode@0.0.4-alpha-9" />
+<link rel="stylesheet" href="https://unpkg.com/minions.mix-blend-mode" />
 ```
 
 ## Code
@@ -42,8 +42,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-9/packages/mix-blend-mode
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/mix-blend-mode
 
 ## License
 

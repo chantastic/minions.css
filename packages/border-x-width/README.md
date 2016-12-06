@@ -3,18 +3,18 @@ minions border-x-width classes
 
 ## Module
 name: `minions.minions.border-x-width`  
-version: `0.0.4-alpha-2`  
+version: `0.0.4-alpha-15`  
 main/style: `border-x-width.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.border-x-width@0.0.4-alpha-2
+npm install minions.border-x-width
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.border-x-width@0.0.4-alpha-2" />
+<link rel="stylesheet" href="https://unpkg.com/minions.border-x-width" />
 ```
 
 ## Code
@@ -30,8 +30,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-2/packages/border-x-width
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/border-x-width
 
 ## License
 

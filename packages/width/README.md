@@ -3,18 +3,18 @@ minions width classes
 
 ## Module
 name: `minions.minions.width`  
-version: `0.0.4-alpha-4`  
+version: `0.0.4-alpha-15`  
 main/style: `width.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.width@0.0.4-alpha-4
+npm install minions.width
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.width@0.0.4-alpha-4" />
+<link rel="stylesheet" href="https://unpkg.com/minions.width" />
 ```
 
 ## Code
@@ -43,8 +43,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-4/packages/width
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/width
 
 ## License
 

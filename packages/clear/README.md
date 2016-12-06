@@ -3,18 +3,18 @@ minions clear classes
 
 ## Module
 name: `minions.minions.clear`  
-version: `0.0.4-alpha-7`  
+version: `0.0.4-alpha-15`  
 main/style: `clear.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.clear@0.0.4-alpha-7
+npm install minions.clear
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.clear@0.0.4-alpha-7" />
+<link rel="stylesheet" href="https://unpkg.com/minions.clear" />
 ```
 
 ## Code
@@ -29,8 +29,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-7/packages/clear
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/clear
 
 ## License
 

@@ -3,18 +3,18 @@ minions flex classes
 
 ## Module
 name: `minions.minions.flex`  
-version: `0.0.4-alpha-3`  
+version: `0.0.4-alpha-15`  
 main/style: `flex.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.flex@0.0.4-alpha-3
+npm install minions.flex
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.flex@0.0.4-alpha-3" />
+<link rel="stylesheet" href="https://unpkg.com/minions.flex" />
 ```
 
 ## Code
@@ -31,8 +31,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-3/packages/flex
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/flex
 
 ## License
 

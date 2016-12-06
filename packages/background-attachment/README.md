@@ -3,18 +3,18 @@ minions background-attachment classes
 
 ## Module
 name: `minions.minions.background-attachment`  
-version: `0.0.4-alpha-7`  
+version: `0.0.4-alpha-15`  
 main/style: `background-attachment.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.background-attachment@0.0.4-alpha-7
+npm install minions.background-attachment
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.background-attachment@0.0.4-alpha-7" />
+<link rel="stylesheet" href="https://unpkg.com/minions.background-attachment" />
 ```
 
 ## Code
@@ -28,8 +28,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-7/packages/background-attachment
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/background-attachment
 
 ## License
 

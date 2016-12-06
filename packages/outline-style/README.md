@@ -3,18 +3,18 @@ minions outline-style classes
 
 ## Module
 name: `minions.minions.outline-style`  
-version: `0.0.4-alpha-10`  
+version: `0.0.4-alpha-15`  
 main/style: `outline-style.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.outline-style@0.0.4-alpha-10
+npm install minions.outline-style
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.outline-style@0.0.4-alpha-10" />
+<link rel="stylesheet" href="https://unpkg.com/minions.outline-style" />
 ```
 
 ## Code
@@ -32,8 +32,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-10/packages/outline-style
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/outline-style
 
 ## License
 

@@ -3,18 +3,18 @@ minions text-transform classes
 
 ## Module
 name: `minions.minions.text-transform`  
-version: `0.0.4-alpha-4`  
+version: `0.0.4-alpha-15`  
 main/style: `text-transform.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.text-transform@0.0.4-alpha-4
+npm install minions.text-transform
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.text-transform@0.0.4-alpha-4" />
+<link rel="stylesheet" href="https://unpkg.com/minions.text-transform" />
 ```
 
 ## Code
@@ -31,8 +31,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-4/packages/text-transform
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/text-transform
 
 ## License
 

@@ -3,18 +3,18 @@ minions transition-delay classes
 
 ## Module
 name: `minions.minions.transition-delay`  
-version: `0.0.4-alpha-10`  
+version: `0.0.4-alpha-15`  
 main/style: `transition-delay.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.transition-delay@0.0.4-alpha-10
+npm install minions.transition-delay
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.transition-delay@0.0.4-alpha-10" />
+<link rel="stylesheet" href="https://unpkg.com/minions.transition-delay" />
 ```
 
 ## Code
@@ -35,8 +35,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-10/packages/transition-delay
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/transition-delay
 
 ## License
 

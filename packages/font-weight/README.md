@@ -3,18 +3,18 @@ minions font-weight classes
 
 ## Module
 name: `minions.minions.font-weight`  
-version: `0.0.4-alpha-3`  
+version: `0.0.4-alpha-15`  
 main/style: `font-weight.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.font-weight@0.0.4-alpha-3
+npm install minions.font-weight
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.font-weight@0.0.4-alpha-3" />
+<link rel="stylesheet" href="https://unpkg.com/minions.font-weight" />
 ```
 
 ## Code
@@ -38,8 +38,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-3/packages/font-weight
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/font-weight
 
 ## License
 

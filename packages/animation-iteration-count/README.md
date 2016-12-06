@@ -3,18 +3,18 @@ minions animation-iteration-count classes
 
 ## Module
 name: `minions.minions.animation-iteration-count`  
-version: `0.0.4-alpha-6`  
+version: `0.0.4-alpha-15`  
 main/style: `animation-iteration-count.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.animation-iteration-count@0.0.4-alpha-6
+npm install minions.animation-iteration-count
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.animation-iteration-count@0.0.4-alpha-6" />
+<link rel="stylesheet" href="https://unpkg.com/minions.animation-iteration-count" />
 ```
 
 ## Code
@@ -29,8 +29,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-6/packages/animation-iteration-count
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/animation-iteration-count
 
 ## License
 

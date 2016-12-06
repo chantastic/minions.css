@@ -3,18 +3,18 @@ minions right classes
 
 ## Module
 name: `minions.minions.right`  
-version: `0.0.4-alpha-4`  
+version: `0.0.4-alpha-15`  
 main/style: `right.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.right@0.0.4-alpha-4
+npm install minions.right
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.right@0.0.4-alpha-4" />
+<link rel="stylesheet" href="https://unpkg.com/minions.right" />
 ```
 
 ## Code
@@ -42,8 +42,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-4/packages/right
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/right
 
 ## License
 

@@ -3,18 +3,18 @@ minions overflow classes
 
 ## Module
 name: `minions.minions.overflow`  
-version: `0.0.4-alpha-10`  
+version: `0.0.4-alpha-15`  
 main/style: `overflow.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.overflow@0.0.4-alpha-10
+npm install minions.overflow
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.overflow@0.0.4-alpha-10" />
+<link rel="stylesheet" href="https://unpkg.com/minions.overflow" />
 ```
 
 ## Code
@@ -30,8 +30,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-10/packages/overflow
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/overflow
 
 ## License
 

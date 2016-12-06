@@ -3,18 +3,18 @@ minions bottom classes
 
 ## Module
 name: `minions.minions.bottom`  
-version: `0.0.4-alpha-3`  
+version: `0.0.4-alpha-15`  
 main/style: `bottom.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.bottom@0.0.4-alpha-3
+npm install minions.bottom
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.bottom@0.0.4-alpha-3" />
+<link rel="stylesheet" href="https://unpkg.com/minions.bottom" />
 ```
 
 ## Code
@@ -42,8 +42,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-3/packages/bottom
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/bottom
 
 ## License
 

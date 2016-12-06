@@ -3,18 +3,18 @@ minions justify-content classes
 
 ## Module
 name: `minions.minions.justify-content`  
-version: `0.0.4-alpha-14`  
+version: `0.0.4-alpha-15`  
 main/style: `justify-content.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.justify-content@0.0.4-alpha-14
+npm install minions.justify-content
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.justify-content@0.0.4-alpha-14" />
+<link rel="stylesheet" href="https://unpkg.com/minions.justify-content" />
 ```
 
 ## Code
@@ -30,8 +30,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/justify-content
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/justify-content
 
 ## License
 

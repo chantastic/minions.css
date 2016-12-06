@@ -3,18 +3,18 @@ minions pointer-events classes
 
 ## Module
 name: `minions.minions.pointer-events`  
-version: `0.0.4-alpha-10`  
+version: `0.0.4-alpha-15`  
 main/style: `pointer-events.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.pointer-events@0.0.4-alpha-10
+npm install minions.pointer-events
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.pointer-events@0.0.4-alpha-10" />
+<link rel="stylesheet" href="https://unpkg.com/minions.pointer-events" />
 ```
 
 ## Code
@@ -34,8 +34,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-10/packages/pointer-events
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/pointer-events
 
 ## License
 

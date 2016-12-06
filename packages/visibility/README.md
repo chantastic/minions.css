@@ -3,18 +3,18 @@ minions visibility classes
 
 ## Module
 name: `minions.minions.visibility`  
-version: `0.0.4-alpha-4`  
+version: `0.0.4-alpha-15`  
 main/style: `visibility.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.visibility@0.0.4-alpha-4
+npm install minions.visibility
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.visibility@0.0.4-alpha-4" />
+<link rel="stylesheet" href="https://unpkg.com/minions.visibility" />
 ```
 
 ## Code
@@ -27,8 +27,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-4/packages/visibility
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/visibility
 
 ## License
 

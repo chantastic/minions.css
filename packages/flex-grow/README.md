@@ -3,18 +3,18 @@ minions flex-grow classes
 
 ## Module
 name: `minions.minions.flex-grow`  
-version: `0.0.4-alpha-8`  
+version: `0.0.4-alpha-15`  
 main/style: `flex-grow.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.flex-grow@0.0.4-alpha-8
+npm install minions.flex-grow
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.flex-grow@0.0.4-alpha-8" />
+<link rel="stylesheet" href="https://unpkg.com/minions.flex-grow" />
 ```
 
 ## Code
@@ -31,8 +31,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-8/packages/flex-grow
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/flex-grow
 
 ## License
 

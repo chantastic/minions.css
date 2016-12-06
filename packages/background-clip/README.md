@@ -3,18 +3,18 @@ minions background-clip classes
 
 ## Module
 name: `minions.minions.background-clip`  
-version: `0.0.4-alpha-7`  
+version: `0.0.4-alpha-15`  
 main/style: `background-clip.css`  
 
 ## Installation
 npm:
 ```bash
-npm install minions.background-clip@0.0.4-alpha-7
+npm install minions.background-clip
 ```
 
 browser:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/minions.background-clip@0.0.4-alpha-7" />
+<link rel="stylesheet" href="https://unpkg.com/minions.background-clip" />
 ```
 
 ## Code
@@ -29,8 +29,7 @@ browser:
 
 ## Source and issues
 
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-7/packages/background-clip
-https://github.com/chantastic/minions.css/tree/v0.0.4-alpha-14/packages/align-content
+https://github.com/chantastic/minions.css/tree/master/packages/background-clip
 
 ## License
 
