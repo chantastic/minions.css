@@ -1,6 +1,6 @@
 {
   "name": "minions.margin-right",
-  "version": "0.0.4-alpah-13",
+  "version": "0.0.4-alpha-15",
   "description": "minions margin-right classes",
   "main": "margin-right.css",
   "style": "margin-right.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.column-count",
-  "version": "0.0.4-alpha-7",
+  "version": "0.0.4-alpha-15",
   "description": "minions column-count classes",
   "main": "column-count.css",
   "style": "column-count.css",

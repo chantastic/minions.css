@@ -1,6 +1,6 @@
 {
   "name": "minions.word-spacing",
-  "version": "0.0.4-alpha-10",
+  "version": "0.0.4-alpha-15",
   "description": "minions word-spacing classes",
   "main": "word-spacing.css",
   "style": "word-spacing.css",

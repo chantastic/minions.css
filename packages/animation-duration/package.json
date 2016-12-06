@@ -1,6 +1,6 @@
 {
   "name": "minions.animation-duration",
-  "version": "0.0.4-alpha-6",
+  "version": "0.0.4-alpha-15",
   "description": "minions animation-duration classes",
   "main": "animation-duration.css",
   "style": "animation-duration.css",

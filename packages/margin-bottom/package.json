@@ -1,6 +1,6 @@
 {
   "name": "minions.margin-bottom",
-  "version": "0.0.4-alpah-13",
+  "version": "0.0.4-alpha-15",
   "description": "minions margin-bottom classes",
   "main": "margin-bottom.css",
   "style": "margin-bottom.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.max-width",
-  "version": "0.0.4-alpha-9",
+  "version": "0.0.4-alpha-15",
   "description": "minions max-width classes",
   "main": "max-width.css",
   "style": "max-width.css",

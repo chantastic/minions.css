@@ -1,6 +1,6 @@
 {
   "name": "minions.margin",
-  "version": "0.0.4-alpah-13",
+  "version": "0.0.4-alpha-15",
   "description": "minions margin classes",
   "main": "margin.css",
   "style": "margin.css",

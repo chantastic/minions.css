@@ -1,6 +1,6 @@
 {
   "name": "minions.width",
-  "version": "0.0.4-alpha-4",
+  "version": "0.0.4-alpha-15",
   "description": "minions width classes",
   "main": "width.css",
   "style": "width.css",

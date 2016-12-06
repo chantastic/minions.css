@@ -1,6 +1,6 @@
 {
   "name": "minions.align-self",
-  "version": "0.0.4-alpha-2",
+  "version": "0.0.4-alpha-15",
   "description": "minions align-self classes",
   "main": "align-self.css",
   "style": "align-self.css",

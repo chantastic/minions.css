@@ -1,6 +1,6 @@
 {
   "name": "minions.flex-grow",
-  "version": "0.0.4-alpha-8",
+  "version": "0.0.4-alpha-15",
   "description": "minions flex-grow classes",
   "main": "flex-grow.css",
   "style": "flex-grow.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.height",
-  "version": "0.0.4-alpha-9",
+  "version": "0.0.4-alpha-15",
   "description": "minions height classes",
   "main": "height.css",
   "style": "height.css",

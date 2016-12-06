@@ -1,6 +1,6 @@
 {
   "name": "minions.position",
-  "version": "0.0.4-alpha-4",
+  "version": "0.0.4-alpha-15",
   "description": "minions position classes",
   "main": "position.css",
   "style": "position.css",

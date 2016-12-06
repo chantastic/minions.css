@@ -1,6 +1,6 @@
 {
   "name": "minions.padding",
-  "version": "0.0.4-alpah-13",
+  "version": "0.0.4-alpha-15",
   "description": "minions padding classes",
   "main": "padding.css",
   "style": "padding.css",
