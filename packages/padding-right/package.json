@@ -1,6 +1,6 @@
 {
   "name": "minions.padding-right",
-  "version": "0.0.4-alpha-15",
+  "version": "0.0.4-alpha-16",
   "description": "minions padding-right classes",
   "main": "padding-right.css",
   "style": "padding-right.css",
