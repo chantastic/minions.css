@@ -1,0 +1,12 @@
+/*!minions.css*/
+@media (min-width: 720px) {
+.pe-n\@md{pointer-events:none}
+.pe-vP\@md{pointer-events:visiblePainted}
+.pe-vF\@md{pointer-events:visibleFill}
+.pe-vS\@md{pointer-events:visibleStroke}
+.pe-v\@md{pointer-events:visible}
+.pe-p\@md{pointer-events:painted}
+.pe-f\@md{pointer-events:fill}
+.pe-s\@md{pointer-events:stroke}
+.pe-a\@md{pointer-events:all}
+}

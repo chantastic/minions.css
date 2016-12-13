@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media (--mn-query) {
+.as-b\@mn{align-self:baseline}
+.as-c\@mn{align-self:center}
+.as-fe\@mn{align-self:flex-end}
+.as-fs\@mn{align-self:flex-start}
+.as-s\@mn{align-self:stretch}
+}

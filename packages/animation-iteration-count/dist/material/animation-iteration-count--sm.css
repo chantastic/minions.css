@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (min-width: 600px) {
+.atc-i\@sm{animation-iteration-count:infinite}
+.atc-1\@sm{animation-iteration-count:1}
+.atc-2\@sm{animation-iteration-count:2}
+.atc-3\@sm{animation-iteration-count:3}
+}

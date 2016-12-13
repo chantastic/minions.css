@@ -1,0 +1,13 @@
+/*!minions.css*/
+@media (--lg-query) {
+.ty-1s\@lg{transition-delay:1s}
+.ty-\.9s\@lg{transition-delay:.9s}
+.ty-\.8s\@lg{transition-delay:.8s}
+.ty-\.7s\@lg{transition-delay:.7s}
+.ty-\.6s\@lg{transition-delay:.6s}
+.ty-\.5s\@lg{transition-delay:.5s}
+.ty-\.4s\@lg{transition-delay:.4s}
+.ty-\.3s\@lg{transition-delay:.3s}
+.ty-\.2s\@lg{transition-delay:.2s}
+.ty-\.1s\@lg{transition-delay:.1s}
+}

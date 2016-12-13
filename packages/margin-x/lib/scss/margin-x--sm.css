@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.mx-0\@sm{margin-right:0;margin-left:0}
+.mx-\.25e\@sm{margin-right:.25em;margin-left:.25em}
+.mx-\.5e\@sm{margin-right:.5em;margin-left:.5em}
+.mx-1e\@sm{margin-right:1em;margin-left:1em}
+.mx-2e\@sm{margin-right:2em;margin-left:2em}
+.mx-3e\@sm{margin-right:3em;margin-left:3em}
+.mx-4e\@sm{margin-right:4em;margin-left:4em}
+.mx-\.25r\@sm{margin-right:.25rem;margin-left:.25rem}
+.mx-\.5r\@sm{margin-right:.5rem;margin-left:.5rem}
+.mx-1r\@sm{margin-right:1rem;margin-left:1rem}
+.mx-2r\@sm{margin-right:2rem;margin-left:2rem}
+.mx-3r\@sm{margin-right:3rem;margin-left:3rem}
+.mx-4r\@sm{margin-right:4rem;margin-left:4rem}
+}

@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (--xl-query) {
+.bc-bb\@xl{background-clip:border-box}
+.bc-pb\@xl{background-clip:padding-box}
+.bc-cb\@xl{background-clip:content-box}
+.bc-t\@xl{background-clip:text}
+}

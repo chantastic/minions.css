@@ -1,0 +1,14 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.o-1\@xs{opacity:1}
+.o-\.9\@xs{opacity:.9}
+.o-\.8\@xs{opacity:.8}
+.o-\.7\@xs{opacity:.7}
+.o-\.6\@xs{opacity:.6}
+.o-\.5\@xs{opacity:.5}
+.o-\.4\@xs{opacity:.4}
+.o-\.3\@xs{opacity:.3}
+.o-\.2\@xs{opacity:.2}
+.o-\.1\@xs{opacity:.1}
+.o-0\@xs{opacity:0}
+}

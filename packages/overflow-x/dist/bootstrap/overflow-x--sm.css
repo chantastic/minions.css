@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (min-width: 567px) {
+.ox-a\@sm{overflow-x:auto}
+.ox-h\@sm{overflow-x:hidden}
+.ox-s\@sm{overflow-x:scroll}
+.ox-v\@sm{overflow-x:visible}
+}

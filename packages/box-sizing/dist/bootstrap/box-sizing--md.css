@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (min-width: 768px) {
+.bs-cb\@md{box-sizing:content-box}
+.bs-bb\@md{box-sizing:border-box}
+}

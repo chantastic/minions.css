@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (min-width: 1200px) {
+.bc-c\@xl{border-collapse:collapse}
+.bc-s\@xl{border-collapse:separate}
+}

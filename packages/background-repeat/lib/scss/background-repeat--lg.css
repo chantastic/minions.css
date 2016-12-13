@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.br-rx\@lg{background-repeat:repeat-x}
+.br-ry\@lg{background-repeat:repeat-y}
+.br-r\@lg{background-repeat:repeat}
+.br-s\@lg{background-repeat:space}
+.br-nr\@lg{background-repeat:no-repeat}
+}

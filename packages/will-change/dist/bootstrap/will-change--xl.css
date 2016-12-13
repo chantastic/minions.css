@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (min-width: 1200px) {
+.wc-a\@xl{will-change:auto}
+.wc-sp\@xl{will-change:scroll-position}
+.wc-c\@xl{will-change:contents}
+.wc-t\@xl{will-change:transform}
+.wc-o\@xl{will-change:opacity}
+/* only performant custom-indent by default */
+}

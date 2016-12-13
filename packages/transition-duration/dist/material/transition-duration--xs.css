@@ -1,0 +1,13 @@
+/*!minions.css*/
+@media (min-width: 480px) {
+.td-1s\@xs{transition-duration:1s}
+.td-\.9s\@xs{transition-duration:.9s}
+.td-\.8s\@xs{transition-duration:.8s}
+.td-\.7s\@xs{transition-duration:.7s}
+.td-\.6s\@xs{transition-duration:.6s}
+.td-\.5s\@xs{transition-duration:.5s}
+.td-\.4s\@xs{transition-duration:.4s}
+.td-\.3s\@xs{transition-duration:.3s}
+.td-\.2s\@xs{transition-duration:.2s}
+.td-\.1s\@xs{transition-duration:.1s}
+}

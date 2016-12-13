@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media (min-width: 600px) {
+.pr-0\@sm{padding-right:0}
+.pr-\.25e\@sm{padding-right:.25em}
+.pr-\.5e\@sm{padding-right:.5em}
+.pr-1e\@sm{padding-right:1em}
+.pr-2e\@sm{padding-right:2em}
+.pr-3e\@sm{padding-right:3em}
+.pr-4e\@sm{padding-right:4em}
+.pr-\.25r\@sm{padding-right:.25rem}
+.pr-\.5r\@sm{padding-right:.5rem}
+.pr-1r\@sm{padding-right:1rem}
+.pr-2r\@sm{padding-right:2rem}
+.pr-3r\@sm{padding-right:3rem}
+.pr-4r\@sm{padding-right:4rem}
+}

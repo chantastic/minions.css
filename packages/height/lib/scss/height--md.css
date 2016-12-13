@@ -1,0 +1,21 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.h-a\@md{height:auto}
+.h-mc\@md{height:max-content}
+.h-nc\@md{height:min-content}
+.h-fc\@md{height:fit-content}
+.h-10\%\@md{height:10%}
+.h-20\%\@md{height:20%}
+.h-25\%\@md{height:25%}
+.h-30\%\@md{height:30%}
+.h-33\%\@md{height:33.3333%}
+.h-40\%\@md{height:40%}
+.h-50\%\@md{height:50%}
+.h-60\%\@md{height:60%}
+.h-66\%\@md{height:66.6666%}
+.h-70\%\@md{height:70%}
+.h-75\%\@md{height:75%}
+.h-80\%\@md{height:80%}
+.h-90\%\@md{height:90%}
+.h-100\%\@md{height:100%}
+}

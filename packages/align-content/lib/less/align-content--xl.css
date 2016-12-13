@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media @xs-query {
+.ac-c\@xl{align-items:center}
+.ac-fe\@xl{align-items:flex-end}
+.ac-fs\@xl{align-items:flex-start}
+.ac-s\@xl{align-items:stretch}
+.ac-sb\@xl{align-items:space-between}
+.ac-sa\@xl{align-items:space-around}
+}

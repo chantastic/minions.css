@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media (min-width: 480px) {
+.jc-c\@xs{justify-content:center}
+.jc-fe\@xs{justify-content:flex-end}
+.jc-fs\@xs{justify-content:flex-start}
+.jc-sb\@xs{justify-content:space-between}
+.jc-sa\@xs{justify-content:space-around}
+}

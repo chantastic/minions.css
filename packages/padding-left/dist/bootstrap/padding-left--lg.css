@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media (min-width: 992px) {
+.pl-0\@lg{padding-left:0}
+.pl-\.25e\@lg{padding-left:.25em}
+.pl-\.5e\@lg{padding-left:.5em}
+.pl-1e\@lg{padding-left:1em}
+.pl-2e\@lg{padding-left:2em}
+.pl-3e\@lg{padding-left:3em}
+.pl-4e\@lg{padding-left:4em}
+.pl-\.25r\@lg{padding-left:.25rem}
+.pl-\.5r\@lg{padding-left:.5rem}
+.pl-1r\@lg{padding-left:1rem}
+.pl-2r\@lg{padding-left:2rem}
+.pl-3r\@lg{padding-left:3rem}
+.pl-4r\@lg{padding-left:4rem}
+}

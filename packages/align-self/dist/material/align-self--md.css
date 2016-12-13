@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media (min-width: 720px) {
+.as-b\@md{align-self:baseline}
+.as-c\@md{align-self:center}
+.as-fe\@md{align-self:flex-end}
+.as-fs\@md{align-self:flex-start}
+.as-s\@md{align-self:stretch}
+}

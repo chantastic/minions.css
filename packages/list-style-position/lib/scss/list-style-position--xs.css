@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.lsp-i\@xs{list-style-position:inside}
+.lsp-o\@xs{list-style-position:outside}
+}

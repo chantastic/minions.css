@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media @xs-query {
+.c-n\@xl{clear:none}
+.c-l\@xl{clear:left}
+.c-r\@xl{clear:right}
+.c-b\@xl{clear:both}
+}

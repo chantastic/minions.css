@@ -1,0 +1,11 @@
+/*!minions.css*/
+@media (min-width: 0px) {
+.lst-d\@xs{list-style-type:disc}
+.lst-c\@xs{list-style-type:circle}
+.lst-s\@xs{list-style-type:square}
+.lst-l\@xs{list-style-type:decimal}
+.lst-g\@xs{list-style-type:georgian}
+.lst-ci\@xs{list-style-type:cjk-ideographic}
+.lst-k\@xs{list-style-type:kannada}
+.lst-n\@xs{list-style-type:none}
+}

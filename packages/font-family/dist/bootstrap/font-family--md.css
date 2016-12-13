@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media (min-width: 768px) {
+.ff-s\@md{font-family:serif}
+.ff-ss\@md{font-family:sans-serif}
+.ff-m\@md{font-family:monospace}
+.ff-c\@md{font-family:cursive}
+.ff-f\@md{font-family:fantasy}
+.ff-system-sans\@md{font-family:-apple-system,BlinkMacSystemFont,sans-serif}
+.ff-system-serif\@md{font-family:athelas, serif}
+}

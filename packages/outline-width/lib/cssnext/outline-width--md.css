@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (--md-query) {
+.ow-0,.ow-1p,.ow-2p,.ow-3p,.ow-4p\@md{outline-style:solid}
+.ow-0\@md{outline-width:0}
+.ow-1p\@md{outline-width:1px}
+.ow-2p\@md{outline-width:2px}
+.ow-3p\@md{outline-width:3px}
+.ow-4p\@md{outline-width:4px}
+}

@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (min-width: 960px) {
+.bbw-0,.bbw-1p,.bbw-2p,.bbw-3p,.bbw-4p\@lg{border-style:solid}
+.bbw-0\@lg{border-bottom-width:0}
+.bbw-1p\@lg{border-bottom-width:1px}
+.bbw-2p\@lg{border-bottom-width:2px}
+.bbw-3p\@lg{border-bottom-width:3px}
+.bbw-4p\@lg{border-bottom-width:4px}
+}

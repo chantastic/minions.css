@@ -1,0 +1,20 @@
+/*!minions.css*/
+@media (min-width: 480px) {
+.r-0\@xs{right:0}
+.r-1p\@xs{right:1px}
+.r-2p\@xs{right:1px}
+.r-3p\@xs{right:3px}
+.r-4p\@xs{right:4px}
+.r-\.25\@xs{right:.25em}
+.r-\.5\@xs{right:.5em}
+.r-1\@xs{right:1em}
+.r-2\@xs{right:2em}
+.r-3\@xs{right:3em}
+.r-4\@xs{right:4em}
+.r-\.25r\@xs{right:.25em}
+.r-\.5r\@xs{right:.5em}
+.r-1r\@xs{right:1em}
+.r-2r\@xs{right:2em}
+.r-3r\@xs{right:3em}
+.r-4r\@xs{right:4em}
+}

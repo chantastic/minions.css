@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.p-s\@md{position:static}
+.p-r\@md{position:relative}
+.p-a\@md{position:absolute}
+.p-f\@md{position:fixed}
+}

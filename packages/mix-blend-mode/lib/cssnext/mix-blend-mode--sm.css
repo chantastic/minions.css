@@ -1,0 +1,20 @@
+/*!minions.css*/
+@media (--sm-query) {
+.mbm-c\@sm{mix-blend-mode:color}
+.mbm-cd\@sm{mix-blend-mode:color-dodge}
+.mbm-cb\@sm{mix-blend-mode:color-burn}
+.mbm-d\@sm{mix-blend-mode:darken}
+.mbm-e\@sm{mix-blend-mode:exclusion}
+.mbm-h\@sm{mix-blend-mode:hue}
+.mbm-hl\@sm{mix-blend-mode:hard-light}
+.mbm-l\@sm{mix-blend-mode:lighten}
+.mbm-m\@sm{mix-blend-mode:multiply}
+.mbm-n\@sm{mix-blend-mode:normal}
+.mbm-o\@sm{mix-blend-mode:overlay}
+.mbm-s\@sm{mix-blend-mode:screen}
+.mbm-sl\@sm{mix-blend-mode:soft-light}
+
+.mbm-diff\@sm{mix-blend-mode:difference}
+.mbm-sat\@sm{mix-blend-mode:saturation}
+.mbm-lum\@sm{mix-blend-mode:luminosity}
+}

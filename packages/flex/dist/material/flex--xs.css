@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (min-width: 480px) {
+.f-1\@xs{flex:1}
+.f-2\@xs{flex:2}
+.f-3\@xs{flex:3}
+.f-4\@xs{flex:4}
+.f-5\@xs{flex:5}
+.f-6\@xs{flex:6}
+}

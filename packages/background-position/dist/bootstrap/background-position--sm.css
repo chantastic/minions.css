@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media (min-width: 567px) {
+.bp-t\@sm{background-position:top}
+.bp-b\@sm{background-position:bottom}
+.bp-l\@sm{background-position:left}
+.bp-r\@sm{background-position:right}
+.bp-c\@sm{background-position:center}
+}

@@ -1,0 +1,13 @@
+/*!minions.css*/
+@media (--lg-query) {
+.ad-1s\@lg{animation-duration:1s}
+.ad-\.9s\@lg{animation-duration:.9s}
+.ad-\.8s\@lg{animation-duration:.8s}
+.ad-\.7s\@lg{animation-duration:.7s}
+.ad-\.6s\@lg{animation-duration:.6s}
+.ad-\.5s\@lg{animation-duration:.5s}
+.ad-\.4s\@lg{animation-duration:.4s}
+.ad-\.3s\@lg{animation-duration:.3s}
+.ad-\.2s\@lg{animation-duration:.2s}
+.ad-\.1s\@lg{animation-duration:.1s}
+}

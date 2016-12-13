@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media @xs-query {
+.to-c\@sm{text-overflow:clip}
+.to-e\@sm{text-overflow:ellipsis}
+}

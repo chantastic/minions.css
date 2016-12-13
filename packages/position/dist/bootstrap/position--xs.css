@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (min-width: 0px) {
+.p-s\@xs{position:static}
+.p-r\@xs{position:relative}
+.p-a\@xs{position:absolute}
+.p-f\@xs{position:fixed}
+}

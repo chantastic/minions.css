@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media @xs-query {
+.fw-n\@lg{font-weight:normal}
+.fw-b\@lg{font-weight:bold}
+.fw-l\@lg{font-weight:lighter}
+.fw-r\@lg{font-weight:bolder}
+.fw-100\@lg{font-weight:100}
+.fw-200\@lg{font-weight:200}
+.fw-300\@lg{font-weight:300}
+.fw-400\@lg{font-weight:400}
+.fw-500\@lg{font-weight:500}
+.fw-600\@lg{font-weight:600}
+.fw-700\@lg{font-weight:700}
+.fw-800\@lg{font-weight:800}
+.fw-900\@lg{font-weight:900}
+}

@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (min-width: 0px) {
+.fg-1\@xs{flex-grow:1}
+.fg-2\@xs{flex-grow:2}
+.fg-3\@xs{flex-grow:3}
+.fg-4\@xs{flex-grow:4}
+.fg-5\@xs{flex-grow:5}
+.fg-6\@xs{flex-grow:6}
+}

@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.fs-1\@lg{flex-shrink:1}
+.fs-2\@lg{flex-shrink:2}
+.fs-3\@lg{flex-shrink:3}
+.fs-4\@lg{flex-shrink:4}
+.fs-5\@lg{flex-shrink:5}
+.fs-6\@lg{flex-shrink:6}
+}

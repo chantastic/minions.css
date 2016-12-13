@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media (min-width: 567px) {
+.ai-b\@sm{align-items:baseline}
+.ai-c\@sm{align-items:center}
+.ai-fe\@sm{align-items:flex-end}
+.ai-fs\@sm{align-items:flex-start}
+.ai-s\@sm{align-items:stretch}
+}

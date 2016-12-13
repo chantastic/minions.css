@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media @xs-query {
+.r-n\@lg{resize:none}
+.r-b\@lg{resize:both}
+.r-h\@lg{resize:horizontal}
+.r-v\@lg{resize:vertical}
+.r-b\@lg{resize:block}
+.r-i\@lg{resize:inline}
+}

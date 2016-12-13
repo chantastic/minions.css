@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (--xl-query) {
+.ta-c\@xl{text-align:center}
+.ta-j\@xl{text-align:justify}
+.ta-l\@xl{text-align:left}
+.ta-r\@xl{text-align:right}
+}

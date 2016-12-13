@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (--md-query) {
+.ow-n\@md{overflow-wrap:normal}
+.ow-bw\@md{overflow-wrap:break-word}
+}

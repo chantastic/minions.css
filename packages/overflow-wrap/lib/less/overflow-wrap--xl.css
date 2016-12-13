@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media @xs-query {
+.ow-n\@xl{overflow-wrap:normal}
+.ow-bw\@xl{overflow-wrap:break-word}
+}

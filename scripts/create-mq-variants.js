@@ -83,7 +83,7 @@ const writeDistVariants = (packageName, file, rootPath) => {
       Object.keys(distributions[dist]).map(variant =>
         fs.writeFile(
           `${rootPath}/${packageName}/dist/${dist}/${packageName}--${variant}.css`,
-          insertMediaQuery(insertSuffixes(file, variant), `min-width: ${distributions[dist][variant]}`),
+          insertMediaQuery(insertSuffixes(file, variant), `(min-width: ${distributions[dist][variant]})`),
           "utf8",
           err => {
             if (err) throw err

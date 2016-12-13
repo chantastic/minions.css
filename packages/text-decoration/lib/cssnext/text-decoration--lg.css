@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (--lg-query) {
+.td-u\@lg{text-decoration:underline}
+.td-o\@lg{text-decoration:overline}
+.td-n\@lg{text-decoration:none}
+}

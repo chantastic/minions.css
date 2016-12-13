@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (min-width: 768px) {
+.tt-c\@md{text-transform:capitalize}
+.tt-u\@md{text-transform:uppercase}
+.tt-l\@md{text-transform:lowercase}
+.tt-n\@md{text-transform:none}
+.tt-fw\@md{text-transform:full-width}
+.tt-i\@md{text-transform:initial}
+}

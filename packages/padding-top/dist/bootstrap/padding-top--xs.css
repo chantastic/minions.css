@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media (min-width: 0px) {
+.pt-0\@xs{padding-top:0}
+.pt-\.25e\@xs{padding-top:.25em}
+.pt-\.5e\@xs{padding-top:.5em}
+.pt-1e\@xs{padding-top:1em}
+.pt-2e\@xs{padding-top:2em}
+.pt-3e\@xs{padding-top:3em}
+.pt-4e\@xs{padding-top:4em}
+.pt-\.25r\@xs{padding-top:.25rem}
+.pt-\.5r\@xs{padding-top:.5rem}
+.pt-1r\@xs{padding-top:1rem}
+.pt-2r\@xs{padding-top:2rem}
+.pt-3r\@xs{padding-top:3rem}
+.pt-4r\@xs{padding-top:4rem}
+}

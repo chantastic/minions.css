@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (--xl-query) {
+.fs-n\@xl{font-style:normal}
+.fs-i\@xl{font-style:italic}
+.fs-o\@xl{font-style:oblique}
+}

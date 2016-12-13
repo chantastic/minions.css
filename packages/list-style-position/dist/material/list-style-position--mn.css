@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (min-width: 0px) {
+.lsp-i\@mn{list-style-position:inside}
+.lsp-o\@mn{list-style-position:outside}
+}

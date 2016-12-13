@@ -1,0 +1,11 @@
+/*!minions.css*/
+@media (--xl-query) {
+.lst-d\@xl{list-style-type:disc}
+.lst-c\@xl{list-style-type:circle}
+.lst-s\@xl{list-style-type:square}
+.lst-l\@xl{list-style-type:decimal}
+.lst-g\@xl{list-style-type:georgian}
+.lst-ci\@xl{list-style-type:cjk-ideographic}
+.lst-k\@xl{list-style-type:kannada}
+.lst-n\@xl{list-style-type:none}
+}

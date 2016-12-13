@@ -1,0 +1,13 @@
+/*!minions.css*/
+@media (--sm-query) {
+.ay-1s\@sm{animation-delay:1s}
+.ay-\.9s\@sm{animation-delay:.9s}
+.ay-\.8s\@sm{animation-delay:.8s}
+.ay-\.7s\@sm{animation-delay:.7s}
+.ay-\.6s\@sm{animation-delay:.6s}
+.ay-\.5s\@sm{animation-delay:.5s}
+.ay-\.4s\@sm{animation-delay:.4s}
+.ay-\.3s\@sm{animation-delay:.3s}
+.ay-\.2s\@sm{animation-delay:.2s}
+.ay-\.1s\@sm{animation-delay:.1s}
+}

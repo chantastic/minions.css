@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.f-1\@mn{flex:1}
+.f-2\@mn{flex:2}
+.f-3\@mn{flex:3}
+.f-4\@mn{flex:4}
+.f-5\@mn{flex:5}
+.f-6\@mn{flex:6}
+}

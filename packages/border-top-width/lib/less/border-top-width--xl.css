@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media @xs-query {
+.btw-0,.btw-1p,.btw-2p,.btw-3p,.btw-4p\@xl{border-style:solid}
+.btw-0\@xl{border-top-width:0}
+.btw-1p\@xl{border-top-width:1px}
+.btw-2p\@xl{border-top-width:2px}
+.btw-3p\@xl{border-top-width:3px}
+.btw-4p\@xl{border-top-width:4px}
+}

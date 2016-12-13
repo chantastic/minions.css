@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media @xs-query {
+.bo-bb\@mn{background-origin:border-box}
+.bo-pb\@mn{background-origin:padding-box}
+.bo-cb\@mn{background-origin:content-box}
+}

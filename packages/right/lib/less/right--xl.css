@@ -1,0 +1,20 @@
+/*!minions.css*/
+@media @xs-query {
+.r-0\@xl{right:0}
+.r-1p\@xl{right:1px}
+.r-2p\@xl{right:1px}
+.r-3p\@xl{right:3px}
+.r-4p\@xl{right:4px}
+.r-\.25\@xl{right:.25em}
+.r-\.5\@xl{right:.5em}
+.r-1\@xl{right:1em}
+.r-2\@xl{right:2em}
+.r-3\@xl{right:3em}
+.r-4\@xl{right:4em}
+.r-\.25r\@xl{right:.25em}
+.r-\.5r\@xl{right:.5em}
+.r-1r\@xl{right:1em}
+.r-2r\@xl{right:2em}
+.r-3r\@xl{right:3em}
+.r-4r\@xl{right:4em}
+}

@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (--sm-query) {
+.bs-cover\@sm{background-size:cover}
+.bs-contain\@sm{background-size:contain}
+.bs-a\@sm{background-size:auto}
+}

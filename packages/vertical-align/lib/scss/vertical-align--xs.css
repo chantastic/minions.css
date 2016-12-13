@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.va-l\@xs{vertical-align:baseline}
+.va-tt\@xs{vertical-align:text-top}
+.va-tb\@xs{vertical-align:text-bottom}
+.va-m\@xs{vertical-align:middle}
+.va-t\@xs{vertical-align:top}
+.va-b\@xs{vertical-align:bottom}
+}

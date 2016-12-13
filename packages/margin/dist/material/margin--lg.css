@@ -1,0 +1,17 @@
+/*!minions.css*/
+@media (min-width: 960px) {
+.m-0a\@lg{margin:0 auto}
+.m-0\@lg{margin:0}
+.m-\.25e\@lg{margin:.25em}
+.m-\.5e\@lg{margin:.5em}
+.m-1e\@lg{margin:1em}
+.m-2e\@lg{margin:2em}
+.m-3e\@lg{margin:3em}
+.m-4e\@lg{margin:4em}
+.m-\.25r\@lg{margin:.25rem}
+.m-\.5r\@lg{margin:.5rem}
+.m-1r\@lg{margin:1rem}
+.m-2r\@lg{margin:2rem}
+.m-3r\@lg{margin:3rem}
+.m-4r\@lg{margin:4rem}
+}

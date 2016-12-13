@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.ws-n\@xl{white-space: nowrap}
+.ws-p\@xl{white-space: pre}
+.ws-pw\@xl{white-space: pre-wrap}
+.ws-pl\@xl{white-space: pre-line}
+}

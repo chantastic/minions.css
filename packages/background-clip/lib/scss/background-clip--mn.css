@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.bc-bb\@mn{background-clip:border-box}
+.bc-pb\@mn{background-clip:padding-box}
+.bc-cb\@mn{background-clip:content-box}
+.bc-t\@mn{background-clip:text}
+}

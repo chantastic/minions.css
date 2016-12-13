@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media (--lg-query) {
+.p-0\@lg{padding:0}
+.p-\.25e\@lg{padding:.25em}
+.p-\.5e\@lg{padding:.5em}
+.p-1e\@lg{padding:1em}
+.p-2e\@lg{padding:2em}
+.p-3e\@lg{padding:3em}
+.p-4e\@lg{padding:4em}
+.p-\.25r\@lg{padding:.25rem}
+.p-\.5r\@lg{padding:.5rem}
+.p-1r\@lg{padding:1rem}
+.p-2r\@lg{padding:2rem}
+.p-3r\@lg{padding:3rem}
+.p-4r\@lg{padding:4rem}
+}

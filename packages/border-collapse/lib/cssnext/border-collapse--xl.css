@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (--xl-query) {
+.bc-c\@xl{border-collapse:collapse}
+.bc-s\@xl{border-collapse:separate}
+}

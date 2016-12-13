@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (min-width: 480px) {
+.c-n\@xs{clear:none}
+.c-l\@xs{clear:left}
+.c-r\@xs{clear:right}
+.c-b\@xs{clear:both}
+}

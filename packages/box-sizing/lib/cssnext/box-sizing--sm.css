@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (--sm-query) {
+.bs-cb\@sm{box-sizing:content-box}
+.bs-bb\@sm{box-sizing:border-box}
+}

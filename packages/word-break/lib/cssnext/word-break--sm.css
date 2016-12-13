@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (--sm-query) {
+.wb-n\@sm{word-break:normal} 
+.wb-ba\@sm{word-break:break-all}
+.wb-ka\@sm{word-break:keep-all}
+}

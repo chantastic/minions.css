@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media @xs-query {
+.bs-a\@xl{border-style:auto}
+.bs-d\@xl{border-style:dotted}
+.bs-n\@xl{border-style:none}
+.bs-s\@xl{border-style:solid}
+.bs-t\@xl{border-style:thin}
+.bs-m\@xl{border-style:medium}
+.bs-k\@xl{border-style:thick}
+}

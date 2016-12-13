@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media (min-width: 720px) {
+.ff-r\@md{flex-flow:row}
+.ff-rr\@md{flex-flow:row-reverse}
+.ff-c\@md{flex-flow:column}
+.ff-cr\@md{flex-flow:column-reverse}
+.ff-n\@md{flex-flow:nowrap}
+.ff-w\@md{flex-flow:wrap}
+.ff-wr\@md{flex-flow:wrap-reverse}
+}

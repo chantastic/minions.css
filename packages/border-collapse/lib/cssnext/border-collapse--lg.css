@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (--lg-query) {
+.bc-c\@lg{border-collapse:collapse}
+.bc-s\@lg{border-collapse:separate}
+}

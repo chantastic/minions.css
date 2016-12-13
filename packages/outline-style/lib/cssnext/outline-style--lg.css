@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media (--lg-query) {
+.os-a\@lg{outline-style:auto}
+.os-d\@lg{outline-style:dotted}
+.os-n\@lg{outline-style:none}
+.os-s\@lg{outline-style:solid}
+.os-t\@lg{outline-style:thin}
+.os-m\@lg{outline-style:medium}
+.os-k\@lg{outline-style:thick}
+}

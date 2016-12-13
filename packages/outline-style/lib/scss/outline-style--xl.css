@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.os-a\@xl{outline-style:auto}
+.os-d\@xl{outline-style:dotted}
+.os-n\@xl{outline-style:none}
+.os-s\@xl{outline-style:solid}
+.os-t\@xl{outline-style:thin}
+.os-m\@xl{outline-style:medium}
+.os-k\@xl{outline-style:thick}
+}

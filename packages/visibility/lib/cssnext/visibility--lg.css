@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (--lg-query) {
+.v-h\@lg{visibility:hidden}
+.v-v\@lg{visibility:visible}
+}

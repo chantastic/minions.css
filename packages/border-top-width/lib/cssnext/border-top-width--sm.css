@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (--sm-query) {
+.btw-0,.btw-1p,.btw-2p,.btw-3p,.btw-4p\@sm{border-style:solid}
+.btw-0\@sm{border-top-width:0}
+.btw-1p\@sm{border-top-width:1px}
+.btw-2p\@sm{border-top-width:2px}
+.btw-3p\@sm{border-top-width:3px}
+.btw-4p\@sm{border-top-width:4px}
+}

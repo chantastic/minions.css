@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media @xs-query {
+.blw-0,.blw-1p,.blw-2p,.blw-3p,.blw-4p\@xl{border-style:solid}
+.blw-0\@xl{border-left-width:0}
+.blw-1p\@xl{border-left-width:1px}
+.blw-2p\@xl{border-left-width:2px}
+.blw-3p\@xl{border-left-width:3px}
+.blw-4p\@xl{border-left-width:4px}
+}

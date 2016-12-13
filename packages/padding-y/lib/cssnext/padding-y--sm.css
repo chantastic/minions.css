@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media (--sm-query) {
+.py-0\@sm{padding-top:0;padding-bottom:0}
+.py-\.25e\@sm{padding-top:.25em;padding-bottom:.25em}
+.py-\.5e\@sm{padding-top:.5em;padding-bottom:.5em}
+.py-1e\@sm{padding-top:1em;padding-bottom:1em}
+.py-2e\@sm{padding-top:2em;padding-bottom:2em}
+.py-3e\@sm{padding-top:3em;padding-bottom:3em}
+.py-4e\@sm{padding-top:4em;padding-bottom:4em}
+.py-\.25r\@sm{padding-top:.25rem;padding-bottom:.25rem}
+.py-\.5r\@sm{padding-top:.5rem;padding-bottom:.5rem}
+.py-1r\@sm{padding-top:1rem;padding-bottom:1rem}
+.py-2r\@sm{padding-top:2rem;padding-bottom:2rem}
+.py-3r\@sm{padding-top:3rem;padding-bottom:3rem}
+.py-4r\@sm{padding-top:4rem;padding-bottom:4rem}
+}

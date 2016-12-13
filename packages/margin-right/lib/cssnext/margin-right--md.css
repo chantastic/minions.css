@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media (--md-query) {
+.mr-0\@md{margin-right:0}
+.mr-\.25e\@md{margin-right:.25em}
+.mr-\.5e\@md{margin-right:.5em}
+.mr-1e\@md{margin-right:1em}
+.mr-2e\@md{margin-right:2em}
+.mr-3e\@md{margin-right:3em}
+.mr-4e\@md{margin-right:4em}
+.mr-\.25r\@md{margin-right:.25rem}
+.mr-\.5r\@md{margin-right:.5rem}
+.mr-1r\@md{margin-right:1rem}
+.mr-2r\@md{margin-right:2rem}
+.mr-3r\@md{margin-right:3rem}
+.mr-4r\@md{margin-right:4rem}
+}
