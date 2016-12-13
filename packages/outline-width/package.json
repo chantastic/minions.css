@@ -1,6 +1,6 @@
 {
   "name": "minions.outline-width",
-  "version": "0.0.4-alpha-16",
+  "version": "0.0.4-beta-1",
   "description": "minions outline-width classes",
   "main": "outline-width.css",
   "style": "outline-width.css",

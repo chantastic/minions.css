@@ -1,6 +1,6 @@
 {
   "name": "minions.flex-wrap",
-  "version": "0.0.4-alpha-16",
+  "version": "0.0.4-beta-1",
   "description": "minions flex-wrap classes",
   "main": "flex-wrap.css",
   "style": "flex-wrap.css",

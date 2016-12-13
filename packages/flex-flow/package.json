@@ -1,6 +1,6 @@
 {
   "name": "minions.flex-flow",
-  "version": "0.0.4-alpha-16",
+  "version": "0.0.4-beta-1",
   "description": "minions flex-flow classes",
   "main": "flex-flow.css",
   "style": "flex-flow.css",

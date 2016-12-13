@@ -1,6 +1,6 @@
 {
   "name": "minions.right",
-  "version": "0.0.4-alpha-16",
+  "version": "0.0.4-beta-1",
   "description": "minions right classes",
   "main": "right.css",
   "style": "right.css",
