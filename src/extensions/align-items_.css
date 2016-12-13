@@ -1,7 +1,0 @@
-/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
-
-.ai-b  > * { align-items: baseline }
-.ai-c  > * { align-items: center }
-.ai-fe > * { align-items: flex-end }
-.ai-fs > * { align-items: flex-start }
-.ai-s  > * { align-items: stretch }

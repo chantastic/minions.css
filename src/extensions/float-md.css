@@ -1,7 +1,0 @@
-/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
-
-@media (min-width: 768px) {
-  .f-l\@md { float: left; }
-  .f-n\@md { float: none; }
-  .f-r\@md { float: right; }
-}

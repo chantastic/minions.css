@@ -1,7 +1,0 @@
-//*! minions.css | MIT License | https://github.com/chantastic/minions.css */
-
-@media (min-width: 992px) {
-  .fw-n\@lg  { flex-wrap: nowrap }
-  .fw-w\@lg   { flex-wrap: wrap }
-  .fw-wr\@lg  { flex-wrap: wrap-reverse }
-}

@@ -1,9 +1,0 @@
-/*! minions.css | MIT License | https://github.com/chantastic/minions.css */
-
-@media (min-width: 1200px) {
-  .ai-b\@xl  { align-items: baseline }
-  .ai-c\@xl  { align-items: center }
-  .ai-fe\@xl { align-items: flex-end }
-  .ai-fs\@xl { align-items: flex-start }
-  .ai-s\@xl  { align-items: stretch }
-}
