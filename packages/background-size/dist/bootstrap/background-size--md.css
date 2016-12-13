@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (min-width: 768px) {
+.bs-cover\@md{background-size:cover}
+.bs-contain\@md{background-size:contain}
+.bs-a\@md{background-size:auto}
+}

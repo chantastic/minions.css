@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.lh-1\@sm{line-height:1}
+.lh-1\.25\@sm{line-height:1.25}
+.lh-1\.5\@sm{line-height:1.5}
+.lh-2\@sm{line-height:2}
+.lh-n\@sm{line-height:normal}
+}

@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (min-width: 720px) {
+.aps-r\@md{animation-play-state: running}
+.aps-p\@md{animation-play-state: paused}
+}

@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.f-l\@lg{float:left}
+.f-n\@lg{float:none}
+.f-r\@lg{float:right}
+}

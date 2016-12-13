@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (min-width: 480px) {
+.v-h\@xs{visibility:hidden}
+.v-v\@xs{visibility:visible}
+}

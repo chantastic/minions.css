@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media @xs-query {
+.ta-c\@sm{text-align:center}
+.ta-j\@sm{text-align:justify}
+.ta-l\@sm{text-align:left}
+.ta-r\@sm{text-align:right}
+}

@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (min-width: 960px) {.ad-n\@lg{animation-direction:normal}
+.ad-r\@lg{animation-direction:reverse}
+.ad-a\@lg{animation-direction:alternate}
+.ad-ar\@lg{animation-direction:alternate-reverse}
+}

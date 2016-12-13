@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media @xs-query {
+.bs-cb\@lg{box-sizing:content-box}
+.bs-bb\@lg{box-sizing:border-box}
+}

@@ -1,0 +1,11 @@
+/*!minions.css*/
+@media @xs-query {
+.d-b\@sm{display:block}
+.d-i\@sm{display:inline}
+.d-ib\@sm{display:inline-block}
+.d-n\@sm{display:none}
+.d-f\@sm{display:flex}
+.d-t\@sm{display:table}
+.d-tc\@sm{display:table-cell}
+.d-tr\@sm{display:table-row}
+}

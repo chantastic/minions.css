@@ -1,0 +1,20 @@
+/*!minions.css*/
+@media (min-width: 1200px) {
+.b-0\@xl{bottom:0}
+.b-1p\@xl{bottom:1px}
+.b-2p\@xl{bottom:1px}
+.b-3p\@xl{bottom:3px}
+.b-4p\@xl{bottom:4px}
+.b-\.25e\@xl{bottom:.25em}
+.b-\.5e\@xl{bottom:.5em}
+.b-1e\@xl{bottom:1em}
+.b-2e\@xl{bottom:2em}
+.b-3e\@xl{bottom:3em}
+.b-4e\@xl{bottom:4em}
+.b-\.25r\@xl{bottom:.25em}
+.b-\.5r\@xl{bottom:.5em}
+.b-1r\@xl{bottom:1em}
+.b-2r\@xl{bottom:2em}
+.b-3r\@xl{bottom:3em}
+.b-4r\@xl{bottom:4em}
+}

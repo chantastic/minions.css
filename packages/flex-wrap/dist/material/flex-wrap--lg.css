@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (min-width: 960px) {
+.fw-n\@lg{flex-wrap:nowrap}
+.fw-w\@lg{flex-wrap:wrap}
+.fw-wr\@lg{flex-wrap:wrap-reverse}
+}

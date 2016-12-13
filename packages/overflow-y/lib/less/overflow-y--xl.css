@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media @xs-query {
+.oy-a\@xl{overflow-y:auto}
+.oy-h\@xl{overflow-y:hidden}
+.oy-s\@xl{overflow-y:scroll}
+.oy-v\@xl{overflow-y:visible}
+}

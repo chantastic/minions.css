@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (--xs-query) {
+.bc-c\@xs{border-collapse:collapse}
+.bc-s\@xs{border-collapse:separate}
+}

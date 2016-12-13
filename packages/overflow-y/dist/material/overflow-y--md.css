@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (min-width: 720px) {
+.oy-a\@md{overflow-y:auto}
+.oy-h\@md{overflow-y:hidden}
+.oy-s\@md{overflow-y:scroll}
+.oy-v\@md{overflow-y:visible}
+}

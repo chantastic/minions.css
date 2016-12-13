@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (min-width: 992px) {
+.fs-n\@lg{font-style:normal}
+.fs-i\@lg{font-style:italic}
+.fs-o\@lg{font-style:oblique}
+}

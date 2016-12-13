@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media (--md-query) {
+.bp-t\@md{background-position:top}
+.bp-b\@md{background-position:bottom}
+.bp-l\@md{background-position:left}
+.bp-r\@md{background-position:right}
+.bp-c\@md{background-position:center}
+}

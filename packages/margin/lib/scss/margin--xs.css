@@ -1,0 +1,17 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.m-0a\@xs{margin:0 auto}
+.m-0\@xs{margin:0}
+.m-\.25e\@xs{margin:.25em}
+.m-\.5e\@xs{margin:.5em}
+.m-1e\@xs{margin:1em}
+.m-2e\@xs{margin:2em}
+.m-3e\@xs{margin:3em}
+.m-4e\@xs{margin:4em}
+.m-\.25r\@xs{margin:.25rem}
+.m-\.5r\@xs{margin:.5rem}
+.m-1r\@xs{margin:1rem}
+.m-2r\@xs{margin:2rem}
+.m-3r\@xs{margin:3rem}
+.m-4r\@xs{margin:4rem}
+}

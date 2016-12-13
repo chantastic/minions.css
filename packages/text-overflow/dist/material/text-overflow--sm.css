@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (min-width: 600px) {
+.to-c\@sm{text-overflow:clip}
+.to-e\@sm{text-overflow:ellipsis}
+}

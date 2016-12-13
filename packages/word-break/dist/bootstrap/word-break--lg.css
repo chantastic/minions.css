@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (min-width: 992px) {
+.wb-n\@lg{word-break:normal} 
+.wb-ba\@lg{word-break:break-all}
+.wb-ka\@lg{word-break:keep-all}
+}

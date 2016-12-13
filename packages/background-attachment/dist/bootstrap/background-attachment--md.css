@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (min-width: 768px) {
+.ba-s\@md{background-attachment: scroll}
+.ba-f\@md{background-attachment: fixed}
+.ba-l\@md{background-attachment: local}
+}

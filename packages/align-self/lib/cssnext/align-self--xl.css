@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media (--xl-query) {
+.as-b\@xl{align-self:baseline}
+.as-c\@xl{align-self:center}
+.as-fe\@xl{align-self:flex-end}
+.as-fs\@xl{align-self:flex-start}
+.as-s\@xl{align-self:stretch}
+}

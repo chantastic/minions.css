@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media (min-width: 567px) {
+.bs-a\@sm{border-style:auto}
+.bs-d\@sm{border-style:dotted}
+.bs-n\@sm{border-style:none}
+.bs-s\@sm{border-style:solid}
+.bs-t\@sm{border-style:thin}
+.bs-m\@sm{border-style:medium}
+.bs-k\@sm{border-style:thick}
+}

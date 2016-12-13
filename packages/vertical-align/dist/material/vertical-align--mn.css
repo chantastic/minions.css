@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (min-width: 0px) {
+.va-l\@mn{vertical-align:baseline}
+.va-tt\@mn{vertical-align:text-top}
+.va-tb\@mn{vertical-align:text-bottom}
+.va-m\@mn{vertical-align:middle}
+.va-t\@mn{vertical-align:top}
+.va-b\@mn{vertical-align:bottom}
+}

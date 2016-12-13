@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media (min-width: 600px) {
+.fd-c\@sm{flex-direction:column}
+.fd-r\@sm{flex-direction:row}
+}

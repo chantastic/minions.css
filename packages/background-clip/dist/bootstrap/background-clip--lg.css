@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (min-width: 992px) {
+.bc-bb\@lg{background-clip:border-box}
+.bc-pb\@lg{background-clip:padding-box}
+.bc-cb\@lg{background-clip:content-box}
+.bc-t\@lg{background-clip:text}
+}

@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (--lg-query) {
+.ba-s\@lg{background-attachment: scroll}
+.ba-f\@lg{background-attachment: fixed}
+.ba-l\@lg{background-attachment: local}
+}

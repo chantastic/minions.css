@@ -1,0 +1,4 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.fb-0\@mn{flex-basis:0}
+}

@@ -1,0 +1,12 @@
+/*!minions.css*/
+@media @xs-query {
+.pe-n\@xl{pointer-events:none}
+.pe-vP\@xl{pointer-events:visiblePainted}
+.pe-vF\@xl{pointer-events:visibleFill}
+.pe-vS\@xl{pointer-events:visibleStroke}
+.pe-v\@xl{pointer-events:visible}
+.pe-p\@xl{pointer-events:painted}
+.pe-f\@xl{pointer-events:fill}
+.pe-s\@xl{pointer-events:stroke}
+.pe-a\@xl{pointer-events:all}
+}

@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media @xs-query {
+.cc-a\@xs{column-count:auto}
+.cc-1\@xs{column-count:1}
+.cc-2\@xs{column-count:2}
+.cc-3\@xs{column-count:3}
+}

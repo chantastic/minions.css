@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media (min-width: 567px) {
+.br-rx\@sm{background-repeat:repeat-x}
+.br-ry\@sm{background-repeat:repeat-y}
+.br-r\@sm{background-repeat:repeat}
+.br-s\@sm{background-repeat:space}
+.br-nr\@sm{background-repeat:no-repeat}
+}

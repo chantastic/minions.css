@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media @xs-query {
+.bp-t\@xl{background-position:top}
+.bp-b\@xl{background-position:bottom}
+.bp-l\@xl{background-position:left}
+.bp-r\@xl{background-position:right}
+.bp-c\@xl{background-position:center}
+}

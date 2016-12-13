@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (min-width: 600px) {
+.cc-a\@sm{column-count:auto}
+.cc-1\@sm{column-count:1}
+.cc-2\@sm{column-count:2}
+.cc-3\@sm{column-count:3}
+}

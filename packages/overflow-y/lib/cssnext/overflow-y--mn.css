@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (--mn-query) {
+.oy-a\@mn{overflow-y:auto}
+.oy-h\@mn{overflow-y:hidden}
+.oy-s\@mn{overflow-y:scroll}
+.oy-v\@mn{overflow-y:visible}
+}

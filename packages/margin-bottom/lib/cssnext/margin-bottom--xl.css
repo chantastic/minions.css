@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media (--xl-query) {
+.mb-0\@xl{margin-bottom:0}
+.mb-\.25e\@xl{margin-bottom:.25em}
+.mb-\.5e\@xl{margin-bottom:.5em}
+.mb-1e\@xl{margin-bottom:1em}
+.mb-2e\@xl{margin-bottom:2em}
+.mb-3e\@xl{margin-bottom:3em}
+.mb-4e\@xl{margin-bottom:4em}
+.mb-\.25r\@xl{margin-bottom:.25rem}
+.mb-\.5r\@xl{margin-bottom:.5rem}
+.mb-1r\@xl{margin-bottom:1rem}
+.mb-2r\@xl{margin-bottom:2rem}
+.mb-3r\@xl{margin-bottom:3rem}
+.mb-4r\@xl{margin-bottom:4rem}
+}

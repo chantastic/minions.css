@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (min-width: 0px) {
+.ac-c\@xs{align-items:center}
+.ac-fe\@xs{align-items:flex-end}
+.ac-fs\@xs{align-items:flex-start}
+.ac-s\@xs{align-items:stretch}
+.ac-sb\@xs{align-items:space-between}
+.ac-sa\@xs{align-items:space-around}
+}

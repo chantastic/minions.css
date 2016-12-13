@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (--lg-query) {
+.va-l\@lg{vertical-align:baseline}
+.va-tt\@lg{vertical-align:text-top}
+.va-tb\@lg{vertical-align:text-bottom}
+.va-m\@lg{vertical-align:middle}
+.va-t\@lg{vertical-align:top}
+.va-b\@lg{vertical-align:bottom}
+}

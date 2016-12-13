@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (--md-query) {
+.bw-0,.bw-1p,.bw-2p,.bw-3p,.bw-4p\@md{border-style:solid}
+.bw-0\@md{border-width:0}
+.bw-1p\@md{border-width:1px}
+.bw-2p\@md{border-width:2px}
+.bw-3p\@md{border-width:3px}
+.bw-4p\@md{border-width:4px}
+}

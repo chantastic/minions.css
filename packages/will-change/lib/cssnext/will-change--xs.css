@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (--xs-query) {
+.wc-a\@xs{will-change:auto}
+.wc-sp\@xs{will-change:scroll-position}
+.wc-c\@xs{will-change:contents}
+.wc-t\@xs{will-change:transform}
+.wc-o\@xs{will-change:opacity}
+/* only performant custom-indent by default */
+}

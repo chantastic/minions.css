@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media (min-width: 768px) {
+.os-a\@md{outline-style:auto}
+.os-d\@md{outline-style:dotted}
+.os-n\@md{outline-style:none}
+.os-s\@md{outline-style:solid}
+.os-t\@md{outline-style:thin}
+.os-m\@md{outline-style:medium}
+.os-k\@md{outline-style:thick}
+}

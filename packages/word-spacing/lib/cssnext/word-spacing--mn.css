@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (--mn-query) {
+.ws-tracked\@mn{letter-spacing:.1}
+.ws-tight\@mn{letter-spacing:-.05em}
+.ws-wide\@mn{letter-spacing:.25em}
+.ws-normal\@mn{letter-spacing:normal}
+}

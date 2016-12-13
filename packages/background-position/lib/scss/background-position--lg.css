@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.bp-t\@lg{background-position:top}
+.bp-b\@lg{background-position:bottom}
+.bp-l\@lg{background-position:left}
+.bp-r\@lg{background-position:right}
+.bp-c\@lg{background-position:center}
+}

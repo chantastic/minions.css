@@ -1,0 +1,22 @@
+/*!minions.css*/
+@media (--sm-query) {
+.xw-a\@sm{max-width:auto}
+.xw-xc\@sm{max-width:max-content}
+.xw-nc\@sm{max-width:min-content}
+.xw-fc\@sm{max-width:fit-content}
+.xw-fa\@sm{max-width:fill-available}
+.xw-10\%\@sm{max-width:10%}
+.xw-20\%\@sm{max-width:20%}
+.xw-25\%\@sm{max-width:25%}
+.xw-30\%\@sm{max-width:30%}
+.xw-33\%\@sm{max-width:33.3333%}
+.xw-40\%\@sm{max-width:40%}
+.xw-50\%\@sm{max-width:50%}
+.xw-60\%\@sm{max-width:60%}
+.xw-66\%\@sm{max-width:66.6666%}
+.xw-70\%\@sm{max-width:70%}
+.xw-75\%\@sm{max-width:75%}
+.xw-80\%\@sm{max-width:80%}
+.xw-90\%\@sm{max-width:90%}
+.xw-100\%\@sm{max-width:100%}
+}

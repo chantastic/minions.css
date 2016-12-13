@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media (--lg-query) {
+.br-0\@lg{border-radius:0}
+.br-1p\@lg{border-radius:1px}
+.br-2p\@lg{border-radius:2px}
+.br-3p\@lg{border-radius:3px}
+.br-4p\@lg{border-radius:4px}
+}

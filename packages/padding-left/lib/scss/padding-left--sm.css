@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.pl-0\@sm{padding-left:0}
+.pl-\.25e\@sm{padding-left:.25em}
+.pl-\.5e\@sm{padding-left:.5em}
+.pl-1e\@sm{padding-left:1em}
+.pl-2e\@sm{padding-left:2em}
+.pl-3e\@sm{padding-left:3em}
+.pl-4e\@sm{padding-left:4em}
+.pl-\.25r\@sm{padding-left:.25rem}
+.pl-\.5r\@sm{padding-left:.5rem}
+.pl-1r\@sm{padding-left:1rem}
+.pl-2r\@sm{padding-left:2rem}
+.pl-3r\@sm{padding-left:3rem}
+.pl-4r\@sm{padding-left:4rem}
+}

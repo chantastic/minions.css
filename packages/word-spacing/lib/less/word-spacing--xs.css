@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media @xs-query {
+.ws-tracked\@xs{letter-spacing:.1}
+.ws-tight\@xs{letter-spacing:-.05em}
+.ws-wide\@xs{letter-spacing:.25em}
+.ws-normal\@xs{letter-spacing:normal}
+}

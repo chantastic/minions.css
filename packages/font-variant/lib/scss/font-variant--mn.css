@@ -1,0 +1,4 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.fv-sc\@mn{font-variant: small-caps}
+}

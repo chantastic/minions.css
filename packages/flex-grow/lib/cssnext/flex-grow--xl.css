@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (--xl-query) {
+.fg-1\@xl{flex-grow:1}
+.fg-2\@xl{flex-grow:2}
+.fg-3\@xl{flex-grow:3}
+.fg-4\@xl{flex-grow:4}
+.fg-5\@xl{flex-grow:5}
+.fg-6\@xl{flex-grow:6}
+}

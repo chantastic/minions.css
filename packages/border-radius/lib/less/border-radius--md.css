@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media @xs-query {
+.br-0\@md{border-radius:0}
+.br-1p\@md{border-radius:1px}
+.br-2p\@md{border-radius:2px}
+.br-3p\@md{border-radius:3px}
+.br-4p\@md{border-radius:4px}
+}

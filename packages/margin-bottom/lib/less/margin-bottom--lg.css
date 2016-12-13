@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media @xs-query {
+.mb-0\@lg{margin-bottom:0}
+.mb-\.25e\@lg{margin-bottom:.25em}
+.mb-\.5e\@lg{margin-bottom:.5em}
+.mb-1e\@lg{margin-bottom:1em}
+.mb-2e\@lg{margin-bottom:2em}
+.mb-3e\@lg{margin-bottom:3em}
+.mb-4e\@lg{margin-bottom:4em}
+.mb-\.25r\@lg{margin-bottom:.25rem}
+.mb-\.5r\@lg{margin-bottom:.5rem}
+.mb-1r\@lg{margin-bottom:1rem}
+.mb-2r\@lg{margin-bottom:2rem}
+.mb-3r\@lg{margin-bottom:3rem}
+.mb-4r\@lg{margin-bottom:4rem}
+}

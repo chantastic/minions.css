@@ -1,0 +1,22 @@
+/*!minions.css*/
+@media (min-width: 720px) {
+.nh-a\@md{min-height:auto}
+.nh-xc\@md{min-height:max-content}
+.nh-nc\@md{min-height:min-content}
+.nh-fc\@md{min-height:fit-content}
+.nh-fa\@md{min-height:fill-available}
+.nh-10\%\@md{min-height:10%}
+.nh-20\%\@md{min-height:20%}
+.nh-25\%\@md{min-height:25%}
+.nh-30\%\@md{min-height:30%}
+.nh-33\%\@md{min-height:33.3333%}
+.nh-40\%\@md{min-height:40%}
+.nh-50\%\@md{min-height:50%}
+.nh-60\%\@md{min-height:60%}
+.nh-66\%\@md{min-height:66.6666%}
+.nh-70\%\@md{min-height:70%}
+.nh-75\%\@md{min-height:75%}
+.nh-80\%\@md{min-height:80%}
+.nh-90\%\@md{min-height:90%}
+.nh-100\%\@md{min-height:100%}
+}

@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (min-width: 0px) {
+.tp-a \@xs{ transition-property: all }
+.tp-n \@xs{ transition-property: none }
+.tp-o \@xs{ transform-property: opacity }
+}

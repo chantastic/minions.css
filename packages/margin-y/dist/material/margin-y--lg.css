@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media (min-width: 960px) {
+.my-0\@lg{margin-top:0;margin-bottom:0}
+.my-\.25e\@lg{margin-top:.25em;margin-bottom:.25em}
+.my-\.5e\@lg{margin-top:.5em;margin-bottom:.5em}
+.my-1e\@lg{margin-top:1em;margin-bottom:1em}
+.my-2e\@lg{margin-top:2em;margin-bottom:2em}
+.my-3e\@lg{margin-top:3em;margin-bottom:3em}
+.my-4e\@lg{margin-top:4em;margin-bottom:4em}
+.my-\.25r\@lg{margin-top:.25rem;margin-bottom:.25rem}
+.my-\.5r\@lg{margin-top:.5rem;margin-bottom:.5rem}
+.my-1r\@lg{margin-top:1rem;margin-bottom:1rem}
+.my-2r\@lg{margin-top:2rem;margin-bottom:2rem}
+.my-3r\@lg{margin-top:3rem;margin-bottom:3rem}
+.my-4r\@lg{margin-top:4rem;margin-bottom:4rem}
+}

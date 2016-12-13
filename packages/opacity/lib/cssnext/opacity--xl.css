@@ -1,0 +1,14 @@
+/*!minions.css*/
+@media (--xl-query) {
+.o-1\@xl{opacity:1}
+.o-\.9\@xl{opacity:.9}
+.o-\.8\@xl{opacity:.8}
+.o-\.7\@xl{opacity:.7}
+.o-\.6\@xl{opacity:.6}
+.o-\.5\@xl{opacity:.5}
+.o-\.4\@xl{opacity:.4}
+.o-\.3\@xl{opacity:.3}
+.o-\.2\@xl{opacity:.2}
+.o-\.1\@xl{opacity:.1}
+.o-0\@xl{opacity:0}
+}

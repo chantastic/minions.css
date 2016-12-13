@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media (--md-query) {
+.byw-0,.byw-1p,.byw-2p,.byw-3p,.byw-4p\@md{border-style:solid}
+.byw-0\@md{border-top-width:0;border-bottom-width:0}
+.byw-1p\@md{border-top-width:1px;border-bottom-width:1px}
+.byw-2p\@md{border-top-width:2px;border-bottom-width:2px}
+.byw-3p\@md{border-top-width:3px;border-bottom-width:3px}
+.byw-4p\@md{border-top-width:4px;border-bottom-width:4px}
+}

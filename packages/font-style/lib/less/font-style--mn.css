@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media @xs-query {
+.fs-n\@mn{font-style:normal}
+.fs-i\@mn{font-style:italic}
+.fs-o\@mn{font-style:oblique}
+}

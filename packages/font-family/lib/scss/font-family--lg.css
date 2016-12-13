@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.ff-s\@lg{font-family:serif}
+.ff-ss\@lg{font-family:sans-serif}
+.ff-m\@lg{font-family:monospace}
+.ff-c\@lg{font-family:cursive}
+.ff-f\@lg{font-family:fantasy}
+.ff-system-sans\@lg{font-family:-apple-system,BlinkMacSystemFont,sans-serif}
+.ff-system-serif\@lg{font-family:athelas, serif}
+}

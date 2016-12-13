@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (--mn-query) {
+.p-s\@mn{position:static}
+.p-r\@mn{position:relative}
+.p-a\@mn{position:absolute}
+.p-f\@mn{position:fixed}
+}

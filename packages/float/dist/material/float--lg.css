@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media (min-width: 960px) {
+.f-l\@lg{float:left}
+.f-n\@lg{float:none}
+.f-r\@lg{float:right}
+}

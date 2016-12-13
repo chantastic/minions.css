@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (min-width: 768px) {
+.ws-n\@md{white-space: nowrap}
+.ws-p\@md{white-space: pre}
+.ws-pw\@md{white-space: pre-wrap}
+.ws-pl\@md{white-space: pre-line}
+}

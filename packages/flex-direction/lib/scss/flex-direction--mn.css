@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.fd-c\@mn{flex-direction:column}
+.fd-r\@mn{flex-direction:row}
+}

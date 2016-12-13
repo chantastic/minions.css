@@ -1,0 +1,4 @@
+/*!minions.css*/
+@media (--lg-query) {
+.fv-sc\@lg{font-variant: small-caps}
+}

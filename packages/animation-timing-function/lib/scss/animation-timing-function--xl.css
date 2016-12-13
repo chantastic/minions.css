@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.atf-l\@xl{animation-timing-function:linear}
+.atf-e\@xl{animation-timing-function:ease}
+.atf-ei\@xl{animation-timing-function:ease-in}
+.atf-eio\@xl{animation-timing-function:ease-in-out}
+.atf-eo\@xl{animation-timing-function:ease-out}
+.atf-ss\@xl{animation-timing-function:step-start}
+.atf-se\@xl{animation-timing-function:step-end}
+}

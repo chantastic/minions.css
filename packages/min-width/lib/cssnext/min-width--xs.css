@@ -1,0 +1,22 @@
+/*!minions.css*/
+@media (--xs-query) {
+.nw-a\@xs{min-width:auto}
+.nw-xc\@xs{min-width:max-content}
+.nw-nc\@xs{min-width:min-content}
+.nw-fc\@xs{min-width:fit-content}
+.nw-fa\@xs{min-width:fill-available}
+.nw-10\%\@xs{min-width:10%}
+.nw-20\%\@xs{min-width:20%}
+.nw-25\%\@xs{min-width:25%}
+.nw-30\%\@xs{min-width:30%}
+.nw-33\%\@xs{min-width:33.3333%}
+.nw-40\%\@xs{min-width:40%}
+.nw-50\%\@xs{min-width:50%}
+.nw-60\%\@xs{min-width:60%}
+.nw-66\%\@xs{min-width:66.6666%}
+.nw-70\%\@xs{min-width:70%}
+.nw-75\%\@xs{min-width:75%}
+.nw-80\%\@xs{min-width:80%}
+.nw-90\%\@xs{min-width:90%}
+.nw-100\%\@xs{min-width:100%}
+}

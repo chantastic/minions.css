@@ -1,0 +1,21 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.w-a\@mn{width:auto}
+.w-mc\@mn{width:max-content}
+.w-nc\@mn{width:min-content}
+.w-fc\@mn{width:fit-content}
+.w-10\%\@mn{width:10%}
+.w-20\%\@mn{width:20%}
+.w-25\%\@mn{width:25%}
+.w-30\%\@mn{width:30%}
+.w-33\%\@mn{width:33.3333%}
+.w-40\%\@mn{width:40%}
+.w-50\%\@mn{width:50%}
+.w-60\%\@mn{width:60%}
+.w-66\%\@mn{width:66.6666%}
+.w-70\%\@mn{width:70%}
+.w-75\%\@mn{width:75%}
+.w-80\%\@mn{width:80%}
+.w-90\%\@mn{width:90%}
+.w-100\%\@mn{width:100%}
+}

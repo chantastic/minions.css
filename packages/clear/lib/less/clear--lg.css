@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media @xs-query {
+.c-n\@lg{clear:none}
+.c-l\@lg{clear:left}
+.c-r\@lg{clear:right}
+.c-b\@lg{clear:both}
+}

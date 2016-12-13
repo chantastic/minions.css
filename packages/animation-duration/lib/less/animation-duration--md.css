@@ -1,0 +1,13 @@
+/*!minions.css*/
+@media @xs-query {
+.ad-1s\@md{animation-duration:1s}
+.ad-\.9s\@md{animation-duration:.9s}
+.ad-\.8s\@md{animation-duration:.8s}
+.ad-\.7s\@md{animation-duration:.7s}
+.ad-\.6s\@md{animation-duration:.6s}
+.ad-\.5s\@md{animation-duration:.5s}
+.ad-\.4s\@md{animation-duration:.4s}
+.ad-\.3s\@md{animation-duration:.3s}
+.ad-\.2s\@md{animation-duration:.2s}
+.ad-\.1s\@md{animation-duration:.1s}
+}

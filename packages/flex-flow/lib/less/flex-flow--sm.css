@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media @xs-query {
+.ff-r\@sm{flex-flow:row}
+.ff-rr\@sm{flex-flow:row-reverse}
+.ff-c\@sm{flex-flow:column}
+.ff-cr\@sm{flex-flow:column-reverse}
+.ff-n\@sm{flex-flow:nowrap}
+.ff-w\@sm{flex-flow:wrap}
+.ff-wr\@sm{flex-flow:wrap-reverse}
+}

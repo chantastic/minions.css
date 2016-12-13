@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media (--sm-query) {
+.ti-0\@sm{text-indent:0}
+.ti-\.25e\@sm{text-indent:.25em}
+.ti-\.5e\@sm{text-indent:.5em}
+.ti-1e\@sm{text-indent:1em}
+.ti-2e\@sm{text-indent:2em}
+.ti-3e\@sm{text-indent:3em}
+.ti-4e\@sm{text-indent:4em}
+.ti-\.25r\@sm{text-indent:.25rem}
+.ti-\.5r\@sm{text-indent:.5rem}
+.ti-1r\@sm{text-indent:1rem}
+.ti-2r\@sm{text-indent:2rem}
+.ti-3r\@sm{text-indent:3rem}
+.ti-4r\@sm{text-indent:4rem}
+}

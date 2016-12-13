@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media (min-width: 0px) {
+.br-0\@mn{border-radius:0}
+.br-1p\@mn{border-radius:1px}
+.br-2p\@mn{border-radius:2px}
+.br-3p\@mn{border-radius:3px}
+.br-4p\@mn{border-radius:4px}
+}

@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.pt-0\@xl{padding-top:0}
+.pt-\.25e\@xl{padding-top:.25em}
+.pt-\.5e\@xl{padding-top:.5em}
+.pt-1e\@xl{padding-top:1em}
+.pt-2e\@xl{padding-top:2em}
+.pt-3e\@xl{padding-top:3em}
+.pt-4e\@xl{padding-top:4em}
+.pt-\.25r\@xl{padding-top:.25rem}
+.pt-\.5r\@xl{padding-top:.5rem}
+.pt-1r\@xl{padding-top:1rem}
+.pt-2r\@xl{padding-top:2rem}
+.pt-3r\@xl{padding-top:3rem}
+.pt-4r\@xl{padding-top:4rem}
+}

@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.ttf-l\@xl{transition-timing-function:linear}
+.ttf-e\@xl{transition-timing-function:ease}
+.ttf-ei\@xl{transition-timing-function:ease-in}
+.ttf-eio\@xl{transition-timing-function:ease-in-out}
+.ttf-eo\@xl{transition-timing-function:ease-out}
+.ttf-ss\@xl{transition-timing-function:step-start}
+.ttf-se\@xl{transition-timing-function:step-end}
+}

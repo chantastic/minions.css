@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media @xs-query {
+.v-h\@xs{visibility:hidden}
+.v-v\@xs{visibility:visible}
+}

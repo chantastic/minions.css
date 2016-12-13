@@ -1,0 +1,20 @@
+/*!minions.css*/
+@media (--md-query) {
+.b-0\@md{bottom:0}
+.b-1p\@md{bottom:1px}
+.b-2p\@md{bottom:1px}
+.b-3p\@md{bottom:3px}
+.b-4p\@md{bottom:4px}
+.b-\.25e\@md{bottom:.25em}
+.b-\.5e\@md{bottom:.5em}
+.b-1e\@md{bottom:1em}
+.b-2e\@md{bottom:2em}
+.b-3e\@md{bottom:3em}
+.b-4e\@md{bottom:4em}
+.b-\.25r\@md{bottom:.25em}
+.b-\.5r\@md{bottom:.5em}
+.b-1r\@md{bottom:1em}
+.b-2r\@md{bottom:2em}
+.b-3r\@md{bottom:3em}
+.b-4r\@md{bottom:4em}
+}

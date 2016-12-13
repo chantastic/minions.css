@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media (min-width: 567px) {
+.ta-c\@sm{text-align:center}
+.ta-j\@sm{text-align:justify}
+.ta-l\@sm{text-align:left}
+.ta-r\@sm{text-align:right}
+}

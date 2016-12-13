@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media @xs-query {
+.px-0\@xs{padding-right:0;padding-left:0}
+.px-\.25e\@xs{padding-right:.25em;padding-left:.25em}
+.px-\.5e\@xs{padding-right:.5em;padding-left:.5em}
+.px-1e\@xs{padding-right:1em;padding-left:1em}
+.px-2e\@xs{padding-right:2em;padding-left:2em}
+.px-3e\@xs{padding-right:3em;padding-left:3em}
+.px-4e\@xs{padding-right:4em;padding-left:4em}
+.px-\.25r\@xs{padding-right:.25rem;padding-left:.25rem}
+.px-\.5r\@xs{padding-right:.5rem;padding-left:.5rem}
+.px-1r\@xs{padding-right:1rem;padding-left:1rem}
+.px-2r\@xs{padding-right:2rem;padding-left:2rem}
+.px-3r\@xs{padding-right:3rem;padding-left:3rem}
+.px-4r\@xs{padding-right:4rem;padding-left:4rem}
+}

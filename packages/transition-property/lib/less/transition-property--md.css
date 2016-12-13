@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media @xs-query {
+.tp-a \@md{ transition-property: all }
+.tp-n \@md{ transition-property: none }
+.tp-o \@md{ transform-property: opacity }
+}

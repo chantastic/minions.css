@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media @xs-query {
+.atf-l\@xs{animation-timing-function:linear}
+.atf-e\@xs{animation-timing-function:ease}
+.atf-ei\@xs{animation-timing-function:ease-in}
+.atf-eio\@xs{animation-timing-function:ease-in-out}
+.atf-eo\@xs{animation-timing-function:ease-out}
+.atf-ss\@xs{animation-timing-function:step-start}
+.atf-se\@xs{animation-timing-function:step-end}
+}

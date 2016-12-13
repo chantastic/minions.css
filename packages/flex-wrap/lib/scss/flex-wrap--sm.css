@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.fw-n\@sm{flex-wrap:nowrap}
+.fw-w\@sm{flex-wrap:wrap}
+.fw-wr\@sm{flex-wrap:wrap-reverse}
+}

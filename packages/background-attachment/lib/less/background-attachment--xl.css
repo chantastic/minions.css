@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media @xs-query {
+.ba-s\@xl{background-attachment: scroll}
+.ba-f\@xl{background-attachment: fixed}
+.ba-l\@xl{background-attachment: local}
+}

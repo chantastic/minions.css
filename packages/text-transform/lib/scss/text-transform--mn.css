@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media #{$xs-query} {
+.tt-c\@mn{text-transform:capitalize}
+.tt-u\@mn{text-transform:uppercase}
+.tt-l\@mn{text-transform:lowercase}
+.tt-n\@mn{text-transform:none}
+.tt-fw\@mn{text-transform:full-width}
+.tt-i\@mn{text-transform:initial}
+}
