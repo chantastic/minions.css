@@ -1,13 +1,13 @@
 {
   "name": "minions.css",
-  "version": "0.0.4-alpha",
+  "version": "0.0.4-beta-1",
   "description": "evil micro-classes",
   "main": "",
   "style": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "node ./scripts/prepublish.js",
-    "create-mq-variants": "node ./scripts/create-mq-variants.js",
+    "create-mq-variants": "node ./scripts/create-mq-variants.js"
   },
   "author": "Michael Chan (@chantastic)",
   "repository": "https://github.com/chantastic/minions.css",
