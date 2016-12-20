@@ -1,6 +1,6 @@
 {
   "name": "minions.letter-spacing",
-  "version": "0.0.4-alpha-16",
+  "version": "0.0.4-beta-1",
   "description": "minions letter-spacing classes",
   "main": "letter-spacing.css",
   "style": "letter-spacing.css",

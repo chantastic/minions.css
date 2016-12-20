@@ -1,6 +1,6 @@
 {
   "name": "minions.float",
-  "version": "0.0.4-alpha-16",
+  "version": "0.0.4-beta-1",
   "description": "minions float classes",
   "main": "float.css",
   "style": "float.css",

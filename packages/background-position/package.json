@@ -1,6 +1,6 @@
 {
   "name": "minions.background-position",
-  "version": "0.0.4-alpha-16",
+  "version": "0.0.4-beta-1",
   "description": "minions background-position classes",
   "main": "background-position.css",
   "style": "background-position.css",
