@@ -3,7 +3,6 @@ minions right classes
 
 ## Module
 name: `minions.minions.right`  
-version: `0.0.4-alpha-15`  
 main/style: `right.css`  
 
 ## Installation

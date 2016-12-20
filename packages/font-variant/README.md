@@ -3,7 +3,6 @@ minions font-variant classes
 
 ## Module
 name: `minions.minions.font-variant`  
-version: `0.0.4-alpha-15`  
 main/style: `font-variant.css`  
 
 ## Installation

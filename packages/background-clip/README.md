@@ -3,7 +3,6 @@ minions background-clip classes
 
 ## Module
 name: `minions.minions.background-clip`  
-version: `0.0.4-alpha-15`  
 main/style: `background-clip.css`  
 
 ## Installation

@@ -3,7 +3,6 @@ minions flex-shrink classes
 
 ## Module
 name: `minions.minions.flex-shrink`  
-version: `0.0.4-alpha-15`  
 main/style: `flex-shrink.css`  
 
 ## Installation

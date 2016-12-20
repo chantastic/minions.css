@@ -3,7 +3,6 @@ minions padding-left classes
 
 ## Module
 name: `minions.minions.padding-left`  
-version: `0.0.4-alpha-15`  
 main/style: `padding-left.css`  
 
 ## Installation

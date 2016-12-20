@@ -3,7 +3,6 @@ minions margin-bottom classes
 
 ## Module
 name: `minions.minions.margin-bottom`  
-version: `0.0.4-alpha-15`  
 main/style: `margin-bottom.css`  
 
 ## Installation

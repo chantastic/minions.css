@@ -3,7 +3,6 @@ minions overflow-wrap classes
 
 ## Module
 name: `minions.minions.overflow-wrap`  
-version: `0.0.4-alpha-15`  
 main/style: `overflow-wrap.css`  
 
 ## Installation

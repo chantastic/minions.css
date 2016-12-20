@@ -3,7 +3,6 @@ minions outline-width classes
 
 ## Module
 name: `minions.minions.outline-width`  
-version: `0.0.4-alpha-15`  
 main/style: `outline-width.css`  
 
 ## Installation

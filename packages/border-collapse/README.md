@@ -3,7 +3,6 @@ minions border-collapse classes
 
 ## Module
 name: `minions.minions.border-collapse`  
-version: `0.0.4-alpha-15`  
 main/style: `border-collapse.css`  
 
 ## Installation

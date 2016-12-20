@@ -3,7 +3,6 @@ minions transition-timing-function classes
 
 ## Module
 name: `minions.minions.transition-timing-function`  
-version: `0.0.4-alpha-15`  
 main/style: `transition-timing-function.css`  
 
 ## Installation

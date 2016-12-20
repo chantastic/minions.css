@@ -3,7 +3,6 @@ minions opacity classes
 
 ## Module
 name: `minions.minions.opacity`  
-version: `0.0.4-alpha-15`  
 main/style: `opacity.css`  
 
 ## Installation

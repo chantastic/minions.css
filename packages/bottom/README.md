@@ -3,7 +3,6 @@ minions bottom classes
 
 ## Module
 name: `minions.minions.bottom`  
-version: `0.0.4-alpha-15`  
 main/style: `bottom.css`  
 
 ## Installation

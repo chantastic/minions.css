@@ -3,7 +3,6 @@ minions border-radius classes
 
 ## Module
 name: `minions.minions.border-radius`  
-version: `0.0.4-alpha-15`  
 main/style: `border-radius.css`  
 
 ## Installation

@@ -3,7 +3,6 @@ minions border-style classes
 
 ## Module
 name: `minions.minions.border-style`  
-version: `0.0.4-alpha-15`  
 main/style: `border-style.css`  
 
 ## Installation

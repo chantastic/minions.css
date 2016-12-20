@@ -3,7 +3,6 @@ minions border-left-width classes
 
 ## Module
 name: `minions.minions.border-left-width`  
-version: `0.0.4-alpha-15`  
 main/style: `border-left-width.css`  
 
 ## Installation

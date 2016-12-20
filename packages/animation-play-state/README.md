@@ -3,7 +3,6 @@ minions animation-play-state classes
 
 ## Module
 name: `minions.minions.animation-play-state`  
-version: `0.0.4-alpha-15`  
 main/style: `animation-play-state.css`  
 
 ## Installation

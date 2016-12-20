@@ -3,7 +3,6 @@ minions border-y-width classes
 
 ## Module
 name: `minions.minions.border-y-width`  
-version: `0.0.4-alpha-15`  
 main/style: `border-y-width.css`  
 
 ## Installation

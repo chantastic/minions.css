@@ -3,7 +3,6 @@ minions margin classes
 
 ## Module
 name: `minions.minions.margin`  
-version: `0.0.4-alpha-15`  
 main/style: `margin.css`  
 
 ## Installation

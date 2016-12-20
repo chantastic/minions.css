@@ -3,7 +3,6 @@ minions flex-grow classes
 
 ## Module
 name: `minions.minions.flex-grow`  
-version: `0.0.4-alpha-15`  
 main/style: `flex-grow.css`  
 
 ## Installation

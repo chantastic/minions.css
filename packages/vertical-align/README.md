@@ -3,7 +3,6 @@ minions vertical-align classes
 
 ## Module
 name: `minions.minions.vertical-align`  
-version: `0.0.4-alpha-15`  
 main/style: `vertical-align.css`  
 
 ## Installation

@@ -3,7 +3,6 @@ minions font-style classes
 
 ## Module
 name: `minions.minions.font-style`  
-version: `0.0.4-alpha-15`  
 main/style: `font-style.css`  
 
 ## Installation

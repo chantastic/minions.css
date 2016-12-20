@@ -3,7 +3,6 @@ minions border-bottom-width classes
 
 ## Module
 name: `minions.minions.border-bottom-width`  
-version: `0.0.4-alpha-15`  
 main/style: `border-bottom-width.css`  
 
 ## Installation

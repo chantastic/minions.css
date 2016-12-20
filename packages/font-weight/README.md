@@ -3,7 +3,6 @@ minions font-weight classes
 
 ## Module
 name: `minions.minions.font-weight`  
-version: `0.0.4-alpha-15`  
 main/style: `font-weight.css`  
 
 ## Installation

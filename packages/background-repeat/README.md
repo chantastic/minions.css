@@ -3,7 +3,6 @@ minions background-repeat classes
 
 ## Module
 name: `minions.minions.background-repeat`  
-version: `0.0.4-alpha-15`  
 main/style: `background-repeat.css`  
 
 ## Installation

@@ -3,7 +3,6 @@ minions text-align classes
 
 ## Module
 name: `minions.minions.text-align`  
-version: `0.0.4-alpha-15`  
 main/style: `text-align.css`  
 
 ## Installation

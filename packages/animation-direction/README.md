@@ -3,7 +3,6 @@ minions animation-direction classes
 
 ## Module
 name: `minions.minions.animation-direction`  
-version: `0.0.4-alpha-15`  
 main/style: `animation-direction.css`  
 
 ## Installation

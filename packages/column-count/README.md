@@ -3,7 +3,6 @@ minions column-count classes
 
 ## Module
 name: `minions.minions.column-count`  
-version: `0.0.4-alpha-15`  
 main/style: `column-count.css`  
 
 ## Installation

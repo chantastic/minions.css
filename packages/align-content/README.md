@@ -3,7 +3,6 @@ minions align-content classes
 
 ## Module
 name: `minions.minions.align-content`  
-version: `0.0.4-alpha-15`  
 main/style: `align-content.css`  
 
 ## Installation

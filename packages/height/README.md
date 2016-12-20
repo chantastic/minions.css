@@ -3,7 +3,6 @@ minions height classes
 
 ## Module
 name: `minions.minions.height`  
-version: `0.0.4-alpha-15`  
 main/style: `height.css`  
 
 ## Installation

@@ -3,7 +3,6 @@ minions text-indent classes
 
 ## Module
 name: `minions.minions.text-indent`  
-version: `0.0.4-alpha-15`  
 main/style: `text-indent.css`  
 
 ## Installation

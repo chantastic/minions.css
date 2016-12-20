@@ -3,7 +3,6 @@ minions will-change classes
 
 ## Module
 name: `minions.minions.will-change`  
-version: `0.0.4-alpha-15`  
 main/style: `will-change.css`  
 
 ## Installation

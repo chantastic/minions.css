@@ -3,7 +3,6 @@ minions flex classes
 
 ## Module
 name: `minions.minions.flex`  
-version: `0.0.4-alpha-15`  
 main/style: `flex.css`  
 
 ## Installation

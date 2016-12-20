@@ -3,7 +3,6 @@
 
 ## Module
 name: `minions.<%= mod.name %>`  
-version: `<%= mod.version %>`  
 main/style: `<%= mod.style %>`  
 
 ## Installation

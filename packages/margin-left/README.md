@@ -3,7 +3,6 @@ minions margin-left classes
 
 ## Module
 name: `minions.minions.margin-left`  
-version: `0.0.4-alpha-15`  
 main/style: `margin-left.css`  
 
 ## Installation

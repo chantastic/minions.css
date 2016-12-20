@@ -3,7 +3,6 @@ minions padding-bottom classes
 
 ## Module
 name: `minions.minions.padding-bottom`  
-version: `0.0.4-alpha-15`  
 main/style: `padding-bottom.css`  
 
 ## Installation

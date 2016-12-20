@@ -3,7 +3,6 @@ minions text-transform classes
 
 ## Module
 name: `minions.minions.text-transform`  
-version: `0.0.4-alpha-15`  
 main/style: `text-transform.css`  
 
 ## Installation

@@ -3,7 +3,6 @@ minions overflow-x classes
 
 ## Module
 name: `minions.minions.overflow-x`  
-version: `0.0.4-alpha-15`  
 main/style: `overflow-x.css`  
 
 ## Installation

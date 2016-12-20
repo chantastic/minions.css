@@ -3,7 +3,6 @@ minions margin-top classes
 
 ## Module
 name: `minions.minions.margin-top`  
-version: `0.0.4-alpha-15`  
 main/style: `margin-top.css`  
 
 ## Installation

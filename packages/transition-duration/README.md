@@ -3,7 +3,6 @@ minions transition-duration classes
 
 ## Module
 name: `minions.minions.transition-duration`  
-version: `0.0.4-alpha-15`  
 main/style: `transition-duration.css`  
 
 ## Installation

@@ -3,7 +3,6 @@ minions background-attachment classes
 
 ## Module
 name: `minions.minions.background-attachment`  
-version: `0.0.4-alpha-15`  
 main/style: `background-attachment.css`  
 
 ## Installation

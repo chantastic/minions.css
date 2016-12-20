@@ -3,7 +3,6 @@ minions resize classes
 
 ## Module
 name: `minions.minions.resize`  
-version: `0.0.4-alpha-15`  
 main/style: `resize.css`  
 
 ## Installation

@@ -3,7 +3,6 @@ minions cursor classes
 
 ## Module
 name: `minions.minions.cursor`  
-version: `0.0.4-alpha-15`  
 main/style: `cursor.css`  
 
 ## Installation

@@ -3,7 +3,6 @@ minions justify-content classes
 
 ## Module
 name: `minions.minions.justify-content`  
-version: `0.0.4-alpha-15`  
 main/style: `justify-content.css`  
 
 ## Installation

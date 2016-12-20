@@ -3,7 +3,6 @@ minions text-decoration classes
 
 ## Module
 name: `minions.minions.text-decoration`  
-version: `0.0.4-alpha-15`  
 main/style: `text-decoration.css`  
 
 ## Installation

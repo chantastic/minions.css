@@ -3,7 +3,6 @@ minions transition-delay classes
 
 ## Module
 name: `minions.minions.transition-delay`  
-version: `0.0.4-alpha-15`  
 main/style: `transition-delay.css`  
 
 ## Installation

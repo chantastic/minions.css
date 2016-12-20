@@ -3,7 +3,6 @@ minions background-size classes
 
 ## Module
 name: `minions.minions.background-size`  
-version: `0.0.4-alpha-15`  
 main/style: `background-size.css`  
 
 ## Installation

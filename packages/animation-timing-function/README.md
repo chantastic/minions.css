@@ -3,7 +3,6 @@ minions animation-timing-function classes
 
 ## Module
 name: `minions.minions.animation-timing-function`  
-version: `0.0.4-alpha-15`  
 main/style: `animation-timing-function.css`  
 
 ## Installation

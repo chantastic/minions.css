@@ -3,7 +3,6 @@ minions outline-style classes
 
 ## Module
 name: `minions.minions.outline-style`  
-version: `0.0.4-alpha-15`  
 main/style: `outline-style.css`  
 
 ## Installation

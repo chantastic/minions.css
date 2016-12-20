@@ -3,7 +3,6 @@ minions top classes
 
 ## Module
 name: `minions.minions.top`  
-version: `0.0.4-alpha-15`  
 main/style: `top.css`  
 
 ## Installation

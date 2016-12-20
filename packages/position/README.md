@@ -3,7 +3,6 @@ minions position classes
 
 ## Module
 name: `minions.minions.position`  
-version: `0.0.4-alpha-15`  
 main/style: `position.css`  
 
 ## Installation

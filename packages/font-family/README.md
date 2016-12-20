@@ -3,7 +3,6 @@ minions font-family classes
 
 ## Module
 name: `minions.minions.font-family`  
-version: `0.0.4-alpha-15`  
 main/style: `font-family.css`  
 
 ## Installation

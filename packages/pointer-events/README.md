@@ -3,7 +3,6 @@ minions pointer-events classes
 
 ## Module
 name: `minions.minions.pointer-events`  
-version: `0.0.4-alpha-15`  
 main/style: `pointer-events.css`  
 
 ## Installation

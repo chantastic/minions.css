@@ -3,7 +3,6 @@ minions word-spacing classes
 
 ## Module
 name: `minions.minions.word-spacing`  
-version: `0.0.4-alpha-15`  
 main/style: `word-spacing.css`  
 
 ## Installation
