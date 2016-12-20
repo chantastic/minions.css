@@ -1,6 +1,6 @@
 {
   "name": "minions.list-style-type",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-2",
   "description": "minions list-style-type classes",
   "main": "list-style-type.css",
   "style": "list-style-type.css",

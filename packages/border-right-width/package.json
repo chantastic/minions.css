@@ -1,6 +1,6 @@
 {
   "name": "minions.border-right-width",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-2",
   "description": "minions border-right-width classes",
   "main": "border-right-width.css",
   "style": "border-right-width.css",

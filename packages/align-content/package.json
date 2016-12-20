@@ -1,6 +1,6 @@
 {
   "name": "minions.align-content",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-2",
   "description": "minions align-content classes",
   "main": "align-content.css",
   "style": "align-content.css",

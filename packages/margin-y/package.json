@@ -1,6 +1,6 @@
 {
   "name": "minions.margin-y",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-2",
   "description": "minions margin-y classes",
   "main": "margin-y.css",
   "style": "margin-y.css",

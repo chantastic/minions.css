@@ -1,6 +1,6 @@
 {
   "name": "minions.font-variant",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-2",
   "description": "minions font-variant classes",
   "main": "font-variant.css",
   "style": "font-variant.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.outline-style",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-2",
   "description": "minions outline-style classes",
   "main": "outline-style.css",
   "style": "outline-style.css",

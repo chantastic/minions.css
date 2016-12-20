@@ -1,6 +1,6 @@
 {
   "name": "minions.line-height",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-2",
   "description": "minions line-height classes",
   "main": "line-height.css",
   "style": "line-height.css",

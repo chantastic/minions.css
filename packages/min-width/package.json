@@ -1,6 +1,6 @@
 {
   "name": "minions.min-width",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-2",
   "description": "minions min-width classes",
   "main": "min-width.css",
   "style": "min-width.css",

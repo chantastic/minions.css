@@ -1,6 +1,6 @@
 {
   "name": "minions.background-clip",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-2",
   "description": "minions background-clip classes",
   "main": "background-clip.css",
   "style": "background-clip.css",
