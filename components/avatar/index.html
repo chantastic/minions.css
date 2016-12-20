@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+      .br-circle { border-radius: 9999px }
+    </style>
+  </head>
+  <body>
+    <link rel="stylesheet" href="https://unpkg.com/box-sizing.css@1.0.1" />
+
+    <div id="root"></div>
+
+    <script type="text/babel">
+      class Example extends React.Component {
+        constructor() {
+          super()
+          this.state = {
+            borderWidth: 1,
+            borderRadius: 4,
+            circle: false,
+            padding: 0,
+            size: 4,
+            incrementalPoint: false,
+          }
+        }
+
+        render() {
+          const classes = () => classNames(
+            this.state.circle && "br-circle",
+            !this.state.circle && `br-${this.state.borderRadius}${this.state.borderRadius ? "p": ""}`,
+            this.state.padding && `p-${this.state.padding}`,
+            `bw-${this.state.borderWidth}${this.state.borderWidth ? "p" : ""}`,
+            `s-${this.state.size}`,
+            "d-ib"
+          )
+
+
+          // don't ues this as a component
+          // grabs values right off state
+          const Subject = () =>
+            <img
+              className={classes()}
+              alt="avatar"
+              src="https://pbs.twimg.com/profile_images/736987740399644672/Uqc2yrq3.jpg"
+            />
+
+          return (
+            <div>
+              <link rel="stylesheet" href="https://unpkg.com/minions.display@0.0.4-beta-2" />
+              <link rel="stylesheet" href="https://unpkg.com/minions.border-width@0.0.4-beta-2" />
+              <link rel="stylesheet" href="https://unpkg.com/minions.border-radius@0.0.4-beta-2" />
+
+              {this.state.incrementalPoint ? (
+                <link rel="stylesheet" href="https://unpkg.com/incremental-point.css@1.0.0-beta-1/point.css" />
+              ): (
+                <link rel="stylesheet" href="https://unpkg.com/point.css@1.0.0-beta-1/8-point.css" />
+              )}
+
+              <div style={{minHeight: "6rem"}}>
+                <Subject />
+              </div>
+
+              <h4>Configure</h4>
+
+              <div>
+                <label className="d-b">
+                  Border width:{' '}
+                  <input
+                    type="number"
+                    value={this.state.borderWidth}
+                    onChange={({target: { value }}) =>
+                      value >= 0 && value <= 4 && this.setState({borderWidth: parseInt(value, 10)})
+                    }
+                  />
+                </label>
+
+                <label className="d-b">
+                  Circle:{' '}
+                  <input
+                    type="checkbox"
+                    checked={this.state.circle}
+                    onClick={() => this.setState({circle: !this.state.circle})}
+                  />
+                </label>
+
+                <label className="d-b">
+                  Padding:{' '}
+                  <input
+                    type="number"
+                    value={this.state.padding}
+                    onChange={({target: { value }}) =>
+                      value >= 0 && value <= 4 && this.setState({padding: parseInt(value, 10)})
+                    }
+                  />
+                </label>
+
+                <label className="d-b">
+                  Border radius:{' '}
+                  <input
+                    type="number"
+                    value={this.state.borderRadius}
+                    onChange={({target: { value }}) =>
+                      value >= 0 && value <= 4 && this.setState({borderRadius: parseInt(value, 10)})
+                    }
+                  />
+                </label>
+
+                <label className="d-b">
+                  Size:{' '}
+                  <input
+                    type="number"
+                    value={this.state.size}
+                    onChange={({target: { value }}) =>
+                      value >= 0
+                        && this.state.incrementalPoint
+                          ? value <= 8 && this.setState({size: parseInt(value, 10)})
+                          : value <= 4 && this.setState({size: parseInt(value, 10)})
+                    }
+                  />
+                </label>
+
+                <label className="d-b">
+                  Incremental Point Grid:{' '}
+                  <input
+                    type="checkbox"
+                    checked={this.state.incrementalPoint}
+                    onClick={() => this.state.incrementalPoint > 4
+                      ? this.setState({size: this.state.size / 2, incrementalPoint: !this.state.incrementalPoint})
+                      : this.setState({incrementalPoint: !this.state.incrementalPoint})
+                    }
+                  />
+                </label>
+              </div>
+
+              <h4>Code</h4>
+              <pre>
+                <code>
+                  {ReactDOMServer.renderToStaticMarkup(<Subject />)}
+                </code>
+              </pre>
+
+              <h4>Libraries</h4>
+              <dl>
+                {this.state.incrementalPoint ? ([
+                  <dt key="1">incremental-point.css</dt>,
+                  <dd key="2">https://unpkg.com/incremental-point.css@1.0.0-beta-1/point.css</dd>
+                ]) : ([
+                  <dt key="1">point.css</dt>,
+                  <dd key="2">https://unpkg.com/point.css@1.0.0-beta-1/8-point.css</dd>,
+                ])}
+
+                <dt>minions.display</dt>
+                <dd>https://unpkg.com/minions.display@0.0.4-beta-2</dd>
+
+                <dt>minions.border-width</dt>
+                <dd>https://unpkg.com/minions.border-width@0.0.4-beta-2</dd>
+
+                <dt>minions.border-radius</dt>
+                <dd>https://unpkg.com/minions.border-radius@0.0.4-beta-2</dd>
+              </dl>
+            </div>
+          )
+        }
+      }
+
+      ReactDOM.render(<Example />, document.getElementById("root"))
+    </script>
+
+    <script src="https://unpkg.com/react-towel@2/umd/react-towel.js" charset="utf-8"></script>
+    <script src="https://unpkg.com/react-dom@15.3.0/dist/react-dom-server.min.js"></script>
+    <script src="https://unpkg.com/classnames@2.2.5/index.js"></script>
+  </body>
+</html>
