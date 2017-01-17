@@ -1,6 +1,6 @@
 {
   "name": "minions.border-radius",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions border-radius classes",
   "main": "border-radius.css",
   "style": "border-radius.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.background-attachment",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions background-attachment classes",
   "main": "background-attachment.css",
   "style": "background-attachment.css",

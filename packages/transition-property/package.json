@@ -1,6 +1,6 @@
 {
   "name": "minions.transition-property",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions transition-property classes",
   "main": "transition-property.css",
   "style": "transition-property.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.border-y-width",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions border-y-width classes",
   "main": "border-y-width.css",
   "style": "border-y-width.css",

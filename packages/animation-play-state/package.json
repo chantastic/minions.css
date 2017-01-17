@@ -1,6 +1,6 @@
 {
   "name": "minions.animation-play-state",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions animation-play-state classes",
   "main": "animation-play-state.css",
   "style": "animation-play-state.css",

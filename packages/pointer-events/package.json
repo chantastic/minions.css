@@ -1,6 +1,6 @@
 {
   "name": "minions.pointer-events",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions pointer-events classes",
   "main": "pointer-events.css",
   "style": "pointer-events.css",

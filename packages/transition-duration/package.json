@@ -1,6 +1,6 @@
 {
   "name": "minions.transition-duration",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions transition-duration classes",
   "main": "transition-duration.css",
   "style": "transition-duration.css",

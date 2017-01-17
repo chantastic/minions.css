@@ -1,6 +1,6 @@
 {
   "name": "minions.font-family",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions font-family classes",
   "main": "font-family.css",
   "style": "font-family.css",

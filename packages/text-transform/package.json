@@ -1,6 +1,6 @@
 {
   "name": "minions.text-transform",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions text-transform classes",
   "main": "text-transform.css",
   "style": "text-transform.css",

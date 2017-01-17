@@ -1,6 +1,6 @@
 {
   "name": "minions.word-break",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions word-break classes",
   "main": "word-break.css",
   "style": "word-break.css",

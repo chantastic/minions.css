@@ -1,6 +1,6 @@
 {
   "name": "minions.flex",
-  "version": "0.0.4-beta-1",
+  "version": "0.0.4-beta-3",
   "description": "minions flex classes",
   "main": "flex.css",
   "style": "flex.css",
