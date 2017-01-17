@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media print {
+.as-b\@print{align-self:baseline}
+.as-c\@print{align-self:center}
+.as-fe\@print{align-self:flex-end}
+.as-fs\@print{align-self:flex-start}
+.as-s\@print{align-self:stretch}
+}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xs-query) {
+@media screen and (--xs-query) {
 .mbm-c\@xs{mix-blend-mode:color}
 .mbm-cd\@xs{mix-blend-mode:color-dodge}
 .mbm-cb\@xs{mix-blend-mode:color-burn}

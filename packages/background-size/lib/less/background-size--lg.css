@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .bs-cover\@lg{background-size:cover}
 .bs-contain\@lg{background-size:contain}
 .bs-a\@lg{background-size:auto}

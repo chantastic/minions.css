@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--sm-query) {
+@media screen and (--sm-query) {
 .p-s\@sm{position:static}
 .p-r\@sm{position:relative}
 .p-a\@sm{position:absolute}

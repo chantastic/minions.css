@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--lg-query) {
+@media screen and (--lg-query) {
 .fs-1\@lg{flex-shrink:1}
 .fs-2\@lg{flex-shrink:2}
 .fs-3\@lg{flex-shrink:3}

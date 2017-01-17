@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 992px) {
+@media screen and (min-width: 992px) {
 .bp-t\@lg{background-position:top}
 .bp-b\@lg{background-position:bottom}
 .bp-l\@lg{background-position:left}

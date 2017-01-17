@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--mn-query) {
+@media screen and (--mn-query) {
 .td-u\@mn{text-decoration:underline}
 .td-o\@mn{text-decoration:overline}
 .td-n\@mn{text-decoration:none}

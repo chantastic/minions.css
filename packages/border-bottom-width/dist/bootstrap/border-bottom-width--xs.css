@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .bbw-0,.bbw-1p,.bbw-2p,.bbw-3p,.bbw-4p\@xs{border-style:solid}
 .bbw-0\@xs{border-bottom-width:0}
 .bbw-1p\@xs{border-bottom-width:1px}

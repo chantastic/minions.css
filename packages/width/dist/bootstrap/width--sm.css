@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 567px) {
+@media screen and (min-width: 567px) {
 .w-a\@sm{width:auto}
 .w-mc\@sm{width:max-content}
 .w-nc\@sm{width:min-content}

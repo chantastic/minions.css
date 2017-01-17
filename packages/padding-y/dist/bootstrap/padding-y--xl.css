@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .py-0\@xl{padding-top:0;padding-bottom:0}
 .py-\.25e\@xl{padding-top:.25em;padding-bottom:.25em}
 .py-\.5e\@xl{padding-top:.5em;padding-bottom:.5em}

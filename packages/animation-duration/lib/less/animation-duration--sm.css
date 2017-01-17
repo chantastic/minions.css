@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .ad-1s\@sm{animation-duration:1s}
 .ad-\.9s\@sm{animation-duration:.9s}
 .ad-\.8s\@sm{animation-duration:.8s}

@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media print {
+.lsp-i\@print{list-style-position:inside}
+.lsp-o\@print{list-style-position:outside}
+}

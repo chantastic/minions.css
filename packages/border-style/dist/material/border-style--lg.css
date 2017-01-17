@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 960px) {
+@media screen and (min-width: 960px) {
 .bs-a\@lg{border-style:auto}
 .bs-d\@lg{border-style:dotted}
 .bs-n\@lg{border-style:none}

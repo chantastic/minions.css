@@ -1,0 +1,4 @@
+/*!minions.css*/
+@media screen and @print-query {
+.fb-0\@print{flex-basis:0}
+}

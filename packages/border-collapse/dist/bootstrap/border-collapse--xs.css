@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .bc-c\@xs{border-collapse:collapse}
 .bc-s\@xs{border-collapse:separate}
 }

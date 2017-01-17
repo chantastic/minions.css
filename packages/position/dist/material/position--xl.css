@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .p-s\@xl{position:static}
 .p-r\@xl{position:relative}
 .p-a\@xl{position:absolute}

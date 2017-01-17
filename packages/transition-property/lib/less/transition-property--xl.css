@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .tp-a \@xl{ transition-property: all }
 .tp-n \@xl{ transition-property: none }
 .tp-o \@xl{ transform-property: opacity }

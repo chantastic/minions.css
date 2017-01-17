@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .c-n\@md{clear:none}
 .c-l\@md{clear:left}
 .c-r\@md{clear:right}

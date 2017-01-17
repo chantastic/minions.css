@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xs-query) {
+@media screen and (--xs-query) {
 .ox-a\@xs{overflow-x:auto}
 .ox-h\@xs{overflow-x:hidden}
 .ox-s\@xs{overflow-x:scroll}

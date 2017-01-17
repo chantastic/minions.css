@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .v-h\@xl{visibility:hidden}
 .v-v\@xl{visibility:visible}
 }

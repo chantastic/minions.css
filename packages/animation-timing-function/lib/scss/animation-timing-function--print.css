@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media screen and #{$print-query} {
+.atf-l\@print{animation-timing-function:linear}
+.atf-e\@print{animation-timing-function:ease}
+.atf-ei\@print{animation-timing-function:ease-in}
+.atf-eio\@print{animation-timing-function:ease-in-out}
+.atf-eo\@print{animation-timing-function:ease-out}
+.atf-ss\@print{animation-timing-function:step-start}
+.atf-se\@print{animation-timing-function:step-end}
+}

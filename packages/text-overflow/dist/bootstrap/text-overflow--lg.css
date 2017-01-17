@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 992px) {
+@media screen and (min-width: 992px) {
 .to-c\@lg{text-overflow:clip}
 .to-e\@lg{text-overflow:ellipsis}
 }

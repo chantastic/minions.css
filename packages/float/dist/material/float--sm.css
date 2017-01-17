@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 600px) {
+@media screen and (min-width: 600px) {
 .f-l\@sm{float:left}
 .f-n\@sm{float:none}
 .f-r\@sm{float:right}

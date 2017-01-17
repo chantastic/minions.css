@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .pl-0\@xl{padding-left:0}
 .pl-\.25e\@xl{padding-left:.25em}
 .pl-\.5e\@xl{padding-left:.5em}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .atf-l\@mn{animation-timing-function:linear}
 .atf-e\@mn{animation-timing-function:ease}
 .atf-ei\@mn{animation-timing-function:ease-in}

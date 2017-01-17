@@ -15,30 +15,33 @@ const writeLibVariants = (packageName, file, rootPath) => {
   const libs = {
     // @custom-media --xs-query (min-width: 320px);
     cssnext: {
-      "mn": "(--mn-query)",
-      "xs": "(--xs-query)",
-      "sm": "(--sm-query)",
-      "md": "(--md-query)",
-      "lg": "(--lg-query)",
-      "xl": "(--xl-query)",
+      "mn": "screen and (--mn-query)",
+      "xs": "screen and (--xs-query)",
+      "sm": "screen and (--sm-query)",
+      "md": "screen and (--md-query)",
+      "lg": "screen and (--lg-query)",
+      "xl": "screen and (--xl-query)",
+      "print": "screen and (--print-query)",
     },
     // @xs-query: ~"(min-width:320px)";
     less: {
-      "mn": "@xs-query",
-      "xs": "@xs-query",
-      "sm": "@xs-query",
-      "md": "@xs-query",
-      "lg": "@xs-query",
-      "xl": "@xs-query",
+      "mn": "screen and @xs-query",
+      "xs": "screen and @xs-query",
+      "sm": "screen and @xs-query",
+      "md": "screen and @xs-query",
+      "lg": "screen and @xs-query",
+      "xl": "screen and @xs-query",
+      "print": "screen and @print-query",
     },
     // $xs-query: "(min-width: 320px)";
     scss: {
-      "mn": "#{$xs-query}",
-      "xs": "#{$xs-query}",
-      "sm": "#{$xs-query}",
-      "md": "#{$xs-query}",
-      "lg": "#{$xs-query}",
-      "xl": "#{$xs-query}",
+      "mn": "screen and #{$xs-query}",
+      "xs": "screen and #{$xs-query}",
+      "sm": "screen and #{$xs-query}",
+      "md": "screen and #{$xs-query}",
+      "lg": "screen and #{$xs-query}",
+      "xl": "screen and #{$xs-query}",
+      "print": "screen and #{$print-query}",
     },
   }
 
@@ -62,19 +65,21 @@ const writeLibVariants = (packageName, file, rootPath) => {
 const writeDistVariants = (packageName, file, rootPath) => {
   const distributions = {
     bootstrap: {
-      "xs": "0px",
-      "sm": "567px",
-      "md": "768px",
-      "lg": "992px",
-      "xl": "1200px",
+      "xs": "screen and (min-width: 0px)",
+      "sm": "screen and (min-width: 567px)",
+      "md": "screen and (min-width: 768px)",
+      "lg": "screen and (min-width: 992px)",
+      "xl": "screen and (min-width: 1200px)",
+      "print": "print",
     },
     material: {
-      "mn": "0px",
-      "xs": "480px",
-      "sm": "600px",
-      "md": "720px",
-      "lg": "960px",
-      "xl": "1200px",
+      "mn": "screen and (min-width: 0px)",
+      "xs": "screen and (min-width: 480px)",
+      "sm": "screen and (min-width: 600px)",
+      "md": "screen and (min-width: 720px)",
+      "lg": "screen and (min-width: 960px)",
+      "xl": "screen and (min-width: 1200px)",
+      "print": "print",
     },
   }
 
@@ -83,7 +88,7 @@ const writeDistVariants = (packageName, file, rootPath) => {
       Object.keys(distributions[dist]).map(variant =>
         fs.writeFile(
           `${rootPath}/${packageName}/dist/${dist}/${packageName}--${variant}.css`,
-          insertMediaQuery(insertSuffixes(file, variant), `(min-width: ${distributions[dist][variant]})`),
+          insertMediaQuery(insertSuffixes(file, variant), distributions[dist][variant]),
           "utf8",
           err => {
             if (err) throw err

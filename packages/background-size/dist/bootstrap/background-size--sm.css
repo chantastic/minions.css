@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 567px) {
+@media screen and (min-width: 567px) {
 .bs-cover\@sm{background-size:cover}
 .bs-contain\@sm{background-size:contain}
 .bs-a\@sm{background-size:auto}

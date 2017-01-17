@@ -1,4 +1,4 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .fb-0\@xl{flex-basis:0}
 }

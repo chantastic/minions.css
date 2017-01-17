@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media screen and (--print-query) {
+.bbw-0,.bbw-1p,.bbw-2p,.bbw-3p,.bbw-4p\@print{border-style:solid}
+.bbw-0\@print{border-bottom-width:0}
+.bbw-1p\@print{border-bottom-width:1px}
+.bbw-2p\@print{border-bottom-width:2px}
+.bbw-3p\@print{border-bottom-width:3px}
+.bbw-4p\@print{border-bottom-width:4px}
+}

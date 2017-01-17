@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .tt-c\@mn{text-transform:capitalize}
 .tt-u\@mn{text-transform:uppercase}
 .tt-l\@mn{text-transform:lowercase}

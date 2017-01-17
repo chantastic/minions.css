@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media print {
+.fs-n\@print{font-style:normal}
+.fs-i\@print{font-style:italic}
+.fs-o\@print{font-style:oblique}
+}

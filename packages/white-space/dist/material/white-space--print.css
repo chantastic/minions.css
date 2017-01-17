@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media print {
+.ws-n\@print{white-space: nowrap}
+.ws-p\@print{white-space: pre}
+.ws-pw\@print{white-space: pre-wrap}
+.ws-pl\@print{white-space: pre-line}
+}

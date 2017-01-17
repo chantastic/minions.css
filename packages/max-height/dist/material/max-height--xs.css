@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 480px) {
+@media screen and (min-width: 480px) {
 .xh-a\@xs{max-height:auto}
 .xh-xc\@xs{max-height:max-content}
 .xh-nc\@xs{max-height:min-content}

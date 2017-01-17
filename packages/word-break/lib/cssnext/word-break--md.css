@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--md-query) {
+@media screen and (--md-query) {
 .wb-n\@md{word-break:normal} 
 .wb-ba\@md{word-break:break-all}
 .wb-ka\@md{word-break:keep-all}

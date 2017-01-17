@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--lg-query) {
+@media screen and (--lg-query) {
 .o-1\@lg{opacity:1}
 .o-\.9\@lg{opacity:.9}
 .o-\.8\@lg{opacity:.8}

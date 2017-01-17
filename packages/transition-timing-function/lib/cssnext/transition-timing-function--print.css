@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media screen and (--print-query) {
+.ttf-l\@print{transition-timing-function:linear}
+.ttf-e\@print{transition-timing-function:ease}
+.ttf-ei\@print{transition-timing-function:ease-in}
+.ttf-eio\@print{transition-timing-function:ease-in-out}
+.ttf-eo\@print{transition-timing-function:ease-out}
+.ttf-ss\@print{transition-timing-function:step-start}
+.ttf-se\@print{transition-timing-function:step-end}
+}

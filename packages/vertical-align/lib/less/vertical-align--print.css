@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media screen and @print-query {
+.va-l\@print{vertical-align:baseline}
+.va-tt\@print{vertical-align:text-top}
+.va-tb\@print{vertical-align:text-bottom}
+.va-m\@print{vertical-align:middle}
+.va-t\@print{vertical-align:top}
+.va-b\@print{vertical-align:bottom}
+}

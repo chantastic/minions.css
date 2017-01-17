@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 720px) {
+@media screen and (min-width: 720px) {
 .td-u\@md{text-decoration:underline}
 .td-o\@md{text-decoration:overline}
 .td-n\@md{text-decoration:none}

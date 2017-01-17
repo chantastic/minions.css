@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .jc-c\@lg{justify-content:center}
 .jc-fe\@lg{justify-content:flex-end}
 .jc-fs\@lg{justify-content:flex-start}

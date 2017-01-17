@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
 .ay-1s\@md{animation-delay:1s}
 .ay-\.9s\@md{animation-delay:.9s}
 .ay-\.8s\@md{animation-delay:.8s}

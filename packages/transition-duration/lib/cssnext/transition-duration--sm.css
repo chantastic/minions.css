@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--sm-query) {
+@media screen and (--sm-query) {
 .td-1s\@sm{transition-duration:1s}
 .td-\.9s\@sm{transition-duration:.9s}
 .td-\.8s\@sm{transition-duration:.8s}

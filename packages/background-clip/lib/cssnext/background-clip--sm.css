@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--sm-query) {
+@media screen and (--sm-query) {
 .bc-bb\@sm{background-clip:border-box}
 .bc-pb\@sm{background-clip:padding-box}
 .bc-cb\@sm{background-clip:content-box}

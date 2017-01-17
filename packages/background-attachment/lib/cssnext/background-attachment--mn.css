@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--mn-query) {
+@media screen and (--mn-query) {
 .ba-s\@mn{background-attachment: scroll}
 .ba-f\@mn{background-attachment: fixed}
 .ba-l\@mn{background-attachment: local}

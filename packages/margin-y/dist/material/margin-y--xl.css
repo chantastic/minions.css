@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .my-0\@xl{margin-top:0;margin-bottom:0}
 .my-\.25e\@xl{margin-top:.25em;margin-bottom:.25em}
 .my-\.5e\@xl{margin-top:.5em;margin-bottom:.5em}

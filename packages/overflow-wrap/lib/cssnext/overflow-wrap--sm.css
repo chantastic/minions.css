@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--sm-query) {
+@media screen and (--sm-query) {
 .ow-n\@sm{overflow-wrap:normal}
 .ow-bw\@sm{overflow-wrap:break-word}
 }

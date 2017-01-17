@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--mn-query) {
+@media screen and (--mn-query) {
 .c-n\@mn{clear:none}
 .c-l\@mn{clear:left}
 .c-r\@mn{clear:right}

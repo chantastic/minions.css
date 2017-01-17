@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--lg-query) {
+@media screen and (--lg-query) {
 .ay-1s\@lg{animation-delay:1s}
 .ay-\.9s\@lg{animation-delay:.9s}
 .ay-\.8s\@lg{animation-delay:.8s}

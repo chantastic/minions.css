@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .td-1s\@md{transition-duration:1s}
 .td-\.9s\@md{transition-duration:.9s}
 .td-\.8s\@md{transition-duration:.8s}

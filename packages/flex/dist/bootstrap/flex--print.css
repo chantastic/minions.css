@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media print {
+.f-1\@print{flex:1}
+.f-2\@print{flex:2}
+.f-3\@print{flex:3}
+.f-4\@print{flex:4}
+.f-5\@print{flex:5}
+.f-6\@print{flex:6}
+}

@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media print {
+.v-h\@print{visibility:hidden}
+.v-v\@print{visibility:visible}
+}

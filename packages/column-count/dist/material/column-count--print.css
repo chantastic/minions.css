@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media print {
+.cc-a\@print{column-count:auto}
+.cc-1\@print{column-count:1}
+.cc-2\@print{column-count:2}
+.cc-3\@print{column-count:3}
+}

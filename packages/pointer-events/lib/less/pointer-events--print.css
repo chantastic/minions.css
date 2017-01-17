@@ -1,0 +1,12 @@
+/*!minions.css*/
+@media screen and @print-query {
+.pe-n\@print{pointer-events:none}
+.pe-vP\@print{pointer-events:visiblePainted}
+.pe-vF\@print{pointer-events:visibleFill}
+.pe-vS\@print{pointer-events:visibleStroke}
+.pe-v\@print{pointer-events:visible}
+.pe-p\@print{pointer-events:painted}
+.pe-f\@print{pointer-events:fill}
+.pe-s\@print{pointer-events:stroke}
+.pe-a\@print{pointer-events:all}
+}

@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media screen and @print-query {
+.bp-t\@print{background-position:top}
+.bp-b\@print{background-position:bottom}
+.bp-l\@print{background-position:left}
+.bp-r\@print{background-position:right}
+.bp-c\@print{background-position:center}
+}

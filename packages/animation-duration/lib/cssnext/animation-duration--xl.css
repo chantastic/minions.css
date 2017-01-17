@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .ad-1s\@xl{animation-duration:1s}
 .ad-\.9s\@xl{animation-duration:.9s}
 .ad-\.8s\@xl{animation-duration:.8s}

@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media screen and #{$print-query} {
+.ba-s\@print{background-attachment: scroll}
+.ba-f\@print{background-attachment: fixed}
+.ba-l\@print{background-attachment: local}
+}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .f-1\@mn{flex:1}
 .f-2\@mn{flex:2}
 .f-3\@mn{flex:3}

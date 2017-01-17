@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media print {
+.br-rx\@print{background-repeat:repeat-x}
+.br-ry\@print{background-repeat:repeat-y}
+.br-r\@print{background-repeat:repeat}
+.br-s\@print{background-repeat:space}
+.br-nr\@print{background-repeat:no-repeat}
+}

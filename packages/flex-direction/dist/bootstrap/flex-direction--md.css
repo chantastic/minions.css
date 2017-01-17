@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
 .fd-c\@md{flex-direction:column}
 .fd-r\@md{flex-direction:row}
 }

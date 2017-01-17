@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .t-0\@sm{top:0}
 .t-1p\@sm{top:1px}
 .t-2p\@sm{top:1px}

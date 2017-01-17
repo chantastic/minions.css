@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .ac-c\@lg{align-items:center}
 .ac-fe\@lg{align-items:flex-end}
 .ac-fs\@lg{align-items:flex-start}

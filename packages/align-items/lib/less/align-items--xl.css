@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .ai-b\@xl{align-items:baseline}
 .ai-c\@xl{align-items:center}
 .ai-fe\@xl{align-items:flex-end}

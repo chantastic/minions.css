@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
 .as-b\@md{align-self:baseline}
 .as-c\@md{align-self:center}
 .as-fe\@md{align-self:flex-end}

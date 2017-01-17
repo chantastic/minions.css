@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media screen and (--print-query) {
+.ta-c\@print{text-align:center}
+.ta-j\@print{text-align:justify}
+.ta-l\@print{text-align:left}
+.ta-r\@print{text-align:right}
+}

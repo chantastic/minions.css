@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media print {
+.bs-cb\@print{box-sizing:content-box}
+.bs-bb\@print{box-sizing:border-box}
+}

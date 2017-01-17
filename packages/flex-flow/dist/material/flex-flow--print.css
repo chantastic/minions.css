@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media print {
+.ff-r\@print{flex-flow:row}
+.ff-rr\@print{flex-flow:row-reverse}
+.ff-c\@print{flex-flow:column}
+.ff-cr\@print{flex-flow:column-reverse}
+.ff-n\@print{flex-flow:nowrap}
+.ff-w\@print{flex-flow:wrap}
+.ff-wr\@print{flex-flow:wrap-reverse}
+}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .atf-l\@md{animation-timing-function:linear}
 .atf-e\@md{animation-timing-function:ease}
 .atf-ei\@md{animation-timing-function:ease-in}

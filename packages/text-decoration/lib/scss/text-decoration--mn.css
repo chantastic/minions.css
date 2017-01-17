@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .td-u\@mn{text-decoration:underline}
 .td-o\@mn{text-decoration:overline}
 .td-n\@mn{text-decoration:none}

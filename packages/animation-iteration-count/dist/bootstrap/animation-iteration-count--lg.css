@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 992px) {
+@media screen and (min-width: 992px) {
 .atc-i\@lg{animation-iteration-count:infinite}
 .atc-1\@lg{animation-iteration-count:1}
 .atc-2\@lg{animation-iteration-count:2}

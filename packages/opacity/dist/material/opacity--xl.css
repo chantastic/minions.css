@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .o-1\@xl{opacity:1}
 .o-\.9\@xl{opacity:.9}
 .o-\.8\@xl{opacity:.8}

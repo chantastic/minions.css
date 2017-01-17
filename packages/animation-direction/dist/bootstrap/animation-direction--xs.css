@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {.ad-n\@xs{animation-direction:normal}
+@media screen and (min-width: 0px) {.ad-n\@xs{animation-direction:normal}
 .ad-r\@xs{animation-direction:reverse}
 .ad-a\@xs{animation-direction:alternate}
 .ad-ar\@xs{animation-direction:alternate-reverse}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 720px) {
+@media screen and (min-width: 720px) {
 .py-0\@md{padding-top:0;padding-bottom:0}
 .py-\.25e\@md{padding-top:.25em;padding-bottom:.25em}
 .py-\.5e\@md{padding-top:.5em;padding-bottom:.5em}

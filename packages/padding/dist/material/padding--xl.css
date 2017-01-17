@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .p-0\@xl{padding:0}
 .p-\.25e\@xl{padding:.25em}
 .p-\.5e\@xl{padding:.5em}

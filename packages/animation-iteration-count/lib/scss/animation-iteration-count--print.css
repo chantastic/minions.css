@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media screen and #{$print-query} {
+.atc-i\@print{animation-iteration-count:infinite}
+.atc-1\@print{animation-iteration-count:1}
+.atc-2\@print{animation-iteration-count:2}
+.atc-3\@print{animation-iteration-count:3}
+}

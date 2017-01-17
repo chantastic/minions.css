@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media print {
+.to-c\@print{text-overflow:clip}
+.to-e\@print{text-overflow:ellipsis}
+}

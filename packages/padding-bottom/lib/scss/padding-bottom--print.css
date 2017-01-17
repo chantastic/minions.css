@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media screen and #{$print-query} {
+.pb-0\@print{padding-bottom:0}
+.pb-\.25e\@print{padding-bottom:.25em}
+.pb-\.5e\@print{padding-bottom:.5em}
+.pb-1e\@print{padding-bottom:1em}
+.pb-2e\@print{padding-bottom:2em}
+.pb-3e\@print{padding-bottom:3em}
+.pb-4e\@print{padding-bottom:4em}
+.pb-\.25r\@print{padding-bottom:.25rem}
+.pb-\.5r\@print{padding-bottom:.5rem}
+.pb-1r\@print{padding-bottom:1rem}
+.pb-2r\@print{padding-bottom:2rem}
+.pb-3r\@print{padding-bottom:3rem}
+.pb-4r\@print{padding-bottom:4rem}
+}

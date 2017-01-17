@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .br-rx\@md{background-repeat:repeat-x}
 .br-ry\@md{background-repeat:repeat-y}
 .br-r\@md{background-repeat:repeat}

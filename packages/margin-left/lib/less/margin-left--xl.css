@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .ml-0\@xl{margin-left:0}
 .ml-\.25e\@xl{margin-left:.25em}
 .ml-\.5e\@xl{margin-left:.5em}

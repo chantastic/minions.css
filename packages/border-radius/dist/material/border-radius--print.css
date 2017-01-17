@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media print {
+.br-0\@print{border-radius:0}
+.br-1p\@print{border-radius:1px}
+.br-2p\@print{border-radius:2px}
+.br-3p\@print{border-radius:3px}
+.br-4p\@print{border-radius:4px}
+}

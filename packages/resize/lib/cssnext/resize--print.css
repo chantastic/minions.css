@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media screen and (--print-query) {
+.r-n\@print{resize:none}
+.r-b\@print{resize:both}
+.r-h\@print{resize:horizontal}
+.r-v\@print{resize:vertical}
+.r-b\@print{resize:block}
+.r-i\@print{resize:inline}
+}

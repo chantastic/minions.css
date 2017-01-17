@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media screen and @print-query {
+.v-h\@print{visibility:hidden}
+.v-v\@print{visibility:visible}
+}

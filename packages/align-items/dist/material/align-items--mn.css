@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .ai-b\@mn{align-items:baseline}
 .ai-c\@mn{align-items:center}
 .ai-fe\@mn{align-items:flex-end}

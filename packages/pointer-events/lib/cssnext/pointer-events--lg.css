@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--lg-query) {
+@media screen and (--lg-query) {
 .pe-n\@lg{pointer-events:none}
 .pe-vP\@lg{pointer-events:visiblePainted}
 .pe-vF\@lg{pointer-events:visibleFill}

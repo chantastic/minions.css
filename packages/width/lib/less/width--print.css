@@ -1,0 +1,21 @@
+/*!minions.css*/
+@media screen and @print-query {
+.w-a\@print{width:auto}
+.w-mc\@print{width:max-content}
+.w-nc\@print{width:min-content}
+.w-fc\@print{width:fit-content}
+.w-10\%\@print{width:10%}
+.w-20\%\@print{width:20%}
+.w-25\%\@print{width:25%}
+.w-30\%\@print{width:30%}
+.w-33\%\@print{width:33.3333%}
+.w-40\%\@print{width:40%}
+.w-50\%\@print{width:50%}
+.w-60\%\@print{width:60%}
+.w-66\%\@print{width:66.6666%}
+.w-70\%\@print{width:70%}
+.w-75\%\@print{width:75%}
+.w-80\%\@print{width:80%}
+.w-90\%\@print{width:90%}
+.w-100\%\@print{width:100%}
+}

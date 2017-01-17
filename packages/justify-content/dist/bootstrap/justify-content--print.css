@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media print {
+.jc-c\@print{justify-content:center}
+.jc-fe\@print{justify-content:flex-end}
+.jc-fs\@print{justify-content:flex-start}
+.jc-sb\@print{justify-content:space-between}
+.jc-sa\@print{justify-content:space-around}
+}

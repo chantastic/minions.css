@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .c-a\@mn{cursor:auto}
 .c-d\@mn{cursor:default}
 .c-n\@mn{cursor:none}

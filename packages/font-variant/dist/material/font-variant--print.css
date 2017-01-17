@@ -1,0 +1,4 @@
+/*!minions.css*/
+@media print {
+.fv-sc\@print{font-variant: small-caps}
+}

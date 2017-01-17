@@ -1,0 +1,21 @@
+/*!minions.css*/
+@media screen and @print-query {
+.h-a\@print{height:auto}
+.h-mc\@print{height:max-content}
+.h-nc\@print{height:min-content}
+.h-fc\@print{height:fit-content}
+.h-10\%\@print{height:10%}
+.h-20\%\@print{height:20%}
+.h-25\%\@print{height:25%}
+.h-30\%\@print{height:30%}
+.h-33\%\@print{height:33.3333%}
+.h-40\%\@print{height:40%}
+.h-50\%\@print{height:50%}
+.h-60\%\@print{height:60%}
+.h-66\%\@print{height:66.6666%}
+.h-70\%\@print{height:70%}
+.h-75\%\@print{height:75%}
+.h-80\%\@print{height:80%}
+.h-90\%\@print{height:90%}
+.h-100\%\@print{height:100%}
+}

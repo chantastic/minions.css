@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 992px) {
+@media screen and (min-width: 992px) {
 .t-0\@lg{top:0}
 .t-1p\@lg{top:1px}
 .t-2p\@lg{top:1px}

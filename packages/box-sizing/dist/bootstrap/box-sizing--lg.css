@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 992px) {
+@media screen and (min-width: 992px) {
 .bs-cb\@lg{box-sizing:content-box}
 .bs-bb\@lg{box-sizing:border-box}
 }

@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media screen and @print-query {
+.tt-c\@print{text-transform:capitalize}
+.tt-u\@print{text-transform:uppercase}
+.tt-l\@print{text-transform:lowercase}
+.tt-n\@print{text-transform:none}
+.tt-fw\@print{text-transform:full-width}
+.tt-i\@print{text-transform:initial}
+}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .lh-1\@mn{line-height:1}
 .lh-1\.25\@mn{line-height:1.25}
 .lh-1\.5\@mn{line-height:1.5}

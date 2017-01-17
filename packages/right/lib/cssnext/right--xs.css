@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xs-query) {
+@media screen and (--xs-query) {
 .r-0\@xs{right:0}
 .r-1p\@xs{right:1px}
 .r-2p\@xs{right:1px}

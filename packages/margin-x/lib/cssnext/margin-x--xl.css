@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .mx-0\@xl{margin-right:0;margin-left:0}
 .mx-\.25e\@xl{margin-right:.25em;margin-left:.25em}
 .mx-\.5e\@xl{margin-right:.5em;margin-left:.5em}

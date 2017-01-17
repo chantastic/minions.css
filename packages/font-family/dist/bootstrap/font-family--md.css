@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
 .ff-s\@md{font-family:serif}
 .ff-ss\@md{font-family:sans-serif}
 .ff-m\@md{font-family:monospace}

@@ -1,0 +1,11 @@
+/*!minions.css*/
+@media screen and (--print-query) {
+.lst-d\@print{list-style-type:disc}
+.lst-c\@print{list-style-type:circle}
+.lst-s\@print{list-style-type:square}
+.lst-l\@print{list-style-type:decimal}
+.lst-g\@print{list-style-type:georgian}
+.lst-ci\@print{list-style-type:cjk-ideographic}
+.lst-k\@print{list-style-type:kannada}
+.lst-n\@print{list-style-type:none}
+}

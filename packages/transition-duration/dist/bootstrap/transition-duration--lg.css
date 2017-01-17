@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 992px) {
+@media screen and (min-width: 992px) {
 .td-1s\@lg{transition-duration:1s}
 .td-\.9s\@lg{transition-duration:.9s}
 .td-\.8s\@lg{transition-duration:.8s}

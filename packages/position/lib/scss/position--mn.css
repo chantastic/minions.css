@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .p-s\@mn{position:static}
 .p-r\@mn{position:relative}
 .p-a\@mn{position:absolute}

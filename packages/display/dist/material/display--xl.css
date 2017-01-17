@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .d-b\@xl{display:block}
 .d-i\@xl{display:inline}
 .d-ib\@xl{display:inline-block}

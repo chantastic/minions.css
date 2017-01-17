@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .va-l\@xl{vertical-align:baseline}
 .va-tt\@xl{vertical-align:text-top}
 .va-tb\@xl{vertical-align:text-bottom}

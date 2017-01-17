@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--mn-query) {
+@media screen and (--mn-query) {
 .to-c\@mn{text-overflow:clip}
 .to-e\@mn{text-overflow:ellipsis}
 }

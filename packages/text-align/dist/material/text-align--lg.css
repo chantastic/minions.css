@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 960px) {
+@media screen and (min-width: 960px) {
 .ta-c\@lg{text-align:center}
 .ta-j\@lg{text-align:justify}
 .ta-l\@lg{text-align:left}

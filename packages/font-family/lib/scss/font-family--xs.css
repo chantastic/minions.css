@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .ff-s\@xs{font-family:serif}
 .ff-ss\@xs{font-family:sans-serif}
 .ff-m\@xs{font-family:monospace}

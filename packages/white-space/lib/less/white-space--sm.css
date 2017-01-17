@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .ws-n\@sm{white-space: nowrap}
 .ws-p\@sm{white-space: pre}
 .ws-pw\@sm{white-space: pre-wrap}

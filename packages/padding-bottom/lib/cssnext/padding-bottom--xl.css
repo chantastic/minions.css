@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .pb-0\@xl{padding-bottom:0}
 .pb-\.25e\@xl{padding-bottom:.25em}
 .pb-\.5e\@xl{padding-bottom:.5em}

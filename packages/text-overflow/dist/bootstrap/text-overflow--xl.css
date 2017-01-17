@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .to-c\@xl{text-overflow:clip}
 .to-e\@xl{text-overflow:ellipsis}
 }

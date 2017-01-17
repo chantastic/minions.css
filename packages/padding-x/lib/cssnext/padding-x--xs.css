@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xs-query) {
+@media screen and (--xs-query) {
 .px-0\@xs{padding-right:0;padding-left:0}
 .px-\.25e\@xs{padding-right:.25em;padding-left:.25em}
 .px-\.5e\@xs{padding-right:.5em;padding-left:.5em}

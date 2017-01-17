@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--mn-query) {
+@media screen and (--mn-query) {
 .as-b\@mn{align-self:baseline}
 .as-c\@mn{align-self:center}
 .as-fe\@mn{align-self:flex-end}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 960px) {
+@media screen and (min-width: 960px) {
 .bc-bb\@lg{background-clip:border-box}
 .bc-pb\@lg{background-clip:padding-box}
 .bc-cb\@lg{background-clip:content-box}

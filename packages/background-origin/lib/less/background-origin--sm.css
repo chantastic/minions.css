@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .bo-bb\@sm{background-origin:border-box}
 .bo-pb\@sm{background-origin:padding-box}
 .bo-cb\@sm{background-origin:content-box}

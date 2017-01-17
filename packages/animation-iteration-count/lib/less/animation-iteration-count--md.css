@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .atc-i\@md{animation-iteration-count:infinite}
 .atc-1\@md{animation-iteration-count:1}
 .atc-2\@md{animation-iteration-count:2}

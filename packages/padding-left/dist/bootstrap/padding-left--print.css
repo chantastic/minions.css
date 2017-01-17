@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media print {
+.pl-0\@print{padding-left:0}
+.pl-\.25e\@print{padding-left:.25em}
+.pl-\.5e\@print{padding-left:.5em}
+.pl-1e\@print{padding-left:1em}
+.pl-2e\@print{padding-left:2em}
+.pl-3e\@print{padding-left:3em}
+.pl-4e\@print{padding-left:4em}
+.pl-\.25r\@print{padding-left:.25rem}
+.pl-\.5r\@print{padding-left:.5rem}
+.pl-1r\@print{padding-left:1rem}
+.pl-2r\@print{padding-left:2rem}
+.pl-3r\@print{padding-left:3rem}
+.pl-4r\@print{padding-left:4rem}
+}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .l-0\@xs{left:0}
 .l-1p\@xs{left:1px}
 .l-2p\@xs{left:1px}

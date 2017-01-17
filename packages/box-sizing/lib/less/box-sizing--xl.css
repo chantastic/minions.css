@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .bs-cb\@xl{box-sizing:content-box}
 .bs-bb\@xl{box-sizing:border-box}
 }

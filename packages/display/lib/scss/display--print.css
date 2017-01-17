@@ -1,0 +1,11 @@
+/*!minions.css*/
+@media screen and #{$print-query} {
+.d-b\@print{display:block}
+.d-i\@print{display:inline}
+.d-ib\@print{display:inline-block}
+.d-n\@print{display:none}
+.d-f\@print{display:flex}
+.d-t\@print{display:table}
+.d-tc\@print{display:table-cell}
+.d-tr\@print{display:table-row}
+}

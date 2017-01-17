@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--sm-query) {
+@media screen and (--sm-query) {
 .mr-0\@sm{margin-right:0}
 .mr-\.25e\@sm{margin-right:.25em}
 .mr-\.5e\@sm{margin-right:.5em}

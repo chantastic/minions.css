@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 600px) {
+@media screen and (min-width: 600px) {
 .os-a\@sm{outline-style:auto}
 .os-d\@sm{outline-style:dotted}
 .os-n\@sm{outline-style:none}

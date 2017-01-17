@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .fd-c\@sm{flex-direction:column}
 .fd-r\@sm{flex-direction:row}
 }

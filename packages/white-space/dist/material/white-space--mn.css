@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .ws-n\@mn{white-space: nowrap}
 .ws-p\@mn{white-space: pre}
 .ws-pw\@mn{white-space: pre-wrap}

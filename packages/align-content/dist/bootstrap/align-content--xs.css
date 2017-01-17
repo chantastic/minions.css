@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .ac-c\@xs{align-items:center}
 .ac-fe\@xs{align-items:flex-end}
 .ac-fs\@xs{align-items:flex-start}

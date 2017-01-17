@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
 .cc-a\@md{column-count:auto}
 .cc-1\@md{column-count:1}
 .cc-2\@md{column-count:2}

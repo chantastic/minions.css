@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 600px) {
+@media screen and (min-width: 600px) {
 .r-n\@sm{resize:none}
 .r-b\@sm{resize:both}
 .r-h\@sm{resize:horizontal}

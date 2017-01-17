@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .lst-d\@xl{list-style-type:disc}
 .lst-c\@xl{list-style-type:circle}
 .lst-s\@xl{list-style-type:square}

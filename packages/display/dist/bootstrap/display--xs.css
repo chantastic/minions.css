@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .d-b\@xs{display:block}
 .d-i\@xs{display:inline}
 .d-ib\@xs{display:inline-block}

@@ -1,4 +1,4 @@
 /*!minions.css*/
-@media (--md-query) {
+@media screen and (--md-query) {
 .fb-0\@md{flex-basis:0}
 }

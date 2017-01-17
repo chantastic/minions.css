@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .ti-0\@xl{text-indent:0}
 .ti-\.25e\@xl{text-indent:.25em}
 .ti-\.5e\@xl{text-indent:.5em}

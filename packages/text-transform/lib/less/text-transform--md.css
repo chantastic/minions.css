@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .tt-c\@md{text-transform:capitalize}
 .tt-u\@md{text-transform:uppercase}
 .tt-l\@md{text-transform:lowercase}

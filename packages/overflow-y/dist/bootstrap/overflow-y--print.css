@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media print {
+.oy-a\@print{overflow-y:auto}
+.oy-h\@print{overflow-y:hidden}
+.oy-s\@print{overflow-y:scroll}
+.oy-v\@print{overflow-y:visible}
+}

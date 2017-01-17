@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .ff-r\@mn{flex-flow:row}
 .ff-rr\@mn{flex-flow:row-reverse}
 .ff-c\@mn{flex-flow:column}

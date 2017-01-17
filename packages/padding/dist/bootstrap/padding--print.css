@@ -1,0 +1,16 @@
+/*!minions.css*/
+@media print {
+.p-0\@print{padding:0}
+.p-\.25e\@print{padding:.25em}
+.p-\.5e\@print{padding:.5em}
+.p-1e\@print{padding:1em}
+.p-2e\@print{padding:2em}
+.p-3e\@print{padding:3em}
+.p-4e\@print{padding:4em}
+.p-\.25r\@print{padding:.25rem}
+.p-\.5r\@print{padding:.5rem}
+.p-1r\@print{padding:1rem}
+.p-2r\@print{padding:2rem}
+.p-3r\@print{padding:3rem}
+.p-4r\@print{padding:4rem}
+}

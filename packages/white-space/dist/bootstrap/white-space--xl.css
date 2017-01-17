@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .ws-n\@xl{white-space: nowrap}
 .ws-p\@xl{white-space: pre}
 .ws-pw\@xl{white-space: pre-wrap}

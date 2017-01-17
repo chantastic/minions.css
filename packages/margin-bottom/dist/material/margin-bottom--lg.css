@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 960px) {
+@media screen and (min-width: 960px) {
 .mb-0\@lg{margin-bottom:0}
 .mb-\.25e\@lg{margin-bottom:.25em}
 .mb-\.5e\@lg{margin-bottom:.5em}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 600px) {
+@media screen and (min-width: 600px) {
 .fs-n\@sm{font-style:normal}
 .fs-i\@sm{font-style:italic}
 .fs-o\@sm{font-style:oblique}

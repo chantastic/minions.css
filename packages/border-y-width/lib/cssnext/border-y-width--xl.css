@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .byw-0,.byw-1p,.byw-2p,.byw-3p,.byw-4p\@xl{border-style:solid}
 .byw-0\@xl{border-top-width:0;border-bottom-width:0}
 .byw-1p\@xl{border-top-width:1px;border-bottom-width:1px}

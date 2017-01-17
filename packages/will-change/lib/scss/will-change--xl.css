@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .wc-a\@xl{will-change:auto}
 .wc-sp\@xl{will-change:scroll-position}
 .wc-c\@xl{will-change:contents}

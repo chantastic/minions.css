@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media print {
+.aps-r\@print{animation-play-state: running}
+.aps-p\@print{animation-play-state: paused}
+}

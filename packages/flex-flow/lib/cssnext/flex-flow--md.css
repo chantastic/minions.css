@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--md-query) {
+@media screen and (--md-query) {
 .ff-r\@md{flex-flow:row}
 .ff-rr\@md{flex-flow:row-reverse}
 .ff-c\@md{flex-flow:column}

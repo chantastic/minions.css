@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .v-h\@xl{visibility:hidden}
 .v-v\@xl{visibility:visible}
 }

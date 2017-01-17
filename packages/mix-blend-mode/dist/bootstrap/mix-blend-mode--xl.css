@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .mbm-c\@xl{mix-blend-mode:color}
 .mbm-cd\@xl{mix-blend-mode:color-dodge}
 .mbm-cb\@xl{mix-blend-mode:color-burn}

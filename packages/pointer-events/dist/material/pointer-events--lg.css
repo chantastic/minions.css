@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 960px) {
+@media screen and (min-width: 960px) {
 .pe-n\@lg{pointer-events:none}
 .pe-vP\@lg{pointer-events:visiblePainted}
 .pe-vF\@lg{pointer-events:visibleFill}

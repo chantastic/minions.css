@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 960px) {
+@media screen and (min-width: 960px) {
 .bxw-0\@lg{border-right-width:0;border-left-width:0}
 .bxw-1p\@lg{border-right-width:1px;border-left-width:1px}
 .bxw-2p\@lg{border-right-width:2px;border-left-width:2px}

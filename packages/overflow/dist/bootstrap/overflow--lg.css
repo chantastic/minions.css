@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 992px) {
+@media screen and (min-width: 992px) {
 .o-a\@lg{overflow:auto}
 .o-h\@lg{overflow:hidden}
 .o-s\@lg{overflow:scroll}

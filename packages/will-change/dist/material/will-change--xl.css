@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .wc-a\@xl{will-change:auto}
 .wc-sp\@xl{will-change:scroll-position}
 .wc-c\@xl{will-change:contents}

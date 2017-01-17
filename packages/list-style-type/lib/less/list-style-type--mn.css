@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .lst-d\@mn{list-style-type:disc}
 .lst-c\@mn{list-style-type:circle}
 .lst-s\@mn{list-style-type:square}

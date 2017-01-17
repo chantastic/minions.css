@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media print {
+.bs-cover\@print{background-size:cover}
+.bs-contain\@print{background-size:contain}
+.bs-a\@print{background-size:auto}
+}

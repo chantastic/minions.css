@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .td-u\@xl{text-decoration:underline}
 .td-o\@xl{text-decoration:overline}
 .td-n\@xl{text-decoration:none}

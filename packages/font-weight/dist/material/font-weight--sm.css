@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 600px) {
+@media screen and (min-width: 600px) {
 .fw-n\@sm{font-weight:normal}
 .fw-b\@sm{font-weight:bold}
 .fw-l\@sm{font-weight:lighter}

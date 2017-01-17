@@ -1,0 +1,13 @@
+/*!minions.css*/
+@media screen and #{$print-query} {
+.td-1s\@print{transition-duration:1s}
+.td-\.9s\@print{transition-duration:.9s}
+.td-\.8s\@print{transition-duration:.8s}
+.td-\.7s\@print{transition-duration:.7s}
+.td-\.6s\@print{transition-duration:.6s}
+.td-\.5s\@print{transition-duration:.5s}
+.td-\.4s\@print{transition-duration:.4s}
+.td-\.3s\@print{transition-duration:.3s}
+.td-\.2s\@print{transition-duration:.2s}
+.td-\.1s\@print{transition-duration:.1s}
+}

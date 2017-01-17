@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .bp-t\@md{background-position:top}
 .bp-b\@md{background-position:bottom}
 .bp-l\@md{background-position:left}

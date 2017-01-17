@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .pr-0\@xs{padding-right:0}
 .pr-\.25e\@xs{padding-right:.25em}
 .pr-\.5e\@xs{padding-right:.5em}

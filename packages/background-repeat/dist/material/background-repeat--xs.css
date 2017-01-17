@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 480px) {
+@media screen and (min-width: 480px) {
 .br-rx\@xs{background-repeat:repeat-x}
 .br-ry\@xs{background-repeat:repeat-y}
 .br-r\@xs{background-repeat:repeat}

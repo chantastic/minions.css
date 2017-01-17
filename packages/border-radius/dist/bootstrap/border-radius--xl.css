@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .br-0\@xl{border-radius:0}
 .br-1p\@xl{border-radius:1px}
 .br-2p\@xl{border-radius:2px}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 992px) {
+@media screen and (min-width: 992px) {
 .va-l\@lg{vertical-align:baseline}
 .va-tt\@lg{vertical-align:text-top}
 .va-tb\@lg{vertical-align:text-bottom}

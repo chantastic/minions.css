@@ -1,4 +1,4 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .fv-sc\@xl{font-variant: small-caps}
 }

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .o-1\@xs{opacity:1}
 .o-\.9\@xs{opacity:.9}
 .o-\.8\@xs{opacity:.8}

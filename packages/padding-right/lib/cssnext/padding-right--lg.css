@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--lg-query) {
+@media screen and (--lg-query) {
 .pr-0\@lg{padding-right:0}
 .pr-\.25e\@lg{padding-right:.25em}
 .pr-\.5e\@lg{padding-right:.5em}

@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media print {
+.ow-n\@print{overflow-wrap:normal}
+.ow-bw\@print{overflow-wrap:break-word}
+}

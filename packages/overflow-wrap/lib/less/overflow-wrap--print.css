@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media screen and @print-query {
+.ow-n\@print{overflow-wrap:normal}
+.ow-bw\@print{overflow-wrap:break-word}
+}

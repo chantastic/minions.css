@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .ow-n\@mn{overflow-wrap:normal}
 .ow-bw\@mn{overflow-wrap:break-word}
 }

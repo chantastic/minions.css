@@ -1,4 +1,4 @@
 /*!minions.css*/
-@media (--mn-query) {
+@media screen and (--mn-query) {
 .fv-sc\@mn{font-variant: small-caps}
 }

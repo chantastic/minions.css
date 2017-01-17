@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .pe-n\@xs{pointer-events:none}
 .pe-vP\@xs{pointer-events:visiblePainted}
 .pe-vF\@xs{pointer-events:visibleFill}

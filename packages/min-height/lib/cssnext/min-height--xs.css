@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xs-query) {
+@media screen and (--xs-query) {
 .nh-a\@xs{min-height:auto}
 .nh-xc\@xs{min-height:max-content}
 .nh-nc\@xs{min-height:min-content}

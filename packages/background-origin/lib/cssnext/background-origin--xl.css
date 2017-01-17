@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .bo-bb\@xl{background-origin:border-box}
 .bo-pb\@xl{background-origin:padding-box}
 .bo-cb\@xl{background-origin:content-box}

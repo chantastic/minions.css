@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .ttf-l\@xs{transition-timing-function:linear}
 .ttf-e\@xs{transition-timing-function:ease}
 .ttf-ei\@xs{transition-timing-function:ease-in}

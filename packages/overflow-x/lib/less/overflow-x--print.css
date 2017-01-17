@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media screen and @print-query {
+.ox-a\@print{overflow-x:auto}
+.ox-h\@print{overflow-x:hidden}
+.ox-s\@print{overflow-x:scroll}
+.ox-v\@print{overflow-x:visible}
+}

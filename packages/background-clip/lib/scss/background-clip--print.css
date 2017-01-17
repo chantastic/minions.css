@@ -1,0 +1,7 @@
+/*!minions.css*/
+@media screen and #{$print-query} {
+.bc-bb\@print{background-clip:border-box}
+.bc-pb\@print{background-clip:padding-box}
+.bc-cb\@print{background-clip:content-box}
+.bc-t\@print{background-clip:text}
+}

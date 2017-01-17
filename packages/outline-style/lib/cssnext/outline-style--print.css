@@ -1,0 +1,10 @@
+/*!minions.css*/
+@media screen and (--print-query) {
+.os-a\@print{outline-style:auto}
+.os-d\@print{outline-style:dotted}
+.os-n\@print{outline-style:none}
+.os-s\@print{outline-style:solid}
+.os-t\@print{outline-style:thin}
+.os-m\@print{outline-style:medium}
+.os-k\@print{outline-style:thick}
+}

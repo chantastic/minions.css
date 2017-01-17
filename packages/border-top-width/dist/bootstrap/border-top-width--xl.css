@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .btw-0,.btw-1p,.btw-2p,.btw-3p,.btw-4p\@xl{border-style:solid}
 .btw-0\@xl{border-top-width:0}
 .btw-1p\@xl{border-top-width:1px}

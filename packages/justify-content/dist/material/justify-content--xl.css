@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .jc-c\@xl{justify-content:center}
 .jc-fe\@xl{justify-content:flex-end}
 .jc-fs\@xl{justify-content:flex-start}

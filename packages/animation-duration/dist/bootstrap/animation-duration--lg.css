@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 992px) {
+@media screen and (min-width: 992px) {
 .ad-1s\@lg{animation-duration:1s}
 .ad-\.9s\@lg{animation-duration:.9s}
 .ad-\.8s\@lg{animation-duration:.8s}

@@ -1,4 +1,4 @@
 /*!minions.css*/
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
 .fv-sc\@md{font-variant: small-caps}
 }

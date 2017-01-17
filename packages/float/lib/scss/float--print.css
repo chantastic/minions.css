@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media screen and #{$print-query} {
+.f-l\@print{float:left}
+.f-n\@print{float:none}
+.f-r\@print{float:right}
+}

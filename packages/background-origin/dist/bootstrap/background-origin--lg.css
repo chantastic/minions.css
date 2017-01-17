@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 992px) {
+@media screen and (min-width: 992px) {
 .bo-bb\@lg{background-origin:border-box}
 .bo-pb\@lg{background-origin:padding-box}
 .bo-cb\@lg{background-origin:content-box}

@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media print {
+.ow-0,.ow-1p,.ow-2p,.ow-3p,.ow-4p\@print{outline-style:solid}
+.ow-0\@print{outline-width:0}
+.ow-1p\@print{outline-width:1px}
+.ow-2p\@print{outline-width:2px}
+.ow-3p\@print{outline-width:3px}
+.ow-4p\@print{outline-width:4px}
+}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--sm-query) {
+@media screen and (--sm-query) {
 .oy-a\@sm{overflow-y:auto}
 .oy-h\@sm{overflow-y:hidden}
 .oy-s\@sm{overflow-y:scroll}

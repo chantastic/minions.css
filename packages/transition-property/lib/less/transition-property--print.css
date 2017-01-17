@@ -1,0 +1,6 @@
+/*!minions.css*/
+@media screen and @print-query {
+.tp-a \@print{ transition-property: all }
+.tp-n \@print{ transition-property: none }
+.tp-o \@print{ transform-property: opacity }
+}

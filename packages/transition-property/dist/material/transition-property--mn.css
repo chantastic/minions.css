@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .tp-a \@mn{ transition-property: all }
 .tp-n \@mn{ transition-property: none }
 .tp-o \@mn{ transform-property: opacity }

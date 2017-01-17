@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media print {
+.bc-c\@print{border-collapse:collapse}
+.bc-s\@print{border-collapse:separate}
+}

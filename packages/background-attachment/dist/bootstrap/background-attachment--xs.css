@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .ba-s\@xs{background-attachment: scroll}
 .ba-f\@xs{background-attachment: fixed}
 .ba-l\@xs{background-attachment: local}

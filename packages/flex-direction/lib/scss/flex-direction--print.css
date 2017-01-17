@@ -1,0 +1,5 @@
+/*!minions.css*/
+@media screen and #{$print-query} {
+.fd-c\@print{flex-direction:column}
+.fd-r\@print{flex-direction:row}
+}

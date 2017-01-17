@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .r-n\@xl{resize:none}
 .r-b\@xl{resize:both}
 .r-h\@xl{resize:horizontal}

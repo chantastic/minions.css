@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .blw-0,.blw-1p,.blw-2p,.blw-3p,.blw-4p\@mn{border-style:solid}
 .blw-0\@mn{border-left-width:0}
 .blw-1p\@mn{border-left-width:1px}

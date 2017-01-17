@@ -1,0 +1,8 @@
+/*!minions.css*/
+@media screen and (--print-query) {
+.ai-b\@print{align-items:baseline}
+.ai-c\@print{align-items:center}
+.ai-fe\@print{align-items:flex-end}
+.ai-fs\@print{align-items:flex-start}
+.ai-s\@print{align-items:stretch}
+}

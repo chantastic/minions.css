@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .wb-n\@xl{word-break:normal} 
 .wb-ba\@xl{word-break:break-all}
 .wb-ka\@xl{word-break:keep-all}

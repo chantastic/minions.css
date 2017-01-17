@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .ta-c\@mn{text-align:center}
 .ta-j\@mn{text-align:justify}
 .ta-l\@mn{text-align:left}

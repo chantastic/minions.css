@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .f-1\@xl{flex:1}
 .f-2\@xl{flex:2}
 .f-3\@xl{flex:3}

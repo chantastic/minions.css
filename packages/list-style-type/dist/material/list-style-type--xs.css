@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 480px) {
+@media screen and (min-width: 480px) {
 .lst-d\@xs{list-style-type:disc}
 .lst-c\@xs{list-style-type:circle}
 .lst-s\@xs{list-style-type:square}

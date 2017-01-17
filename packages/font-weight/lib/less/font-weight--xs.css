@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .fw-n\@xs{font-weight:normal}
 .fw-b\@xs{font-weight:bold}
 .fw-l\@xs{font-weight:lighter}

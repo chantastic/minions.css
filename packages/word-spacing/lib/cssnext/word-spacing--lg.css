@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--lg-query) {
+@media screen and (--lg-query) {
 .ws-tracked\@lg{letter-spacing:.1}
 .ws-tight\@lg{letter-spacing:-.05em}
 .ws-wide\@lg{letter-spacing:.25em}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .zi-100\@xl{z-index:100}
 .zi-200\@xl{z-index:200}
 .zi-300\@xl{z-index:300}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media @xs-query {
+@media screen and @xs-query {
 .v-h\@mn{visibility:hidden}
 .v-v\@mn{visibility:visible}
 }

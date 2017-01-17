@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
 .c-n\@md{clear:none}
 .c-l\@md{clear:left}
 .c-r\@md{clear:right}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media #{$xs-query} {
+@media screen and #{$xs-query} {
 .ws-tracked\@xl{letter-spacing:.1}
 .ws-tight\@xl{letter-spacing:-.05em}
 .ws-wide\@xl{letter-spacing:.25em}

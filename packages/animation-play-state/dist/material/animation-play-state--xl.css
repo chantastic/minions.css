@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .aps-r\@xl{animation-play-state: running}
 .aps-p\@xl{animation-play-state: paused}
 }

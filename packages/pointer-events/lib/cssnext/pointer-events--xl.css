@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--xl-query) {
+@media screen and (--xl-query) {
 .pe-n\@xl{pointer-events:none}
 .pe-vP\@xl{pointer-events:visiblePainted}
 .pe-vF\@xl{pointer-events:visibleFill}

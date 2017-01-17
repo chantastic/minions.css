@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 0px) {
+@media screen and (min-width: 0px) {
 .ls-tracked\@xs{letter-spacing:.1}
 .ls-tight\@xs{letter-spacing:-.05em}
 .ls-wide\@xs{letter-spacing:.25em}

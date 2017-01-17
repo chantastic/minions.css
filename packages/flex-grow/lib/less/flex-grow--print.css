@@ -1,0 +1,9 @@
+/*!minions.css*/
+@media screen and @print-query {
+.fg-1\@print{flex-grow:1}
+.fg-2\@print{flex-grow:2}
+.fg-3\@print{flex-grow:3}
+.fg-4\@print{flex-grow:4}
+.fg-5\@print{flex-grow:5}
+.fg-6\@print{flex-grow:6}
+}

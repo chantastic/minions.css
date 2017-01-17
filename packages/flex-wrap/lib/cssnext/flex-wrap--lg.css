@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (--lg-query) {
+@media screen and (--lg-query) {
 .fw-n\@lg{flex-wrap:nowrap}
 .fw-w\@lg{flex-wrap:wrap}
 .fw-wr\@lg{flex-wrap:wrap-reverse}

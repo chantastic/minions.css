@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .fw-n\@xl{flex-wrap:nowrap}
 .fw-w\@xl{flex-wrap:wrap}
 .fw-wr\@xl{flex-wrap:wrap-reverse}

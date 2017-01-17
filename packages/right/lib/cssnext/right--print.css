@@ -1,0 +1,20 @@
+/*!minions.css*/
+@media screen and (--print-query) {
+.r-0\@print{right:0}
+.r-1p\@print{right:1px}
+.r-2p\@print{right:1px}
+.r-3p\@print{right:3px}
+.r-4p\@print{right:4px}
+.r-\.25\@print{right:.25em}
+.r-\.5\@print{right:.5em}
+.r-1\@print{right:1em}
+.r-2\@print{right:2em}
+.r-3\@print{right:3em}
+.r-4\@print{right:4em}
+.r-\.25r\@print{right:.25em}
+.r-\.5r\@print{right:.5em}
+.r-1r\@print{right:1em}
+.r-2r\@print{right:2em}
+.r-3r\@print{right:3em}
+.r-4r\@print{right:4em}
+}
