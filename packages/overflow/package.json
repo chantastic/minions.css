@@ -1,6 +1,6 @@
 {
   "name": "minions.overflow",
-  "version": "0.0.4-alpha-16",
+  "version": "0.0.4-beta-1",
   "description": "minions overflow classes",
   "main": "overflow.css",
   "style": "overflow.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.display",
-  "version": "0.0.4-alpha-16",
+  "version": "0.0.4-beta-1",
   "description": "minions display classes",
   "main": "display.css",
   "style": "display.css",
