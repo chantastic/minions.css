@@ -1,6 +1,6 @@
 {
   "name": "minions.background-size",
-  "version": "0.0.4-beta-3",
+  "version": "0.1.0",
   "description": "minions background-size classes",
   "main": "background-size.css",
   "style": "background-size.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.padding-y",
-  "version": "0.0.4-beta-3",
+  "version": "0.1.0",
   "description": "minions padding-y classes",
   "main": "padding-y.css",
   "style": "padding-y.css",

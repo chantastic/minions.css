@@ -1,6 +1,6 @@
 {
   "name": "minions.margin-left",
-  "version": "0.0.4-beta-3",
+  "version": "0.1.0",
   "description": "minions margin-left classes",
   "main": "margin-left.css",
   "style": "margin-left.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.font-weight",
-  "version": "0.0.4-beta-3",
+  "version": "0.1.0",
   "description": "minions font-weight classes",
   "main": "font-weight.css",
   "style": "font-weight.css",

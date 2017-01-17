@@ -1,6 +1,6 @@
 {
   "name": "minions.transition-delay",
-  "version": "0.0.4-beta-3",
+  "version": "0.1.0",
   "description": "minions transition-delay classes",
   "main": "transition-delay.css",
   "style": "transition-delay.css",

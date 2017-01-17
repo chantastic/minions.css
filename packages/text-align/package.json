@@ -1,6 +1,6 @@
 {
   "name": "minions.text-align",
-  "version": "0.0.4-beta-3",
+  "version": "0.1.0",
   "description": "minions text-align classes",
   "main": "text-align.css",
   "style": "text-align.css",

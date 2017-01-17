@@ -1,6 +1,6 @@
 {
   "name": "minions.background-origin",
-  "version": "0.0.4-beta-3",
+  "version": "0.1.0",
   "description": "minions background-origin classes",
   "main": "background-origin.css",
   "style": "background-origin.css",

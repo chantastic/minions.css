@@ -1,6 +1,6 @@
 {
   "name": "minions.animation-timing-function",
-  "version": "0.0.4-beta-3",
+  "version": "0.1.0",
   "description": "minions animation-timing-function classes",
   "main": "animation-timing-function.css",
   "style": "animation-timing-function.css",
