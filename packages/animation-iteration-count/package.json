@@ -1,6 +1,6 @@
 {
   "name": "minions.animation-iteration-count",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "minions animation-iteration-count classes",
   "main": "animation-iteration-count.css",
   "style": "animation-iteration-count.css",

@@ -1,6 +1,6 @@
 {
   "name": "minions.text-overflow",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "minions text-overflow classes",
   "main": "text-overflow.css",
   "style": "text-overflow.css",

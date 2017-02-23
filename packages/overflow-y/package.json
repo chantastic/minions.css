@@ -1,6 +1,6 @@
 {
   "name": "minions.overflow-y",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "minions overflow-y classes",
   "main": "overflow-y.css",
   "style": "overflow-y.css",

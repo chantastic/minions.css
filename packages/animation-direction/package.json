@@ -1,6 +1,6 @@
 {
   "name": "minions.animation-direction",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "minions animation-direction classes",
   "main": "animation-direction.css",
   "style": "animation-direction.css",
