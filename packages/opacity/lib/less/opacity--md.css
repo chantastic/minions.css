@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @md-query {
 .o-1\@md{opacity:1}
 .o-\.9\@md{opacity:.9}
 .o-\.8\@md{opacity:.8}

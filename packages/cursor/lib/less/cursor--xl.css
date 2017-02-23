@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @xl-query {
 .c-a\@xl{cursor:auto}
 .c-d\@xl{cursor:default}
 .c-n\@xl{cursor:none}

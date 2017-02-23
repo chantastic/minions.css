@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @md-query {
 .f-l\@md{float:left}
 .f-n\@md{float:none}
 .f-r\@md{float:right}

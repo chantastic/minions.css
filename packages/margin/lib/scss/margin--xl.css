@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$xl-query} {
 .m-0a\@xl{margin:0 auto}
 .m-0\@xl{margin:0}
 .m-\.25e\@xl{margin:.25em}

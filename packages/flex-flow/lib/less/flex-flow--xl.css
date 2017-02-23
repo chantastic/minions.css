@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @xl-query {
 .ff-r\@xl{flex-flow:row}
 .ff-rr\@xl{flex-flow:row-reverse}
 .ff-c\@xl{flex-flow:column}

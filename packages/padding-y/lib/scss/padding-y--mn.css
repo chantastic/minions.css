@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$mn-query} {
 .py-0\@mn{padding-top:0;padding-bottom:0}
 .py-\.25e\@mn{padding-top:.25em;padding-bottom:.25em}
 .py-\.5e\@mn{padding-top:.5em;padding-bottom:.5em}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$lg-query} {
 .cc-a\@lg{column-count:auto}
 .cc-1\@lg{column-count:1}
 .cc-2\@lg{column-count:2}

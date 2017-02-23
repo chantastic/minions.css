@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$xl-query} {
 .ow-0,.ow-1p,.ow-2p,.ow-3p,.ow-4p\@xl{outline-style:solid}
 .ow-0\@xl{outline-width:0}
 .ow-1p\@xl{outline-width:1px}

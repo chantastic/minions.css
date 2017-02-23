@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$lg-query} {
 .pb-0\@lg{padding-bottom:0}
 .pb-\.25e\@lg{padding-bottom:.25em}
 .pb-\.5e\@lg{padding-bottom:.5em}

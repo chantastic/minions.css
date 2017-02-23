@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$md-query} {
 .fw-n\@md{flex-wrap:nowrap}
 .fw-w\@md{flex-wrap:wrap}
 .fw-wr\@md{flex-wrap:wrap-reverse}

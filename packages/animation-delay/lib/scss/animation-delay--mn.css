@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$mn-query} {
 .ay-1s\@mn{animation-delay:1s}
 .ay-\.9s\@mn{animation-delay:.9s}
 .ay-\.8s\@mn{animation-delay:.8s}

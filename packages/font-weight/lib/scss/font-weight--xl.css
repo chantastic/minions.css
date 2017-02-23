@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$xl-query} {
 .fw-n\@xl{font-weight:normal}
 .fw-b\@xl{font-weight:bold}
 .fw-l\@xl{font-weight:lighter}

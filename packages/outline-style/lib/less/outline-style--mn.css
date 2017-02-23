@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @mn-query {
 .os-a\@mn{outline-style:auto}
 .os-d\@mn{outline-style:dotted}
 .os-n\@mn{outline-style:none}

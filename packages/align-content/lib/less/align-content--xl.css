@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @xl-query {
 .ac-c\@xl{align-items:center}
 .ac-fe\@xl{align-items:flex-end}
 .ac-fs\@xl{align-items:flex-start}
