@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @mn-query {
 .ti-0\@mn{text-indent:0}
 .ti-\.25e\@mn{text-indent:.25em}
 .ti-\.5e\@mn{text-indent:.5em}

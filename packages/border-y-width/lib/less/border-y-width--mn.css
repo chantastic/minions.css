@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @mn-query {
 .byw-0,.byw-1p,.byw-2p,.byw-3p,.byw-4p\@mn{border-style:solid}
 .byw-0\@mn{border-top-width:0;border-bottom-width:0}
 .byw-1p\@mn{border-top-width:1px;border-bottom-width:1px}

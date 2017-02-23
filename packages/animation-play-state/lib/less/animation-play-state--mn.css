@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @mn-query {
 .aps-r\@mn{animation-play-state: running}
 .aps-p\@mn{animation-play-state: paused}
 }

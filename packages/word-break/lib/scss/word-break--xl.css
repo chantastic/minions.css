@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$xl-query} {
 .wb-n\@xl{word-break:normal} 
 .wb-ba\@xl{word-break:break-all}
 .wb-ka\@xl{word-break:keep-all}

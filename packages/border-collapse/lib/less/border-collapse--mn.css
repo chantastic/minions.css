@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @mn-query {
 .bc-c\@mn{border-collapse:collapse}
 .bc-s\@mn{border-collapse:separate}
 }

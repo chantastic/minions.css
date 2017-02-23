@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @xl-query {
 .brw-0,.brw-1p,.brw-2p,.brw-3p,.brw-4p\@xl{border-style:solid}
 .brw-0\@xl{border-right-width:0}
 .brw-1p\@xl{border-right-width:1px}

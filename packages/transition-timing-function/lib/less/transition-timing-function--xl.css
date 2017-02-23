@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @xl-query {
 .ttf-l\@xl{transition-timing-function:linear}
 .ttf-e\@xl{transition-timing-function:ease}
 .ttf-ei\@xl{transition-timing-function:ease-in}

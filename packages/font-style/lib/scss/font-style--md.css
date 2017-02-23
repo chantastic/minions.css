@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$md-query} {
 .fs-n\@md{font-style:normal}
 .fs-i\@md{font-style:italic}
 .fs-o\@md{font-style:oblique}

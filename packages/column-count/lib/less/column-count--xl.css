@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @xl-query {
 .cc-a\@xl{column-count:auto}
 .cc-1\@xl{column-count:1}
 .cc-2\@xl{column-count:2}

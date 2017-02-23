@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @lg-query {
 .pt-0\@lg{padding-top:0}
 .pt-\.25e\@lg{padding-top:.25em}
 .pt-\.5e\@lg{padding-top:.5em}

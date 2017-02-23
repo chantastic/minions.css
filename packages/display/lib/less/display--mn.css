@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @mn-query {
 .d-b\@mn{display:block}
 .d-i\@mn{display:inline}
 .d-ib\@mn{display:inline-block}

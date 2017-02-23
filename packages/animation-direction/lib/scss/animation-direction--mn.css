@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {.ad-n\@mn{animation-direction:normal}
+@media screen and #{$mn-query} {.ad-n\@mn{animation-direction:normal}
 .ad-r\@mn{animation-direction:reverse}
 .ad-a\@mn{animation-direction:alternate}
 .ad-ar\@mn{animation-direction:alternate-reverse}

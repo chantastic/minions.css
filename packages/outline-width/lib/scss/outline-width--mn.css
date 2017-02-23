@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$mn-query} {
 .ow-0,.ow-1p,.ow-2p,.ow-3p,.ow-4p\@mn{outline-style:solid}
 .ow-0\@mn{outline-width:0}
 .ow-1p\@mn{outline-width:1px}

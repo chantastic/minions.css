@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @mn-query {
 .bs-a\@mn{border-style:auto}
 .bs-d\@mn{border-style:dotted}
 .bs-n\@mn{border-style:none}

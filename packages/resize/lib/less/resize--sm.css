@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @sm-query {
 .r-n\@sm{resize:none}
 .r-b\@sm{resize:both}
 .r-h\@sm{resize:horizontal}

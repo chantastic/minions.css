@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$sm-query} {
 .c-a\@sm{cursor:auto}
 .c-d\@sm{cursor:default}
 .c-n\@sm{cursor:none}

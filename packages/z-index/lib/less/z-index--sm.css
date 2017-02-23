@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @xs-query {
+@media screen and @sm-query {
 .zi-100\@sm{z-index:100}
 .zi-200\@sm{z-index:200}
 .zi-300\@sm{z-index:300}

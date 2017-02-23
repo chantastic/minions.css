@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$lg-query} {
 .b-0\@lg{bottom:0}
 .b-1p\@lg{bottom:1px}
 .b-2p\@lg{bottom:1px}

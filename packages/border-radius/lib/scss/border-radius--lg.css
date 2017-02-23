@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$lg-query} {
 .br-0\@lg{border-radius:0}
 .br-1p\@lg{border-radius:1px}
 .br-2p\@lg{border-radius:2px}

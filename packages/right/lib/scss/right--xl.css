@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$xl-query} {
 .r-0\@xl{right:0}
 .r-1p\@xl{right:1px}
 .r-2p\@xl{right:1px}

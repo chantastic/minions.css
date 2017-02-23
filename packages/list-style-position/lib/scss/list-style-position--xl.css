@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$xs-query} {
+@media screen and #{$xl-query} {
 .lsp-i\@xl{list-style-position:inside}
 .lsp-o\@xl{list-style-position:outside}
 }
