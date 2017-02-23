@@ -3,7 +3,7 @@ minions margin-right classes
 
 ## Module
 name: `minions.minions.margin-right`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `margin-right.css`  
 
 ## Installation

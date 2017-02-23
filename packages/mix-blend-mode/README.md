@@ -3,7 +3,7 @@ minions mix-blend-mode classes
 
 ## Module
 name: `minions.minions.mix-blend-mode`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `mix-blend-mode.css`  
 
 ## Installation

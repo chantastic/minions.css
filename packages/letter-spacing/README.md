@@ -3,7 +3,7 @@ minions letter-spacing classes
 
 ## Module
 name: `minions.minions.letter-spacing`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `letter-spacing.css`  
 
 ## Installation

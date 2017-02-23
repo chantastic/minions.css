@@ -3,7 +3,7 @@ minions padding-top classes
 
 ## Module
 name: `minions.minions.padding-top`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `padding-top.css`  
 
 ## Installation

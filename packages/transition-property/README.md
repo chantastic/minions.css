@@ -3,7 +3,7 @@ minions transition-property classes
 
 ## Module
 name: `minions.minions.transition-property`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `transition-property.css`  
 
 ## Installation

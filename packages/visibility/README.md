@@ -3,7 +3,7 @@ minions visibility classes
 
 ## Module
 name: `minions.minions.visibility`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `visibility.css`  
 
 ## Installation

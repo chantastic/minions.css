@@ -3,7 +3,7 @@ minions clear classes
 
 ## Module
 name: `minions.minions.clear`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `clear.css`  
 
 ## Installation

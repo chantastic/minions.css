@@ -3,7 +3,7 @@ minions padding-x classes
 
 ## Module
 name: `minions.minions.padding-x`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `padding-x.css`  
 
 ## Installation

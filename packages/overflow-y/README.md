@@ -3,7 +3,7 @@ minions overflow-y classes
 
 ## Module
 name: `minions.minions.overflow-y`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `overflow-y.css`  
 
 ## Installation

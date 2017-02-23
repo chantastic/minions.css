@@ -3,7 +3,7 @@ minions background-origin classes
 
 ## Module
 name: `minions.minions.background-origin`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `background-origin.css`  
 
 ## Installation

@@ -3,7 +3,7 @@ minions text-overflow classes
 
 ## Module
 name: `minions.minions.text-overflow`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `text-overflow.css`  
 
 ## Installation

@@ -3,7 +3,7 @@ minions flex-flow classes
 
 ## Module
 name: `minions.minions.flex-flow`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `flex-flow.css`  
 
 ## Installation

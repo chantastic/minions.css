@@ -3,7 +3,7 @@ minions align-items classes
 
 ## Module
 name: `minions.minions.align-items`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `align-items.css`  
 
 ## Installation

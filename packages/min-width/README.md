@@ -3,7 +3,7 @@ minions min-width classes
 
 ## Module
 name: `minions.minions.min-width`  
-version: `0.0.4-alpha-15`  
+version: `0.2.0`  
 main/style: `min-width.css`  
 
 ## Installation
