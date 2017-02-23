@@ -25,22 +25,22 @@ const writeLibVariants = (packageName, file, rootPath) => {
     },
     // @xs-query: ~"(min-width:320px)";
     less: {
-      "mn": "screen and @xs-query",
+      "mn": "screen and @mn-query",
       "xs": "screen and @xs-query",
-      "sm": "screen and @xs-query",
-      "md": "screen and @xs-query",
-      "lg": "screen and @xs-query",
-      "xl": "screen and @xs-query",
+      "sm": "screen and @sm-query",
+      "md": "screen and @md-query",
+      "lg": "screen and @lg-query",
+      "xl": "screen and @xl-query",
       "print": "screen and @print-query",
     },
     // $xs-query: "(min-width: 320px)";
     scss: {
-      "mn": "screen and #{$xs-query}",
+      "mn": "screen and #{$mn-query}",
       "xs": "screen and #{$xs-query}",
-      "sm": "screen and #{$xs-query}",
-      "md": "screen and #{$xs-query}",
-      "lg": "screen and #{$xs-query}",
-      "xl": "screen and #{$xs-query}",
+      "sm": "screen and #{$sm-query}",
+      "md": "screen and #{$md-query}",
+      "lg": "screen and #{$lg-query}",
+      "xl": "screen and #{$xl-query}",
       "print": "screen and #{$print-query}",
     },
   }
