@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .ac-c\@print{align-content:center}
 .ac-fe\@print{align-content:flex-end}
 .ac-fs\@print{align-content:flex-start}

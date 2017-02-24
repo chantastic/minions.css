@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .bbw-0,.bbw-1p,.bbw-2p,.bbw-3p,.bbw-4p\@print{border-style:solid}
 .bbw-0\@print{border-bottom-width:0}
 .bbw-1p\@print{border-bottom-width:1px}

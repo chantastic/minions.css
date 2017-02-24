@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .jc-c\@print{justify-content:center}
 .jc-fe\@print{justify-content:flex-end}
 .jc-fs\@print{justify-content:flex-start}

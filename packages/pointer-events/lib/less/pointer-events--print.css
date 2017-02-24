@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .pe-n\@print{pointer-events:none}
 .pe-vP\@print{pointer-events:visiblePainted}
 .pe-vF\@print{pointer-events:visibleFill}

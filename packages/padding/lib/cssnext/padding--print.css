@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .p-0\@print{padding:0}
 .p-\.25e\@print{padding:.25em}
 .p-\.5e\@print{padding:.5em}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .bo-bb\@print{background-origin:border-box}
 .bo-pb\@print{background-origin:padding-box}
 .bo-cb\@print{background-origin:content-box}

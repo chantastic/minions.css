@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .f-1\@print{flex:1}
 .f-2\@print{flex:2}
 .f-3\@print{flex:3}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .zi-100\@print{z-index:100}
 .zi-200\@print{z-index:200}
 .zi-300\@print{z-index:300}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .fw-n\@print{font-weight:normal}
 .fw-b\@print{font-weight:bold}
 .fw-l\@print{font-weight:lighter}

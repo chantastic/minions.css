@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .c-a\@print{cursor:auto}
 .c-d\@print{cursor:default}
 .c-n\@print{cursor:none}

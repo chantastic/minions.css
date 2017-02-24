@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .wc-a\@print{will-change:auto}
 .wc-sp\@print{will-change:scroll-position}
 .wc-c\@print{will-change:contents}

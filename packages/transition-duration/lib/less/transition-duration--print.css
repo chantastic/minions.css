@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .td-1s\@print{transition-duration:1s}
 .td-\.9s\@print{transition-duration:.9s}
 .td-\.8s\@print{transition-duration:.8s}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .xh-a\@print{max-height:auto}
 .xh-xc\@print{max-height:max-content}
 .xh-nc\@print{max-height:min-content}

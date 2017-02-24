@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .bs-cb\@print{box-sizing:content-box}
 .bs-bb\@print{box-sizing:border-box}
 }

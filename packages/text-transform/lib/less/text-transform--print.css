@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .tt-c\@print{text-transform:capitalize}
 .tt-u\@print{text-transform:uppercase}
 .tt-l\@print{text-transform:lowercase}

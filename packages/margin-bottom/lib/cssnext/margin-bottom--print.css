@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .mb-0\@print{margin-bottom:0}
 .mb-\.25e\@print{margin-bottom:.25em}
 .mb-\.5e\@print{margin-bottom:.5em}

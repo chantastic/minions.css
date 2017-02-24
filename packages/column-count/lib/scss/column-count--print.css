@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .cc-a\@print{column-count:auto}
 .cc-1\@print{column-count:1}
 .cc-2\@print{column-count:2}

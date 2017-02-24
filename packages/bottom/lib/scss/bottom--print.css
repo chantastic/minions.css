@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .b-0\@print{bottom:0}
 .b-1p\@print{bottom:1px}
 .b-2p\@print{bottom:1px}

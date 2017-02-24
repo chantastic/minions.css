@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .atf-l\@print{animation-timing-function:linear}
 .atf-e\@print{animation-timing-function:ease}
 .atf-ei\@print{animation-timing-function:ease-in}

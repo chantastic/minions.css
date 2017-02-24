@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .os-a\@print{outline-style:auto}
 .os-d\@print{outline-style:dotted}
 .os-n\@print{outline-style:none}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .l-0\@print{left:0}
 .l-1p\@print{left:1px}
 .l-2p\@print{left:1px}

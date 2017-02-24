@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .ls-tracked\@print{letter-spacing:.1}
 .ls-tight\@print{letter-spacing:-.05em}
 .ls-wide\@print{letter-spacing:.25em}

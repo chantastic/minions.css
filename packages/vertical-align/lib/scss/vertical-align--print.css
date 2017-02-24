@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .va-l\@print{vertical-align:baseline}
 .va-tt\@print{vertical-align:text-top}
 .va-tb\@print{vertical-align:text-bottom}

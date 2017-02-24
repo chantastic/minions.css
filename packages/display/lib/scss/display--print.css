@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .d-b\@print{display:block}
 .d-i\@print{display:inline}
 .d-ib\@print{display:inline-block}
