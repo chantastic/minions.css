@@ -21,7 +21,7 @@ const writeLibVariants = (packageName, file, rootPath) => {
       "md": "screen and (--md-query)",
       "lg": "screen and (--lg-query)",
       "xl": "screen and (--xl-query)",
-      "print": "screen and (--print-query)",
+      "print": "(--print-query)",
     },
     // @xs-query: ~"(min-width:320px)";
     less: {
@@ -31,7 +31,7 @@ const writeLibVariants = (packageName, file, rootPath) => {
       "md": "screen and @md-query",
       "lg": "screen and @lg-query",
       "xl": "screen and @xl-query",
-      "print": "screen and @print-query",
+      "print": "@print-query",
     },
     // $xs-query: "(min-width: 320px)";
     scss: {
@@ -41,7 +41,7 @@ const writeLibVariants = (packageName, file, rootPath) => {
       "md": "screen and #{$md-query}",
       "lg": "screen and #{$lg-query}",
       "xl": "screen and #{$xl-query}",
-      "print": "screen and #{$print-query}",
+      "print": "#{$print-query}",
     },
   }
 
