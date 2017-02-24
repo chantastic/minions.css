@@ -3,6 +3,7 @@
 .d-b\@print{display:block}
 .d-i\@print{display:inline}
 .d-ib\@print{display:inline-block}
+.d-if\@print{display:inline-flex}
 .d-n\@print{display:none}
 .d-f\@print{display:flex}
 .d-t\@print{display:table}
