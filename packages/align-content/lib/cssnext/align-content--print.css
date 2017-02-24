@@ -1,9 +1,9 @@
 /*!minions.css*/
 @media screen and (--print-query) {
-.ac-c\@print{align-items:center}
-.ac-fe\@print{align-items:flex-end}
-.ac-fs\@print{align-items:flex-start}
-.ac-s\@print{align-items:stretch}
-.ac-sb\@print{align-items:space-between}
-.ac-sa\@print{align-items:space-around}
+.ac-c\@print{align-content:center}
+.ac-fe\@print{align-content:flex-end}
+.ac-fs\@print{align-content:flex-start}
+.ac-s\@print{align-content:stretch}
+.ac-sb\@print{align-content:space-between}
+.ac-sa\@print{align-content:space-around}
 }

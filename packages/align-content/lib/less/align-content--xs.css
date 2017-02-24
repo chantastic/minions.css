@@ -1,9 +1,9 @@
 /*!minions.css*/
 @media screen and @xs-query {
-.ac-c\@xs{align-items:center}
-.ac-fe\@xs{align-items:flex-end}
-.ac-fs\@xs{align-items:flex-start}
-.ac-s\@xs{align-items:stretch}
-.ac-sb\@xs{align-items:space-between}
-.ac-sa\@xs{align-items:space-around}
+.ac-c\@xs{align-content:center}
+.ac-fe\@xs{align-content:flex-end}
+.ac-fs\@xs{align-content:flex-start}
+.ac-s\@xs{align-content:stretch}
+.ac-sb\@xs{align-content:space-between}
+.ac-sa\@xs{align-content:space-around}
 }

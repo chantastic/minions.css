@@ -1,7 +1,7 @@
 /*!minions.css*/
-.ac-c{align-items:center}
-.ac-fe{align-items:flex-end}
-.ac-fs{align-items:flex-start}
-.ac-s{align-items:stretch}
-.ac-sb{align-items:space-between}
-.ac-sa{align-items:space-around}
+.ac-c{align-content:center}
+.ac-fe{align-content:flex-end}
+.ac-fs{align-content:flex-start}
+.ac-s{align-content:stretch}
+.ac-sb{align-content:space-between}
+.ac-sa{align-content:space-around}
