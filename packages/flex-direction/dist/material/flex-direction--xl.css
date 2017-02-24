@@ -1,5 +1,7 @@
 /*!minions.css*/
 @media screen and (min-width: 1200px) {
 .fd-c\@xl{flex-direction:column}
+.fd-cr\@xl{flex-direction:column-reverse}
 .fd-r\@xl{flex-direction:row}
+.fd-rr\@xl{flex-direction:row-reverse}
 }

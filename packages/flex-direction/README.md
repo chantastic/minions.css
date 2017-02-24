@@ -21,7 +21,9 @@ browser:
 ```css
 /*! minions.css */
 .fd-c{flex-direction:column}
+.fd-cr{flex-direction:column-reverse}
 .fd-r{flex-direction:row}
+.fd-rr{flex-direction:row-reverse}
 
 ```
 
