@@ -1,6 +1,6 @@
 {
   "name": "minions.border-bottom-width",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "minions border-bottom-width classes",
   "main": "border-bottom-width.css",
   "style": "border-bottom-width.css",

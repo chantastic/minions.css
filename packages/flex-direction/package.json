@@ -1,6 +1,6 @@
 {
   "name": "minions.flex-direction",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "minions flex-direction classes",
   "main": "flex-direction.css",
   "style": "flex-direction.css",

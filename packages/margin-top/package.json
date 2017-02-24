@@ -1,6 +1,6 @@
 {
   "name": "minions.margin-top",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "minions margin-top classes",
   "main": "margin-top.css",
   "style": "margin-top.css",

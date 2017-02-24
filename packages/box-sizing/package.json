@@ -1,6 +1,6 @@
 {
   "name": "minions.box-sizing",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "minions box-sizing classes",
   "main": "box-sizing.css",
   "style": "box-sizing.css",

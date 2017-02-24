@@ -1,6 +1,6 @@
 {
   "name": "minions.padding-left",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "minions padding-left classes",
   "main": "padding-left.css",
   "style": "padding-left.css",
