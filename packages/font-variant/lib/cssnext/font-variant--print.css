@@ -1,4 +1,4 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .fv-sc\@print{font-variant: small-caps}
 }

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .byw-0,.byw-1p,.byw-2p,.byw-3p,.byw-4p\@print{border-style:solid}
 .byw-0\@print{border-top-width:0;border-bottom-width:0}
 .byw-1p\@print{border-top-width:1px;border-bottom-width:1px}

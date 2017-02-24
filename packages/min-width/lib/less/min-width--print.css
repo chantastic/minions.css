@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .nw-a\@print{min-width:auto}
 .nw-xc\@print{min-width:max-content}
 .nw-nc\@print{min-width:min-content}

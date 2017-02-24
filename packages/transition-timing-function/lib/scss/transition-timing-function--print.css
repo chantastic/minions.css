@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .ttf-l\@print{transition-timing-function:linear}
 .ttf-e\@print{transition-timing-function:ease}
 .ttf-ei\@print{transition-timing-function:ease-in}

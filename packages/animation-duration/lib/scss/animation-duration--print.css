@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .ad-1s\@print{animation-duration:1s}
 .ad-\.9s\@print{animation-duration:.9s}
 .ad-\.8s\@print{animation-duration:.8s}

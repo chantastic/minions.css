@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .ay-1s\@print{animation-delay:1s}
 .ay-\.9s\@print{animation-delay:.9s}
 .ay-\.8s\@print{animation-delay:.8s}

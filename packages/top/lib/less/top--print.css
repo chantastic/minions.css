@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .t-0\@print{top:0}
 .t-1p\@print{top:1px}
 .t-2p\@print{top:1px}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .aps-r\@print{animation-play-state: running}
 .aps-p\@print{animation-play-state: paused}
 }

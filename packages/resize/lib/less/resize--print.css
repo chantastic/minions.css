@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .r-n\@print{resize:none}
 .r-b\@print{resize:both}
 .r-h\@print{resize:horizontal}

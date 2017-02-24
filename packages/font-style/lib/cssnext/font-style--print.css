@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .fs-n\@print{font-style:normal}
 .fs-i\@print{font-style:italic}
 .fs-o\@print{font-style:oblique}

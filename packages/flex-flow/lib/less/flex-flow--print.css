@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .ff-r\@print{flex-flow:row}
 .ff-rr\@print{flex-flow:row-reverse}
 .ff-c\@print{flex-flow:column}

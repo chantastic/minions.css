@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .ws-n\@print{white-space: nowrap}
 .ws-p\@print{white-space: pre}
 .ws-pw\@print{white-space: pre-wrap}

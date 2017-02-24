@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .c-n\@print{clear:none}
 .c-l\@print{clear:left}
 .c-r\@print{clear:right}

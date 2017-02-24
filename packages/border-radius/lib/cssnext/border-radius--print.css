@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .br-0\@print{border-radius:0}
 .br-1p\@print{border-radius:1px}
 .br-2p\@print{border-radius:2px}

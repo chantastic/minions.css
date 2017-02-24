@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .to-c\@print{text-overflow:clip}
 .to-e\@print{text-overflow:ellipsis}
 }

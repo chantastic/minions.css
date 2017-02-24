@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .lst-d\@print{list-style-type:disc}
 .lst-c\@print{list-style-type:circle}
 .lst-s\@print{list-style-type:square}

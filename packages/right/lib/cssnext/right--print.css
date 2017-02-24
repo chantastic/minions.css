@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and (--print-query) {
+@media (--print-query) {
 .r-0\@print{right:0}
 .r-1p\@print{right:1px}
 .r-2p\@print{right:1px}

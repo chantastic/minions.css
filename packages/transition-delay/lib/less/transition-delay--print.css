@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and @print-query {
+@media @print-query {
 .ty-1s\@print{transition-delay:1s}
 .ty-\.9s\@print{transition-delay:.9s}
 .ty-\.8s\@print{transition-delay:.8s}

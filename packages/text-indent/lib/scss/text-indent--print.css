@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .ti-0\@print{text-indent:0}
 .ti-\.25e\@print{text-indent:.25em}
 .ti-\.5e\@print{text-indent:.5em}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .pr-0\@print{padding-right:0}
 .pr-\.25e\@print{padding-right:.25em}
 .pr-\.5e\@print{padding-right:.5em}

@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .lsp-i\@print{list-style-position:inside}
 .lsp-o\@print{list-style-position:outside}
 }

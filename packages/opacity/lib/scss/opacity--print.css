@@ -1,5 +1,5 @@
 /*!minions.css*/
-@media screen and #{$print-query} {
+@media #{$print-query} {
 .o-1\@print{opacity:1}
 .o-\.9\@print{opacity:.9}
 .o-\.8\@print{opacity:.8}
