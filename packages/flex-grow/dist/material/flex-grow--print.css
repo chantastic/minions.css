@@ -1,5 +1,6 @@
 /*!minions.css*/
 @media print {
+.fg-0\@print{flex-grow:0}
 .fg-1\@print{flex-grow:1}
 .fg-2\@print{flex-grow:2}
 .fg-3\@print{flex-grow:3}
