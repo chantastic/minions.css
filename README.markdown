@@ -74,10 +74,10 @@ Likewise specific properties get a character for each dash-delimited word.
     border-bottom-width = bbw
     border-left-width   = blw
 
-`x` and `y` have been added as aliases for `left & right` and `top & bottom`, respectively, for box-model properties.
+`x` and `y` have been added as aliases for `right & left` and `top & bottom`, respectively, for box-model properties.
 
-    border-left-width && border-right-width  = bxw
     border-top-width && border-bottom-width = byw
+    border-right-width && border-left-width = bxw
 
 #### Value shorthand
 
