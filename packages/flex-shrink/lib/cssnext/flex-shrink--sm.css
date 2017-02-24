@@ -1,5 +1,6 @@
 /*!minions.css*/
 @media screen and (--sm-query) {
+.fs-0\@sm{flex-shrink:0}
 .fs-1\@sm{flex-shrink:1}
 .fs-2\@sm{flex-shrink:2}
 .fs-3\@sm{flex-shrink:3}
