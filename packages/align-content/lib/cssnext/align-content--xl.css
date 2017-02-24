@@ -1,9 +1,9 @@
 /*!minions.css*/
 @media screen and (--xl-query) {
-.ac-c\@xl{align-items:center}
-.ac-fe\@xl{align-items:flex-end}
-.ac-fs\@xl{align-items:flex-start}
-.ac-s\@xl{align-items:stretch}
-.ac-sb\@xl{align-items:space-between}
-.ac-sa\@xl{align-items:space-around}
+.ac-c\@xl{align-content:center}
+.ac-fe\@xl{align-content:flex-end}
+.ac-fs\@xl{align-content:flex-start}
+.ac-s\@xl{align-content:stretch}
+.ac-sb\@xl{align-content:space-between}
+.ac-sa\@xl{align-content:space-around}
 }

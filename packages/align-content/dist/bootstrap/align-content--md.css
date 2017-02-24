@@ -1,9 +1,9 @@
 /*!minions.css*/
 @media screen and (min-width: 768px) {
-.ac-c\@md{align-items:center}
-.ac-fe\@md{align-items:flex-end}
-.ac-fs\@md{align-items:flex-start}
-.ac-s\@md{align-items:stretch}
-.ac-sb\@md{align-items:space-between}
-.ac-sa\@md{align-items:space-around}
+.ac-c\@md{align-content:center}
+.ac-fe\@md{align-content:flex-end}
+.ac-fs\@md{align-content:flex-start}
+.ac-s\@md{align-content:stretch}
+.ac-sb\@md{align-content:space-between}
+.ac-sa\@md{align-content:space-around}
 }
