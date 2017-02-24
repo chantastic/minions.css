@@ -23,6 +23,7 @@ browser:
 .d-b{display:block}
 .d-i{display:inline}
 .d-ib{display:inline-block}
+.d-if{display:inline-flex}
 .d-n{display:none}
 .d-f{display:flex}
 .d-t{display:table}

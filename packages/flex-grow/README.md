@@ -20,6 +20,7 @@ browser:
 ## Code
 ```css
 /*! minions.css */
+.fg-0{flex-grow:0}
 .fg-1{flex-grow:1}
 .fg-2{flex-grow:2}
 .fg-3{flex-grow:3}

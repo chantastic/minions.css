@@ -1,5 +1,7 @@
 /*!minions.css*/
 @media screen and @xl-query {
 .fd-c\@xl{flex-direction:column}
+.fd-cr\@xl{flex-direction:column-reverse}
 .fd-r\@xl{flex-direction:row}
+.fd-rr\@xl{flex-direction:row-reverse}
 }

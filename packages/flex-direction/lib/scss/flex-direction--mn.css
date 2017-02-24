@@ -1,5 +1,7 @@
 /*!minions.css*/
 @media screen and #{$mn-query} {
 .fd-c\@mn{flex-direction:column}
+.fd-cr\@mn{flex-direction:column-reverse}
 .fd-r\@mn{flex-direction:row}
+.fd-rr\@mn{flex-direction:row-reverse}
 }

@@ -1,5 +1,6 @@
 /*!minions.css*/
 @media screen and #{$md-query} {
+.fg-0\@md{flex-grow:0}
 .fg-1\@md{flex-grow:1}
 .fg-2\@md{flex-grow:2}
 .fg-3\@md{flex-grow:3}

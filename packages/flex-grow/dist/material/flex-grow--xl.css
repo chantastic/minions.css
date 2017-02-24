@@ -1,5 +1,6 @@
 /*!minions.css*/
 @media screen and (min-width: 1200px) {
+.fg-0\@xl{flex-grow:0}
 .fg-1\@xl{flex-grow:1}
 .fg-2\@xl{flex-grow:2}
 .fg-3\@xl{flex-grow:3}
