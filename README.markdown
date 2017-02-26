@@ -8,7 +8,7 @@ I've removed the aspirational documentation to prevent confusion.
 If for some reason your using this, you're likely on `v0.0.3` and it's very different.
 I recommend looking at the documentation for that tag.
 
-# What is this?
+# What is This?
 This library is the practice of a naming convention I've been working out for human readable, low-conlfict micro-class.
 
 I think that the naming conventions are solid.
@@ -17,29 +17,29 @@ So, the practice is repeatable, library on not.
 
 The library exists mostly to suss out shortcomings and areas of conflict.
 
-# A simple example
+# A Simple Example
 ```html
 <div class="p-1r bw-1p bc-cC mx-2r ff-sans">
   This element has 1rem of padding, a 1px border (set to currentColor), a top/bottom margin of 2rem, and the font-family is sans.
 </div>
 ```
 
-## prior art
+## Prior Art
 * [tachyons](http://tachyons.io/) - This is the first library I'd seen that went completely down the rabbit-hole of micro-classes with media-queries.
 * [gravitons](http://jxnblk.com/gravitons/) - Brent's projects are some of my favorite on the internet. Gravitons and [basscss](http://www.basscss.com/) make an elegant and minimal framework.
 
-### experimentation
+### Experimentation
 There are a few guiding principles that I find absent from those other libraries.
 This isn't a problem; they're not omissions.
 But I find in my work, with my team, I wanted a more literal translation between classname and rule.
 
-### guiding principles
+### Guiding Principles
 
-#### "guessable" class names (highly literal)
+#### "Guessable," highly Literal Class Names
 I want class names that are internally consistent and very literal.
 I want virtually 0 abstraction between a rule I'd type in CSS and a micro-class selector.
 
-#### whatever-first. mobile-first, wearable-first, mega-widescreen-first, toaster-first, who cares?
+#### Whatever-first: mobile, wearable, mega-widescreen, appliance, who cares?
 Support for legacy apps - "Mobile first" isn't possible in 10-year old app.
 It's already been "firsted."
 I want media-query classes that aren't opinionated about the starting line.
@@ -49,7 +49,7 @@ That's a great question.
 
 I've come to believe that the biggest problem with CSS is that you have to name selectors to do anything. People suck at naming things and only the best people go back to reconsider.
 
-This approach allows you to defer naming thing... maybe indefinitely.
+This approach allows you to defer naming thing…maybe indefinitely.
 
 ## Syntax
 `{property-shortand}-{value-shorthand}`
@@ -97,9 +97,9 @@ There is no additional abstraction between measurement values and class selector
     .5em = .5e
     .25em = .25e
 
-    1rem = 1e
-    .5rem = .5e
-    .25rem = .25e
+    1rem = 1r
+    .5rem = .5r
+    .25rem = .25r
 
 ### Conflicts
 There will be conflicts; I have two methods for resolving them.
@@ -132,8 +132,8 @@ There is only one number prefix.
 I'm avoiding the use of `-` to prevent confusion with OOCSS-style classes that use the `--` (double-dash) delimiter as a modifier.
 
 ```css
-.o-1  { order: 1 }
-.o-n1 { order: -1 }
+.order-1  { order: 1 }
+.order-n1 { order: -1 }
 ```
 
 #### Theming
@@ -285,18 +285,18 @@ p-2e   { padding: 2em }
 p-3e   { padding: 3em }
 
 /* rem */
-p-\.25r { padding: .25em }
-p-\.5r  { padding: .5em }
-p-1r   { padding: 1em }
-p-2r   { padding: 2em }
-p-3r   { padding: 3em }
+p-\.25r { padding: .25rem }
+p-\.5r  { padding: .5rem }
+p-1r   { padding: 1rem }
+p-2r   { padding: 2rem }
+p-3r   { padding: 3rem }
 ```
 
-## Coming eventually
+## Coming Eventually
 
 __THIS SECTION IS THE EXPERIMENTAL BIT THAT IS ONLY PARTIALLY IMPLEMENTED__
 
-### `_` delimiter
+### `_` Delimiter
 The `_` delimiter indicates that the selector enacts on all direct children, not the element the selector is on.
 
 ```html
@@ -308,7 +308,7 @@ The `_` delimiter indicates that the selector enacts on all direct children, not
 </div>
 ```
 
-### `!` suffix
+### `!` Suffix
 The `!` suffix forces a rule by appending `!important`.
 
 ```html
@@ -319,7 +319,7 @@ The `!` suffix forces a rule by appending `!important`.
 </ul>
 ```
 
-### `:h`, `:a` suffixes and others
+### `:h`, `:a` Suffixes and Others
 The `:h` and `:a` suffix can be applied to classes to apply their styles on browser events.
 
 ```html
@@ -329,7 +329,7 @@ The `:h` and `:a` suffix can be applied to classes to apply their styles on brow
 Any other pseudo classes and elements can be written this way as well, e.g.,
 `:fc`, `:lc`, `:b`, `:a`, `:n(even)` etc.
 
-### `^` selector
+### `^` Selector
 The `^` is a way for denoting an ancestor as the event target.
 It's like a look-back selector.
 
@@ -379,7 +379,7 @@ this library can support legacy apps with a "whatever-first" approach.
 @media not all and (max-width: 768px) {}
 ```
 
-#### Exact match (and)
+#### Exact Match (and)
 ```css
 @media (min-width: 768px) and (max-width: 991px) {
   .p-1r\@\=md {}
@@ -391,7 +391,7 @@ this library can support legacy apps with a "whatever-first" approach.
  */
 ```
 
-#### Exact exclude (or)
+#### Exact Exclude (or)
 ```css
 @media (max-width: 767px), (min-width: 992px){
   .p-1r@!=sm {}
