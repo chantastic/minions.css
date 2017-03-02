@@ -3,7 +3,7 @@ minions flex-wrap classes
 
 ## Module
 name: `minions.minions.flex-wrap`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `flex-wrap.css`  
 
 ## Installation

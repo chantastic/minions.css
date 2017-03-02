@@ -3,7 +3,7 @@ minions flex-basis classes
 
 ## Module
 name: `minions.minions.flex-basis`  
-version: `0.2.0`  
+version: `0.3.1`  
 main/style: `flex-basis.css`  
 
 ## Installation
@@ -20,7 +20,9 @@ browser:
 ## Code
 ```css
 /*! minions.css */
+.fb-a{flex-basis:auto}
 .fb-0{flex-basis:0}
+.fb-0\%{flex-basis:0%}
 
 ```
 

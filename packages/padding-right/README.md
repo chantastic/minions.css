@@ -3,7 +3,7 @@ minions padding-right classes
 
 ## Module
 name: `minions.minions.padding-right`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `padding-right.css`  
 
 ## Installation

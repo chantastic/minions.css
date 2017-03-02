@@ -3,7 +3,7 @@ minions word-break classes
 
 ## Module
 name: `minions.minions.word-break`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `word-break.css`  
 
 ## Installation

@@ -3,7 +3,7 @@ minions z-index classes
 
 ## Module
 name: `minions.minions.z-index`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `z-index.css`  
 
 ## Installation

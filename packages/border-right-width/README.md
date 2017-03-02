@@ -3,7 +3,7 @@ minions border-right-width classes
 
 ## Module
 name: `minions.minions.border-right-width`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `border-right-width.css`  
 
 ## Installation

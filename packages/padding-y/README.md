@@ -3,7 +3,7 @@ minions padding-y classes
 
 ## Module
 name: `minions.minions.padding-y`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `padding-y.css`  
 
 ## Installation

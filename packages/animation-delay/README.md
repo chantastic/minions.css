@@ -3,7 +3,7 @@ minions animation-delay classes
 
 ## Module
 name: `minions.minions.animation-delay`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `animation-delay.css`  
 
 ## Installation

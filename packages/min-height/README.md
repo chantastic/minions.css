@@ -3,7 +3,7 @@ minions min-height classes
 
 ## Module
 name: `minions.minions.min-height`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `min-height.css`  
 
 ## Installation

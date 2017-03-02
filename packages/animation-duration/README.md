@@ -3,7 +3,7 @@ minions animation-duration classes
 
 ## Module
 name: `minions.minions.animation-duration`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `animation-duration.css`  
 
 ## Installation

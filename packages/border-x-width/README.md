@@ -3,7 +3,7 @@ minions border-x-width classes
 
 ## Module
 name: `minions.minions.border-x-width`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `border-x-width.css`  
 
 ## Installation

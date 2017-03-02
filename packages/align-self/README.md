@@ -3,7 +3,7 @@ minions align-self classes
 
 ## Module
 name: `minions.minions.align-self`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `align-self.css`  
 
 ## Installation

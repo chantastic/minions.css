@@ -3,7 +3,7 @@ minions list-style-position classes
 
 ## Module
 name: `minions.minions.list-style-position`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `list-style-position.css`  
 
 ## Installation

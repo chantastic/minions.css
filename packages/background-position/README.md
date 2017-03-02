@@ -3,7 +3,7 @@ minions background-position classes
 
 ## Module
 name: `minions.minions.background-position`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `background-position.css`  
 
 ## Installation

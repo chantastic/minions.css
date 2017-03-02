@@ -3,7 +3,7 @@ minions white-space classes
 
 ## Module
 name: `minions.minions.white-space`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `white-space.css`  
 
 ## Installation

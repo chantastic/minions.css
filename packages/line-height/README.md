@@ -3,7 +3,7 @@ minions line-height classes
 
 ## Module
 name: `minions.minions.line-height`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `line-height.css`  
 
 ## Installation

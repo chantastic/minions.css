@@ -3,7 +3,7 @@ minions box-sizing classes
 
 ## Module
 name: `minions.minions.box-sizing`  
-version: `0.2.0`  
+version: `0.3.0`  
 main/style: `box-sizing.css`  
 
 ## Installation
