@@ -1,4 +1,5 @@
 /*!minions.css*/
 @media print {
+.fb-a\@print{flex-basis:auto}
 .fb-0\@print{flex-basis:0}
 }
