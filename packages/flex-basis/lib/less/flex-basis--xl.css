@@ -2,4 +2,5 @@
 @media screen and @xl-query {
 .fb-a\@xl{flex-basis:auto}
 .fb-0\@xl{flex-basis:0}
+.fb-0\%\@xl{flex-basis:0%}
 }

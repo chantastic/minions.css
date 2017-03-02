@@ -2,4 +2,5 @@
 @media @print-query {
 .fb-a\@print{flex-basis:auto}
 .fb-0\@print{flex-basis:0}
+.fb-0\%\@print{flex-basis:0%}
 }

@@ -2,4 +2,5 @@
 @media screen and (min-width: 960px) {
 .fb-a\@lg{flex-basis:auto}
 .fb-0\@lg{flex-basis:0}
+.fb-0\%\@lg{flex-basis:0%}
 }

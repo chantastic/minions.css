@@ -2,4 +2,5 @@
 @media screen and (--xs-query) {
 .fb-a\@xs{flex-basis:auto}
 .fb-0\@xs{flex-basis:0}
+.fb-0\%\@xs{flex-basis:0%}
 }
