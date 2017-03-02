@@ -1,4 +1,5 @@
 /*!minions.css*/
 @media screen and (min-width: 480px) {
+.fb-a\@xs{flex-basis:auto}
 .fb-0\@xs{flex-basis:0}
 }
